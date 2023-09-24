@@ -1,0 +1,761 @@
+id,Circuit,District,N,Pct,Fiscal_Year
+0,Grand Total,Total,64157,100.00%,2022
+1,DC Circuit,District of Columbia,312,0.50%,2022
+2,1st Circuit,Maine,180,0.30%,2022
+3,1st Circuit,Massachusetts,466,0.70%,2022
+4,1st Circuit,New Hampshire,180,0.30%,2022
+5,1st Circuit,Puerto Rico,815,1.30%,2022
+6,1st Circuit,Rhode Island,109,0.20%,2022
+7,2nd Circuit,Connecticut,335,0.50%,2022
+8,2nd Circuit,"New York, Eastern",695,1.10%,2022
+9,2nd Circuit,"New York, Northern",400,0.60%,2022
+10,2nd Circuit,"New York, Southern",1301,2.00%,2022
+11,2nd Circuit,"New York, Western",411,0.60%,2022
+12,2nd Circuit,Vermont,135,0.20%,2022
+13,3rd Circuit,Delaware,81,0.10%,2022
+14,3rd Circuit,New Jersey,641,1.00%,2022
+15,3rd Circuit,"Pennsylvania, Eastern",501,0.80%,2022
+16,3rd Circuit,"Pennsylvania, Middle",438,0.70%,2022
+17,3rd Circuit,"Pennsylvania, Western",634,1.00%,2022
+18,3rd Circuit,Virgin Islands,56,0.10%,2022
+19,4th Circuit,Maryland,579,0.90%,2022
+20,4th Circuit,"North Carolina, Eastern",761,1.20%,2022
+21,4th Circuit,"North Carolina, Middle",403,0.60%,2022
+22,4th Circuit,"North Carolina, Western",553,0.90%,2022
+23,4th Circuit,South Carolina,602,0.90%,2022
+24,4th Circuit,"Virginia, Eastern",919,1.40%,2022
+25,4th Circuit,"Virginia, Western",279,0.40%,2022
+26,4th Circuit,"West Virginia, Northern",323,0.50%,2022
+27,4th Circuit,"West Virginia, Southern",269,0.40%,2022
+28,5th Circuit,"Louisiana, Eastern",300,0.50%,2022
+29,5th Circuit,"Louisiana, Middle",103,0.20%,2022
+30,5th Circuit,"Louisiana, Western",319,0.50%,2022
+31,5th Circuit,"Mississippi, Northern",133,0.20%,2022
+32,5th Circuit,"Mississippi, Southern",324,0.50%,2022
+33,5th Circuit,"Texas, Eastern",674,1.10%,2022
+34,5th Circuit,"Texas, Northern",1652,2.60%,2022
+35,5th Circuit,"Texas, Southern",7279,11.30%,2022
+36,5th Circuit,"Texas, Western",6058,9.40%,2022
+37,6th Circuit,"Kentucky, Eastern",497,0.80%,2022
+38,6th Circuit,"Kentucky, Western",263,0.40%,2022
+39,6th Circuit,"Michigan, Eastern",719,1.10%,2022
+40,6th Circuit,"Michigan, Western",265,0.40%,2022
+41,6th Circuit,"Ohio, Northern",1141,1.80%,2022
+42,6th Circuit,"Ohio, Southern",583,0.90%,2022
+43,6th Circuit,"Tennessee, Eastern",754,1.20%,2022
+44,6th Circuit,"Tennessee, Middle",289,0.50%,2022
+45,6th Circuit,"Tennessee, Western",432,0.70%,2022
+46,7th Circuit,"Illinois, Central",279,0.40%,2022
+47,7th Circuit,"Illinois, Northern",621,1.00%,2022
+48,7th Circuit,"Illinois, Southern",261,0.40%,2022
+49,7th Circuit,"Indiana, Northern",327,0.50%,2022
+50,7th Circuit,"Indiana, Southern",515,0.80%,2022
+51,7th Circuit,"Wisconsin, Eastern",337,0.50%,2022
+52,7th Circuit,"Wisconsin, Western",143,0.20%,2022
+53,8th Circuit,"Arkansas, Eastern",555,0.90%,2022
+54,8th Circuit,"Arkansas, Western",219,0.30%,2022
+55,8th Circuit,"Iowa, Northern",333,0.50%,2022
+56,8th Circuit,"Iowa, Southern",454,0.70%,2022
+57,8th Circuit,Minnesota,325,0.50%,2022
+58,8th Circuit,"Missouri, Eastern",1032,1.60%,2022
+59,8th Circuit,"Missouri, Western",810,1.30%,2022
+60,8th Circuit,Nebraska,471,0.70%,2022
+61,8th Circuit,North Dakota,345,0.50%,2022
+62,8th Circuit,South Dakota,558,0.90%,2022
+63,9th Circuit,Alaska,140,0.20%,2022
+64,9th Circuit,Arizona,4454,6.90%,2022
+65,9th Circuit,"California, Central",1128,1.80%,2022
+66,9th Circuit,"California, Eastern",366,0.60%,2022
+67,9th Circuit,"California, Northern",378,0.60%,2022
+68,9th Circuit,"California, Southern",3476,5.40%,2022
+69,9th Circuit,Guam,26,0.00%,2022
+70,9th Circuit,Hawaii,140,0.20%,2022
+71,9th Circuit,Idaho,337,0.50%,2022
+72,9th Circuit,Montana,348,0.50%,2022
+73,9th Circuit,Nevada,387,0.60%,2022
+74,9th Circuit,Northern Mariana Islands,17,0.00%,2022
+75,9th Circuit,Oregon,378,0.60%,2022
+76,9th Circuit,"Washington, Eastern",213,0.30%,2022
+77,9th Circuit,"Washington, Western",374,0.60%,2022
+78,10th Circuit,Colorado,390,0.60%,2022
+79,10th Circuit,Kansas,371,0.60%,2022
+80,10th Circuit,New Mexico,2075,3.20%,2022
+81,10th Circuit,"Oklahoma, Eastern",179,0.30%,2022
+82,10th Circuit,"Oklahoma, Northern",439,0.70%,2022
+83,10th Circuit,"Oklahoma, Western",424,0.70%,2022
+84,10th Circuit,Utah,741,1.20%,2022
+85,10th Circuit,Wyoming,149,0.20%,2022
+86,11th Circuit,"Alabama, Middle",164,0.30%,2022
+87,11th Circuit,"Alabama, Northern",442,0.70%,2022
+88,11th Circuit,"Alabama, Southern",308,0.50%,2022
+89,11th Circuit,"Florida, Middle",1019,1.60%,2022
+90,11th Circuit,"Florida, Northern",266,0.40%,2022
+91,11th Circuit,"Florida, Southern",1718,2.70%,2022
+92,11th Circuit,"Georgia, Middle",453,0.70%,2022
+93,11th Circuit,"Georgia, Northern",609,0.90%,2022
+94,11th Circuit,"Georgia, Southern",500,0.80%,2022
+95,Grand Total,Total,"57,304",100.00%,2021
+96,DC Circuit,District of Columbia,254,0.40%,2021
+97,1st Circuit,Maine,199,0.30%,2021
+98,1st Circuit,Massachusetts,422,0.70%,2021
+99,1st Circuit,New Hampshire,197,0.30%,2021
+100,1st Circuit,Puerto Rico,887,1.50%,2021
+101,1st Circuit,Rhode Island,75,0.10%,2021
+102,2nd Circuit,Connecticut,302,0.50%,2021
+103,2nd Circuit,"New York, Eastern",499,0.90%,2021
+104,2nd Circuit,"New York, Northern",235,0.40%,2021
+105,2nd Circuit,"New York, Southern",947,1.70%,2021
+106,2nd Circuit,"New York, Western",322,0.60%,2021
+107,2nd Circuit,Vermont,124,0.20%,2021
+108,3rd Circuit,Delaware,52,0.10%,2021
+109,3rd Circuit,New Jersey,629,1.10%,2021
+110,3rd Circuit,"Pennsylvania, Eastern",446,0.80%,2021
+111,3rd Circuit,"Pennsylvania, Middle",310,0.50%,2021
+112,3rd Circuit,"Pennsylvania, Western",406,0.70%,2021
+113,3rd Circuit,Virgin Islands,56,0.10%,2021
+114,4th Circuit,Maryland,525,0.90%,2021
+115,4th Circuit,"North Carolina, Eastern",922,1.60%,2021
+116,4th Circuit,"North Carolina, Middle",365,0.60%,2021
+117,4th Circuit,"North Carolina, Western",502,0.90%,2021
+118,4th Circuit,South Carolina,532,0.90%,2021
+119,4th Circuit,"Virginia, Eastern",969,1.70%,2021
+120,4th Circuit,"Virginia, Western",239,0.40%,2021
+121,4th Circuit,"West Virginia, Northern",251,0.40%,2021
+122,4th Circuit,"West Virginia, Southern",219,0.40%,2021
+123,5th Circuit,"Louisiana, Eastern",205,0.40%,2021
+124,5th Circuit,"Louisiana, Middle",103,0.20%,2021
+125,5th Circuit,"Louisiana, Western",241,0.40%,2021
+126,5th Circuit,"Mississippi, Northern",87,0.20%,2021
+127,5th Circuit,"Mississippi, Southern",267,0.50%,2021
+128,5th Circuit,"Texas, Eastern",662,1.20%,2021
+129,5th Circuit,"Texas, Northern","1,549",2.70%,2021
+130,5th Circuit,"Texas, Southern","8,055",14.10%,2021
+131,5th Circuit,"Texas, Western","5,241",9.10%,2021
+132,6th Circuit,"Kentucky, Eastern",427,0.70%,2021
+133,6th Circuit,"Kentucky, Western",276,0.50%,2021
+134,6th Circuit,"Michigan, Eastern",489,0.90%,2021
+135,6th Circuit,"Michigan, Western",291,0.50%,2021
+136,6th Circuit,"Ohio, Northern",819,1.40%,2021
+137,6th Circuit,"Ohio, Southern",507,0.90%,2021
+138,6th Circuit,"Tennessee, Eastern",583,1.00%,2021
+139,6th Circuit,"Tennessee, Middle",254,0.40%,2021
+140,6th Circuit,"Tennessee, Western",363,0.60%,2021
+141,7th Circuit,"Illinois, Central",232,0.40%,2021
+142,7th Circuit,"Illinois, Northern",619,1.10%,2021
+143,7th Circuit,"Illinois, Southern",221,0.40%,2021
+144,7th Circuit,"Indiana, Northern",342,0.60%,2021
+145,7th Circuit,"Indiana, Southern",413,0.70%,2021
+146,7th Circuit,"Wisconsin, Eastern",263,0.50%,2021
+147,7th Circuit,"Wisconsin, Western",132,0.20%,2021
+148,8th Circuit,"Arkansas, Eastern",546,1.00%,2021
+149,8th Circuit,"Arkansas, Western",185,0.30%,2021
+150,8th Circuit,"Iowa, Northern",326,0.60%,2021
+151,8th Circuit,"Iowa, Southern",495,0.90%,2021
+152,8th Circuit,Minnesota,258,0.50%,2021
+153,8th Circuit,"Missouri, Eastern","1,065",1.90%,2021
+154,8th Circuit,"Missouri, Western",582,1.00%,2021
+155,8th Circuit,Nebraska,380,0.70%,2021
+156,8th Circuit,North Dakota,289,0.50%,2021
+157,8th Circuit,South Dakota,466,0.80%,2021
+158,9th Circuit,Alaska,148,0.30%,2021
+159,9th Circuit,Arizona,"4,370",7.60%,2021
+160,9th Circuit,"California, Central",876,1.50%,2021
+161,9th Circuit,"California, Eastern",282,0.50%,2021
+162,9th Circuit,"California, Northern",369,0.60%,2021
+163,9th Circuit,"California, Southern","2,927",5.10%,2021
+164,9th Circuit,Guam,37,0.10%,2021
+165,9th Circuit,Hawaii,168,0.30%,2021
+166,9th Circuit,Idaho,241,0.40%,2021
+167,9th Circuit,Montana,332,0.60%,2021
+168,9th Circuit,Nevada,299,0.50%,2021
+169,9th Circuit,Northern Mariana Islands,16,0.00%,2021
+170,9th Circuit,Oregon,391,0.70%,2021
+171,9th Circuit,"Washington, Eastern",199,0.30%,2021
+172,9th Circuit,"Washington, Western",358,0.60%,2021
+173,10th Circuit,Colorado,370,0.60%,2021
+174,10th Circuit,Kansas,420,0.70%,2021
+175,10th Circuit,New Mexico,"1,415",2.50%,2021
+176,10th Circuit,"Oklahoma, Eastern",89,0.20%,2021
+177,10th Circuit,"Oklahoma, Northern",328,0.60%,2021
+178,10th Circuit,"Oklahoma, Western",409,0.70%,2021
+179,10th Circuit,Utah,658,1.10%,2021
+180,10th Circuit,Wyoming,171,0.30%,2021
+181,11th Circuit,"Alabama, Middle",122,0.20%,2021
+182,11th Circuit,"Alabama, Northern",446,0.80%,2021
+183,11th Circuit,"Alabama, Southern",228,0.40%,2021
+184,11th Circuit,"Florida, Middle","1,066",1.90%,2021
+185,11th Circuit,"Florida, Northern",264,0.50%,2021
+186,11th Circuit,"Florida, Southern",813,1.40%,2021
+187,11th Circuit,"Georgia, Middle",386,0.70%,2021
+188,11th Circuit,"Georgia, Northern",544,0.90%,2021
+189,11th Circuit,"Georgia, Southern",443,0.80%,2021
+190,Grand Total,Total,"64,591",100.00%,2020
+191,DC Circuit,District of Columbia,272,0.40%,2020
+192,1st Circuit,Maine,118,0.20%,2020
+193,1st Circuit,Massachusetts,388,0.60%,2020
+194,1st Circuit,New Hampshire,200,0.30%,2020
+195,1st Circuit,Puerto Rico,925,1.40%,2020
+196,1st Circuit,Rhode Island,100,0.20%,2020
+197,2nd Circuit,Connecticut,353,0.50%,2020
+198,2nd Circuit,"New York, Eastern",364,0.60%,2020
+199,2nd Circuit,"New York, Northern",305,0.50%,2020
+200,2nd Circuit,"New York, Southern",935,1.40%,2020
+201,2nd Circuit,"New York, Western",350,0.50%,2020
+202,2nd Circuit,Vermont,155,0.20%,2020
+203,3rd Circuit,Delaware,89,0.10%,2020
+204,3rd Circuit,New Jersey,595,0.90%,2020
+205,3rd Circuit,"Pennsylvania, Eastern",493,0.80%,2020
+206,3rd Circuit,"Pennsylvania, Middle",360,0.60%,2020
+207,3rd Circuit,"Pennsylvania, Western",357,0.60%,2020
+208,3rd Circuit,Virgin Islands,37,0.10%,2020
+209,4th Circuit,Maryland,468,0.70%,2020
+210,4th Circuit,"North Carolina, Eastern",708,1.10%,2020
+211,4th Circuit,"North Carolina, Middle",404,0.60%,2020
+212,4th Circuit,"North Carolina, Western",512,0.80%,2020
+213,4th Circuit,South Carolina,575,0.90%,2020
+214,4th Circuit,"Virginia, Eastern",813,1.30%,2020
+215,4th Circuit,"Virginia, Western",286,0.40%,2020
+216,4th Circuit,"West Virginia, Northern",235,0.40%,2020
+217,4th Circuit,"West Virginia, Southern",264,0.40%,2020
+218,5th Circuit,"Louisiana, Eastern",184,0.30%,2020
+219,5th Circuit,"Louisiana, Middle",123,0.20%,2020
+220,5th Circuit,"Louisiana, Western",292,0.50%,2020
+221,5th Circuit,"Mississippi, Northern",136,0.20%,2020
+222,5th Circuit,"Mississippi, Southern",386,0.60%,2020
+223,5th Circuit,"Texas, Eastern",699,1.10%,2020
+224,5th Circuit,"Texas, Northern","1,380",2.10%,2020
+225,5th Circuit,"Texas, Southern","8,539",13.20%,2020
+226,5th Circuit,"Texas, Western","8,492",13.10%,2020
+227,6th Circuit,"Kentucky, Eastern",431,0.70%,2020
+228,6th Circuit,"Kentucky, Western",347,0.50%,2020
+229,6th Circuit,"Michigan, Eastern",533,0.80%,2020
+230,6th Circuit,"Michigan, Western",320,0.50%,2020
+231,6th Circuit,"Ohio, Northern",791,1.20%,2020
+232,6th Circuit,"Ohio, Southern",552,0.90%,2020
+233,6th Circuit,"Tennessee, Eastern",605,0.90%,2020
+234,6th Circuit,"Tennessee, Middle",235,0.40%,2020
+235,6th Circuit,"Tennessee, Western",342,0.50%,2020
+236,7th Circuit,"Illinois, Central",227,0.40%,2020
+237,7th Circuit,"Illinois, Northern",540,0.80%,2020
+238,7th Circuit,"Illinois, Southern",234,0.40%,2020
+239,7th Circuit,"Indiana, Northern",316,0.50%,2020
+240,7th Circuit,"Indiana, Southern",537,0.80%,2020
+241,7th Circuit,"Wisconsin, Eastern",265,0.40%,2020
+242,7th Circuit,"Wisconsin, Western",151,0.20%,2020
+243,8th Circuit,"Arkansas, Eastern",475,0.70%,2020
+244,8th Circuit,"Arkansas, Western",247,0.40%,2020
+245,8th Circuit,"Iowa, Northern",365,0.60%,2020
+246,8th Circuit,"Iowa, Southern",421,0.70%,2020
+247,8th Circuit,Minnesota,334,0.50%,2020
+248,8th Circuit,"Missouri, Eastern",925,1.40%,2020
+249,8th Circuit,"Missouri, Western",697,1.10%,2020
+250,8th Circuit,Nebraska,482,0.70%,2020
+251,8th Circuit,North Dakota,252,0.40%,2020
+252,8th Circuit,South Dakota,497,0.80%,2020
+253,9th Circuit,Alaska,108,0.20%,2020
+254,9th Circuit,Arizona,"4,565",7.10%,2020
+255,9th Circuit,"California, Central",918,1.40%,2020
+256,9th Circuit,"California, Eastern",408,0.60%,2020
+257,9th Circuit,"California, Northern",557,0.90%,2020
+258,9th Circuit,"California, Southern","3,498",5.40%,2020
+259,9th Circuit,Guam,42,0.10%,2020
+260,9th Circuit,Hawaii,124,0.20%,2020
+261,9th Circuit,Idaho,321,0.50%,2020
+262,9th Circuit,Montana,325,0.50%,2020
+263,9th Circuit,Nevada,293,0.50%,2020
+264,9th Circuit,Northern Mariana Islands,10,0.00%,2020
+265,9th Circuit,Oregon,364,0.60%,2020
+266,9th Circuit,"Washington, Eastern",238,0.40%,2020
+267,9th Circuit,"Washington, Western",269,0.40%,2020
+268,10th Circuit,Colorado,400,0.60%,2020
+269,10th Circuit,Kansas,311,0.50%,2020
+270,10th Circuit,New Mexico,"3,193",4.90%,2020
+271,10th Circuit,"Oklahoma, Eastern",105,0.20%,2020
+272,10th Circuit,"Oklahoma, Northern",241,0.40%,2020
+273,10th Circuit,"Oklahoma, Western",473,0.70%,2020
+274,10th Circuit,Utah,685,1.10%,2020
+275,10th Circuit,Wyoming,160,0.20%,2020
+276,11th Circuit,"Alabama, Middle",140,0.20%,2020
+277,11th Circuit,"Alabama, Northern",452,0.70%,2020
+278,11th Circuit,"Alabama, Southern",301,0.50%,2020
+279,11th Circuit,"Florida, Middle","1,222",1.90%,2020
+280,11th Circuit,"Florida, Northern",275,0.40%,2020
+281,11th Circuit,"Florida, Southern","1,326",2.10%,2020
+282,11th Circuit,"Georgia, Middle",355,0.50%,2020
+283,11th Circuit,"Georgia, Northern",491,0.80%,2020
+284,11th Circuit,"Georgia, Southern",408,0.60%,2020
+285,Grand Total,Total,"76,593",100.00%,2019
+286,DC Circuit,District of Columbia,331,0.40%,2019
+287,1st Circuit,Maine,162,0.20%,2019
+288,1st Circuit,Massachusetts,476,0.60%,2019
+289,1st Circuit,New Hampshire,196,0.30%,2019
+290,1st Circuit,Puerto Rico,"1,165",1.50%,2019
+291,1st Circuit,Rhode Island,135,0.20%,2019
+292,2nd Circuit,Connecticut,349,0.50%,2019
+293,2nd Circuit,"New York, Eastern",625,0.80%,2019
+294,2nd Circuit,"New York, Northern",392,0.50%,2019
+295,2nd Circuit,"New York, Southern","1,523",2.00%,2019
+296,2nd Circuit,"New York, Western",520,0.70%,2019
+297,2nd Circuit,Vermont,166,0.20%,2019
+298,3rd Circuit,Delaware,122,0.20%,2019
+299,3rd Circuit,New Jersey,620,0.80%,2019
+300,3rd Circuit,"Pennsylvania, Eastern",627,0.80%,2019
+301,3rd Circuit,"Pennsylvania, Middle",505,0.70%,2019
+302,3rd Circuit,"Pennsylvania, Western",383,0.50%,2019
+303,3rd Circuit,Virgin Islands,86,0.10%,2019
+304,4th Circuit,Maryland,776,1.00%,2019
+305,4th Circuit,"North Carolina, Eastern",877,1.10%,2019
+306,4th Circuit,"North Carolina, Middle",490,0.60%,2019
+307,4th Circuit,"North Carolina, Western",538,0.70%,2019
+308,4th Circuit,South Carolina,"1,058",1.40%,2019
+309,4th Circuit,"Virginia, Eastern","1,213",1.60%,2019
+310,4th Circuit,"Virginia, Western",243,0.30%,2019
+311,4th Circuit,"West Virginia, Northern",282,0.40%,2019
+312,4th Circuit,"West Virginia, Southern",315,0.40%,2019
+313,5th Circuit,"Louisiana, Eastern",294,0.40%,2019
+314,5th Circuit,"Louisiana, Middle",186,0.20%,2019
+315,5th Circuit,"Louisiana, Western",381,0.50%,2019
+316,5th Circuit,"Mississippi, Northern",189,0.20%,2019
+317,5th Circuit,"Mississippi, Southern",458,0.60%,2019
+318,5th Circuit,"Texas, Eastern",725,0.90%,2019
+319,5th Circuit,"Texas, Northern","1,556",2.00%,2019
+320,5th Circuit,"Texas, Southern","7,817",10.20%,2019
+321,5th Circuit,"Texas, Western","9,768",12.80%,2019
+322,6th Circuit,"Kentucky, Eastern",558,0.70%,2019
+323,6th Circuit,"Kentucky, Western",349,0.50%,2019
+324,6th Circuit,"Michigan, Eastern",883,1.20%,2019
+325,6th Circuit,"Michigan, Western",393,0.50%,2019
+326,6th Circuit,"Ohio, Northern",902,1.20%,2019
+327,6th Circuit,"Ohio, Southern",580,0.80%,2019
+328,6th Circuit,"Tennessee, Eastern",751,1.00%,2019
+329,6th Circuit,"Tennessee, Middle",324,0.40%,2019
+330,6th Circuit,"Tennessee, Western",606,0.80%,2019
+331,7th Circuit,"Illinois, Central",226,0.30%,2019
+332,7th Circuit,"Illinois, Northern",656,0.90%,2019
+333,7th Circuit,"Illinois, Southern",286,0.40%,2019
+334,7th Circuit,"Indiana, Northern",360,0.50%,2019
+335,7th Circuit,"Indiana, Southern",472,0.60%,2019
+336,7th Circuit,"Wisconsin, Eastern",269,0.40%,2019
+337,7th Circuit,"Wisconsin, Western",188,0.20%,2019
+338,8th Circuit,"Arkansas, Eastern",564,0.70%,2019
+339,8th Circuit,"Arkansas, Western",258,0.30%,2019
+340,8th Circuit,"Iowa, Northern",415,0.50%,2019
+341,8th Circuit,"Iowa, Southern",493,0.60%,2019
+342,8th Circuit,Minnesota,382,0.50%,2019
+343,8th Circuit,"Missouri, Eastern","1,192",1.60%,2019
+344,8th Circuit,"Missouri, Western",772,1.00%,2019
+345,8th Circuit,Nebraska,527,0.70%,2019
+346,8th Circuit,North Dakota,329,0.40%,2019
+347,8th Circuit,South Dakota,509,0.70%,2019
+348,9th Circuit,Alaska,193,0.30%,2019
+349,9th Circuit,Arizona,"5,609",7.30%,2019
+350,9th Circuit,"California, Central","1,142",1.50%,2019
+351,9th Circuit,"California, Eastern",512,0.70%,2019
+352,9th Circuit,"California, Northern",483,0.60%,2019
+353,9th Circuit,"California, Southern","4,091",5.30%,2019
+354,9th Circuit,Guam,49,0.10%,2019
+355,9th Circuit,Hawaii,154,0.20%,2019
+356,9th Circuit,Idaho,372,0.50%,2019
+357,9th Circuit,Montana,385,0.50%,2019
+358,9th Circuit,Nevada,483,0.60%,2019
+359,9th Circuit,Northern Mariana Islands,11,0.00%,2019
+360,9th Circuit,Oregon,476,0.60%,2019
+361,9th Circuit,"Washington, Eastern",359,0.50%,2019
+362,9th Circuit,"Washington, Western",466,0.60%,2019
+363,10th Circuit,Colorado,529,0.70%,2019
+364,10th Circuit,Kansas,465,0.60%,2019
+365,10th Circuit,New Mexico,"3,956",5.20%,2019
+366,10th Circuit,"Oklahoma, Eastern",101,0.10%,2019
+367,10th Circuit,"Oklahoma, Northern",217,0.30%,2019
+368,10th Circuit,"Oklahoma, Western",407,0.50%,2019
+369,10th Circuit,Utah,674,0.90%,2019
+370,10th Circuit,Wyoming,182,0.20%,2019
+371,11th Circuit,"Alabama, Middle",260,0.30%,2019
+372,11th Circuit,"Alabama, Northern",547,0.70%,2019
+373,11th Circuit,"Alabama, Southern",376,0.50%,2019
+374,11th Circuit,"Florida, Middle","1,595",2.10%,2019
+375,11th Circuit,"Florida, Northern",309,0.40%,2019
+376,11th Circuit,"Florida, Southern","1,987",2.60%,2019
+377,11th Circuit,"Georgia, Middle",420,0.50%,2019
+378,11th Circuit,"Georgia, Northern",516,0.70%,2019
+379,11th Circuit,"Georgia, Southern",474,0.60%,2019
+380,Grand Total,Total,"69,470",100.00%,2018
+381,DC Circuit,District of Columbia,219,0.30%,2018
+382,1st Circuit,Maine,178,0.30%,2018
+383,1st Circuit,Massachusetts,530,0.80%,2018
+384,1st Circuit,New Hampshire,184,0.30%,2018
+385,1st Circuit,Puerto Rico,760,1.10%,2018
+386,1st Circuit,Rhode Island,93,0.10%,2018
+387,2nd Circuit,Connecticut,322,0.50%,2018
+388,2nd Circuit,"New York, Eastern",665,1.00%,2018
+389,2nd Circuit,"New York, Northern",384,0.60%,2018
+390,2nd Circuit,"New York, Southern","1,464",2.10%,2018
+391,2nd Circuit,"New York, Western",503,0.70%,2018
+392,2nd Circuit,Vermont,160,0.20%,2018
+393,3rd Circuit,Delaware,77,0.10%,2018
+394,3rd Circuit,New Jersey,467,0.70%,2018
+395,3rd Circuit,"Pennsylvania, Eastern",640,0.90%,2018
+396,3rd Circuit,"Pennsylvania, Middle",471,0.70%,2018
+397,3rd Circuit,"Pennsylvania, Western",411,0.60%,2018
+398,3rd Circuit,Virgin Islands,57,0.10%,2018
+399,4th Circuit,Maryland,838,1.20%,2018
+400,4th Circuit,"North Carolina, Eastern",744,1.10%,2018
+401,4th Circuit,"North Carolina, Middle",403,0.60%,2018
+402,4th Circuit,"North Carolina, Western",566,0.80%,2018
+403,4th Circuit,South Carolina,966,1.40%,2018
+404,4th Circuit,"Virginia, Eastern","1,332",1.90%,2018
+405,4th Circuit,"Virginia, Western",238,0.30%,2018
+406,4th Circuit,"West Virginia, Northern",262,0.40%,2018
+407,4th Circuit,"West Virginia, Southern",239,0.30%,2018
+408,5th Circuit,"Louisiana, Eastern",275,0.40%,2018
+409,5th Circuit,"Louisiana, Middle",154,0.20%,2018
+410,5th Circuit,"Louisiana, Western",252,0.40%,2018
+411,5th Circuit,"Mississippi, Northern",173,0.20%,2018
+412,5th Circuit,"Mississippi, Southern",342,0.50%,2018
+413,5th Circuit,"Texas, Eastern",757,1.10%,2018
+414,5th Circuit,"Texas, Northern","1,484",2.10%,2018
+415,5th Circuit,"Texas, Southern","6,137",8.80%,2018
+416,5th Circuit,"Texas, Western","8,092",11.60%,2018
+417,6th Circuit,"Kentucky, Eastern",392,0.60%,2018
+418,6th Circuit,"Kentucky, Western",303,0.40%,2018
+419,6th Circuit,"Michigan, Eastern",934,1.30%,2018
+420,6th Circuit,"Michigan, Western",359,0.50%,2018
+421,6th Circuit,"Ohio, Northern",716,1.00%,2018
+422,6th Circuit,"Ohio, Southern",574,0.80%,2018
+423,6th Circuit,"Tennessee, Eastern",655,0.90%,2018
+424,6th Circuit,"Tennessee, Middle",321,0.50%,2018
+425,6th Circuit,"Tennessee, Western",445,0.60%,2018
+426,7th Circuit,"Illinois, Central",241,0.30%,2018
+427,7th Circuit,"Illinois, Northern",740,1.10%,2018
+428,7th Circuit,"Illinois, Southern",266,0.40%,2018
+429,7th Circuit,"Indiana, Northern",373,0.50%,2018
+430,7th Circuit,"Indiana, Southern",414,0.60%,2018
+431,7th Circuit,"Wisconsin, Eastern",252,0.40%,2018
+432,7th Circuit,"Wisconsin, Western",156,0.20%,2018
+433,8th Circuit,"Arkansas, Eastern",453,0.70%,2018
+434,8th Circuit,"Arkansas, Western",238,0.30%,2018
+435,8th Circuit,"Iowa, Northern",370,0.50%,2018
+436,8th Circuit,"Iowa, Southern",477,0.70%,2018
+437,8th Circuit,Minnesota,295,0.40%,2018
+438,8th Circuit,"Missouri, Eastern",847,1.20%,2018
+439,8th Circuit,"Missouri, Western",779,1.10%,2018
+440,8th Circuit,Nebraska,494,0.70%,2018
+441,8th Circuit,North Dakota,370,0.50%,2018
+442,8th Circuit,South Dakota,482,0.70%,2018
+443,9th Circuit,Alaska,197,0.30%,2018
+444,9th Circuit,Arizona,"4,648",6.70%,2018
+445,9th Circuit,"California, Central","1,110",1.60%,2018
+446,9th Circuit,"California, Eastern",480,0.70%,2018
+447,9th Circuit,"California, Northern",535,0.80%,2018
+448,9th Circuit,"California, Southern","3,890",5.60%,2018
+449,9th Circuit,Guam,44,0.10%,2018
+450,9th Circuit,Hawaii,153,0.20%,2018
+451,9th Circuit,Idaho,377,0.50%,2018
+452,9th Circuit,Montana,356,0.50%,2018
+453,9th Circuit,Nevada,458,0.70%,2018
+454,9th Circuit,Northern Mariana Islands,14,0.00%,2018
+455,9th Circuit,Oregon,421,0.60%,2018
+456,9th Circuit,"Washington, Eastern",345,0.50%,2018
+457,9th Circuit,"Washington, Western",507,0.70%,2018
+458,10th Circuit,Colorado,525,0.80%,2018
+459,10th Circuit,Kansas,486,0.70%,2018
+460,10th Circuit,New Mexico,"3,955",5.70%,2018
+461,10th Circuit,"Oklahoma, Eastern",96,0.10%,2018
+462,10th Circuit,"Oklahoma, Northern",195,0.30%,2018
+463,10th Circuit,"Oklahoma, Western",379,0.50%,2018
+464,10th Circuit,Utah,692,1.00%,2018
+465,10th Circuit,Wyoming,219,0.30%,2018
+466,11th Circuit,"Alabama, Middle",238,0.30%,2018
+467,11th Circuit,"Alabama, Northern",517,0.70%,2018
+468,11th Circuit,"Alabama, Southern",287,0.40%,2018
+469,11th Circuit,"Florida, Middle","1,545",2.20%,2018
+470,11th Circuit,"Florida, Northern",300,0.40%,2018
+471,11th Circuit,"Florida, Southern","2,252",3.20%,2018
+472,11th Circuit,"Georgia, Middle",429,0.60%,2018
+473,11th Circuit,"Georgia, Northern",573,0.80%,2018
+474,11th Circuit,"Georgia, Southern",462,0.70%,2018
+475,Grand Total,Total,"66,899",100.00%,2017
+476,DC Circuit,District of Columbia,232,0.30%,2017
+477,1st Circuit,Maine,197,0.30%,2017
+478,1st Circuit,Massachusetts,506,0.80%,2017
+479,1st Circuit,New Hampshire,213,0.30%,2017
+480,1st Circuit,Puerto Rico,980,1.50%,2017
+481,1st Circuit,Rhode Island,99,0.10%,2017
+482,2nd Circuit,Connecticut,345,0.50%,2017
+483,2nd Circuit,"New York, Eastern",739,1.10%,2017
+484,2nd Circuit,"New York, Northern",345,0.50%,2017
+485,2nd Circuit,"New York, Southern","1,468",2.20%,2017
+486,2nd Circuit,"New York, Western",455,0.70%,2017
+487,2nd Circuit,Vermont,178,0.30%,2017
+488,3rd Circuit,Delaware,84,0.10%,2017
+489,3rd Circuit,New Jersey,595,0.90%,2017
+490,3rd Circuit,"Pennsylvania, Eastern",678,1.00%,2017
+491,3rd Circuit,"Pennsylvania, Middle",406,0.60%,2017
+492,3rd Circuit,"Pennsylvania, Western",355,0.50%,2017
+493,3rd Circuit,Virgin Islands,74,0.10%,2017
+494,4th Circuit,Maryland,728,1.10%,2017
+495,4th Circuit,"North Carolina, Eastern",654,1.00%,2017
+496,4th Circuit,"North Carolina, Middle",407,0.60%,2017
+497,4th Circuit,"North Carolina, Western",555,0.80%,2017
+498,4th Circuit,South Carolina,712,1.10%,2017
+499,4th Circuit,"Virginia, Eastern","1,181",1.80%,2017
+500,4th Circuit,"Virginia, Western",276,0.40%,2017
+501,4th Circuit,"West Virginia, Northern",235,0.40%,2017
+502,4th Circuit,"West Virginia, Southern",221,0.30%,2017
+503,5th Circuit,"Louisiana, Eastern",357,0.50%,2017
+504,5th Circuit,"Louisiana, Middle",171,0.30%,2017
+505,5th Circuit,"Louisiana, Western",273,0.40%,2017
+506,5th Circuit,"Mississippi, Northern",158,0.20%,2017
+507,5th Circuit,"Mississippi, Southern",281,0.40%,2017
+508,5th Circuit,"Texas, Eastern",796,1.20%,2017
+509,5th Circuit,"Texas, Northern","1,430",2.10%,2017
+510,5th Circuit,"Texas, Southern","6,634",9.90%,2017
+511,5th Circuit,"Texas, Western","6,614",9.90%,2017
+512,6th Circuit,"Kentucky, Eastern",360,0.50%,2017
+513,6th Circuit,"Kentucky, Western",277,0.40%,2017
+514,6th Circuit,"Michigan, Eastern",864,1.30%,2017
+515,6th Circuit,"Michigan, Western",369,0.60%,2017
+516,6th Circuit,"Ohio, Northern",545,0.80%,2017
+517,6th Circuit,"Ohio, Southern",540,0.80%,2017
+518,6th Circuit,"Tennessee, Eastern",638,1.00%,2017
+519,6th Circuit,"Tennessee, Middle",269,0.40%,2017
+520,6th Circuit,"Tennessee, Western",385,0.60%,2017
+521,7th Circuit,"Illinois, Central",249,0.40%,2017
+522,7th Circuit,"Illinois, Northern",640,1.00%,2017
+523,7th Circuit,"Illinois, Southern",266,0.40%,2017
+524,7th Circuit,"Indiana, Northern",290,0.40%,2017
+525,7th Circuit,"Indiana, Southern",423,0.60%,2017
+526,7th Circuit,"Wisconsin, Eastern",304,0.50%,2017
+527,7th Circuit,"Wisconsin, Western",116,0.20%,2017
+528,8th Circuit,"Arkansas, Eastern",432,0.60%,2017
+529,8th Circuit,"Arkansas, Western",237,0.40%,2017
+530,8th Circuit,"Iowa, Northern",376,0.60%,2017
+531,8th Circuit,"Iowa, Southern",404,0.60%,2017
+532,8th Circuit,Minnesota,413,0.60%,2017
+533,8th Circuit,"Missouri, Eastern",670,1.00%,2017
+534,8th Circuit,"Missouri, Western",805,1.20%,2017
+535,8th Circuit,Nebraska,551,0.80%,2017
+536,8th Circuit,North Dakota,326,0.50%,2017
+537,8th Circuit,South Dakota,496,0.70%,2017
+538,9th Circuit,Alaska,179,0.30%,2017
+539,9th Circuit,Arizona,"5,448",8.10%,2017
+540,9th Circuit,"California, Central","1,020",1.50%,2017
+541,9th Circuit,"California, Eastern",521,0.80%,2017
+542,9th Circuit,"California, Northern",518,0.80%,2017
+543,9th Circuit,"California, Southern","2,887",4.30%,2017
+544,9th Circuit,Guam,55,0.10%,2017
+545,9th Circuit,Hawaii,128,0.20%,2017
+546,9th Circuit,Idaho,342,0.50%,2017
+547,9th Circuit,Montana,318,0.50%,2017
+548,9th Circuit,Nevada,485,0.70%,2017
+549,9th Circuit,Northern Mariana Islands,13,0.00%,2017
+550,9th Circuit,Oregon,413,0.60%,2017
+551,9th Circuit,"Washington, Eastern",338,0.50%,2017
+552,9th Circuit,"Washington, Western",463,0.70%,2017
+553,10th Circuit,Colorado,436,0.70%,2017
+554,10th Circuit,Kansas,585,0.90%,2017
+555,10th Circuit,New Mexico,"3,797",5.70%,2017
+556,10th Circuit,"Oklahoma, Eastern",107,0.20%,2017
+557,10th Circuit,"Oklahoma, Northern",168,0.30%,2017
+558,10th Circuit,"Oklahoma, Western",292,0.40%,2017
+559,10th Circuit,Utah,734,1.10%,2017
+560,10th Circuit,Wyoming,233,0.30%,2017
+561,11th Circuit,"Alabama, Middle",203,0.30%,2017
+562,11th Circuit,"Alabama, Northern",434,0.60%,2017
+563,11th Circuit,"Alabama, Southern",333,0.50%,2017
+564,11th Circuit,"Florida, Middle","1,520",2.30%,2017
+565,11th Circuit,"Florida, Northern",277,0.40%,2017
+566,11th Circuit,"Florida, Southern","2,365",3.50%,2017
+567,11th Circuit,"Georgia, Middle",466,0.70%,2017
+568,11th Circuit,"Georgia, Northern",530,0.80%,2017
+569,11th Circuit,"Georgia, Southern",414,0.60%,2017
+570,Grand Total,Total,"67,794",100.00%,2016
+571,DC Circuit,District of Columbia,255,0.40%,2016
+572,1st Circuit,Maine,202,0.30%,2016
+573,1st Circuit,Massachusetts,498,0.70%,2016
+574,1st Circuit,New Hampshire,177,0.30%,2016
+575,1st Circuit,Puerto Rico,"1,088",1.60%,2016
+576,1st Circuit,Rhode Island,90,0.10%,2016
+577,2nd Circuit,Connecticut,305,0.40%,2016
+578,2nd Circuit,"New York, Eastern",798,1.20%,2016
+579,2nd Circuit,"New York, Northern",319,0.50%,2016
+580,2nd Circuit,"New York, Southern","1,359",2.00%,2016
+581,2nd Circuit,"New York, Western",465,0.70%,2016
+582,2nd Circuit,Vermont,188,0.30%,2016
+583,3rd Circuit,Delaware,72,0.10%,2016
+584,3rd Circuit,New Jersey,671,1.00%,2016
+585,3rd Circuit,"Pennsylvania, Eastern",587,0.90%,2016
+586,3rd Circuit,"Pennsylvania, Middle",306,0.50%,2016
+587,3rd Circuit,"Pennsylvania, Western",404,0.60%,2016
+588,3rd Circuit,Virgin Islands,61,0.10%,2016
+589,4th Circuit,Maryland,732,1.10%,2016
+590,4th Circuit,"North Carolina, Eastern",651,1.00%,2016
+591,4th Circuit,"North Carolina, Middle",423,0.60%,2016
+592,4th Circuit,"North Carolina, Western",657,1.00%,2016
+593,4th Circuit,South Carolina,627,0.90%,2016
+594,4th Circuit,"Virginia, Eastern","1,416",2.10%,2016
+595,4th Circuit,"Virginia, Western",313,0.50%,2016
+596,4th Circuit,"West Virginia, Northern",310,0.50%,2016
+597,4th Circuit,"West Virginia, Southern",217,0.30%,2016
+598,5th Circuit,"Louisiana, Eastern",341,0.50%,2016
+599,5th Circuit,"Louisiana, Middle",163,0.20%,2016
+600,5th Circuit,"Louisiana, Western",253,0.40%,2016
+601,5th Circuit,"Mississippi, Northern",169,0.20%,2016
+602,5th Circuit,"Mississippi, Southern",238,0.40%,2016
+603,5th Circuit,"Texas, Eastern",827,1.20%,2016
+604,5th Circuit,"Texas, Northern","1,375",2.00%,2016
+605,5th Circuit,"Texas, Southern","6,480",9.60%,2016
+606,5th Circuit,"Texas, Western","6,228",9.20%,2016
+607,6th Circuit,"Kentucky, Eastern",439,0.60%,2016
+608,6th Circuit,"Kentucky, Western",332,0.50%,2016
+609,6th Circuit,"Michigan, Eastern",902,1.30%,2016
+610,6th Circuit,"Michigan, Western",330,0.50%,2016
+611,6th Circuit,"Ohio, Northern",585,0.90%,2016
+612,6th Circuit,"Ohio, Southern",502,0.70%,2016
+613,6th Circuit,"Tennessee, Eastern",748,1.10%,2016
+614,6th Circuit,"Tennessee, Middle",227,0.30%,2016
+615,6th Circuit,"Tennessee, Western",466,0.70%,2016
+616,7th Circuit,"Illinois, Central",259,0.40%,2016
+617,7th Circuit,"Illinois, Northern",640,0.90%,2016
+618,7th Circuit,"Illinois, Southern",317,0.50%,2016
+619,7th Circuit,"Indiana, Northern",300,0.40%,2016
+620,7th Circuit,"Indiana, Southern",330,0.50%,2016
+621,7th Circuit,"Wisconsin, Eastern",301,0.40%,2016
+622,7th Circuit,"Wisconsin, Western",125,0.20%,2016
+623,8th Circuit,"Arkansas, Eastern",378,0.60%,2016
+624,8th Circuit,"Arkansas, Western",253,0.40%,2016
+625,8th Circuit,"Iowa, Northern",348,0.50%,2016
+626,8th Circuit,"Iowa, Southern",353,0.50%,2016
+627,8th Circuit,Minnesota,494,0.70%,2016
+628,8th Circuit,"Missouri, Eastern",740,1.10%,2016
+629,8th Circuit,"Missouri, Western",835,1.20%,2016
+630,8th Circuit,Nebraska,542,0.80%,2016
+631,8th Circuit,North Dakota,362,0.50%,2016
+632,8th Circuit,South Dakota,440,0.60%,2016
+633,9th Circuit,Alaska,183,0.30%,2016
+634,9th Circuit,Arizona,"5,770",8.50%,2016
+635,9th Circuit,"California, Central",966,1.40%,2016
+636,9th Circuit,"California, Eastern",673,1.00%,2016
+637,9th Circuit,"California, Northern",465,0.70%,2016
+638,9th Circuit,"California, Southern","2,850",4.20%,2016
+639,9th Circuit,Guam,67,0.10%,2016
+640,9th Circuit,Hawaii,141,0.20%,2016
+641,9th Circuit,Idaho,259,0.40%,2016
+642,9th Circuit,Montana,321,0.50%,2016
+643,9th Circuit,Nevada,401,0.60%,2016
+644,9th Circuit,Northern Mariana Islands,22,0.00%,2016
+645,9th Circuit,Oregon,449,0.70%,2016
+646,9th Circuit,"Washington, Eastern",306,0.50%,2016
+647,9th Circuit,"Washington, Western",534,0.80%,2016
+648,10th Circuit,Colorado,483,0.70%,2016
+649,10th Circuit,Kansas,493,0.70%,2016
+650,10th Circuit,New Mexico,"4,992",7.40%,2016
+651,10th Circuit,"Oklahoma, Eastern",100,0.10%,2016
+652,10th Circuit,"Oklahoma, Northern",213,0.30%,2016
+653,10th Circuit,"Oklahoma, Western",330,0.50%,2016
+654,10th Circuit,Utah,684,1.00%,2016
+655,10th Circuit,Wyoming,216,0.30%,2016
+656,11th Circuit,"Alabama, Middle",157,0.20%,2016
+657,11th Circuit,"Alabama, Northern",362,0.50%,2016
+658,11th Circuit,"Alabama, Southern",318,0.50%,2016
+659,11th Circuit,"Florida, Middle","1,416",2.10%,2016
+660,11th Circuit,"Florida, Northern",262,0.40%,2016
+661,11th Circuit,"Florida, Southern","2,234",3.30%,2016
+662,11th Circuit,"Georgia, Middle",368,0.50%,2016
+663,11th Circuit,"Georgia, Northern",542,0.80%,2016
+664,11th Circuit,"Georgia, Southern",404,0.60%,2016
+665,Grand Total,Total,"71,030",100.00%,2015
+666,DC Circuit,District of Columbia,256,0.40%,2015
+667,1st Circuit,Maine,188,0.30%,2015
+668,1st Circuit,Massachusetts,527,0.70%,2015
+669,1st Circuit,New Hampshire,144,0.20%,2015
+670,1st Circuit,Puerto Rico,"1,477",2.10%,2015
+671,1st Circuit,Rhode Island,120,0.20%,2015
+672,2nd Circuit,Connecticut,335,0.50%,2015
+673,2nd Circuit,"New York, Eastern",796,1.10%,2015
+674,2nd Circuit,"New York, Northern",344,0.50%,2015
+675,2nd Circuit,"New York, Southern","1,649",2.30%,2015
+676,2nd Circuit,"New York, Western",519,0.70%,2015
+677,2nd Circuit,Vermont,179,0.30%,2015
+678,3rd Circuit,Delaware,90,0.10%,2015
+679,3rd Circuit,New Jersey,701,1.00%,2015
+680,3rd Circuit,"Pennsylvania, Eastern",719,1.00%,2015
+681,3rd Circuit,"Pennsylvania, Middle",382,0.50%,2015
+682,3rd Circuit,"Pennsylvania, Western",473,0.70%,2015
+683,3rd Circuit,Virgin Islands,60,0.10%,2015
+684,4th Circuit,Maryland,776,1.10%,2015
+685,4th Circuit,"North Carolina, Eastern",586,0.80%,2015
+686,4th Circuit,"North Carolina, Middle",509,0.70%,2015
+687,4th Circuit,"North Carolina, Western",693,1.00%,2015
+688,4th Circuit,South Carolina,643,0.90%,2015
+689,4th Circuit,"Virginia, Eastern","1,464",2.10%,2015
+690,4th Circuit,"Virginia, Western",376,0.50%,2015
+691,4th Circuit,"West Virginia, Northern",419,0.60%,2015
+692,4th Circuit,"West Virginia, Southern",283,0.40%,2015
+693,5th Circuit,"Louisiana, Eastern",391,0.60%,2015
+694,5th Circuit,"Louisiana, Middle",167,0.20%,2015
+695,5th Circuit,"Louisiana, Western",239,0.30%,2015
+696,5th Circuit,"Mississippi, Northern",158,0.20%,2015
+697,5th Circuit,"Mississippi, Southern",280,0.40%,2015
+698,5th Circuit,"Texas, Eastern","1,031",1.50%,2015
+699,5th Circuit,"Texas, Northern","1,375",1.90%,2015
+700,5th Circuit,"Texas, Southern","6,228",8.80%,2015
+701,5th Circuit,"Texas, Western","6,480",9.10%,2015
+702,6th Circuit,"Kentucky, Eastern",515,0.70%,2015
+703,6th Circuit,"Kentucky, Western",270,0.40%,2015
+704,6th Circuit,"Michigan, Eastern",849,1.20%,2015
+705,6th Circuit,"Michigan, Western",394,0.60%,2015
+706,6th Circuit,"Ohio, Northern",680,1.00%,2015
+707,6th Circuit,"Ohio, Southern",590,0.80%,2015
+708,6th Circuit,"Tennessee, Eastern",668,0.90%,2015
+709,6th Circuit,"Tennessee, Middle",272,0.40%,2015
+710,6th Circuit,"Tennessee, Western",489,0.70%,2015
+711,7th Circuit,"Illinois, Central",329,0.50%,2015
+712,7th Circuit,"Illinois, Northern",723,1.00%,2015
+713,7th Circuit,"Illinois, Southern",398,0.60%,2015
+714,7th Circuit,"Indiana, Northern",273,0.40%,2015
+715,7th Circuit,"Indiana, Southern",375,0.50%,2015
+716,7th Circuit,"Wisconsin, Eastern",257,0.40%,2015
+717,7th Circuit,"Wisconsin, Western",119,0.20%,2015
+718,8th Circuit,"Arkansas, Eastern",354,0.50%,2015
+719,8th Circuit,"Arkansas, Western",277,0.40%,2015
+720,8th Circuit,"Iowa, Northern",361,0.50%,2015
+721,8th Circuit,"Iowa, Southern",309,0.40%,2015
+722,8th Circuit,Minnesota,377,0.50%,2015
+723,8th Circuit,"Missouri, Eastern",554,0.80%,2015
+724,8th Circuit,"Missouri, Western",897,1.30%,2015
+725,8th Circuit,Nebraska,590,0.80%,2015
+726,8th Circuit,North Dakota,426,0.60%,2015
+727,8th Circuit,South Dakota,436,0.60%,2015
+728,9th Circuit,Alaska,165,0.20%,2015
+729,9th Circuit,Arizona,"6,152",8.70%,2015
+730,9th Circuit,"California, Central","1,078",1.50%,2015
+731,9th Circuit,"California, Eastern",734,1.00%,2015
+732,9th Circuit,"California, Northern",568,0.80%,2015
+733,9th Circuit,"California, Southern","3,391",4.80%,2015
+734,9th Circuit,Guam,91,0.10%,2015
+735,9th Circuit,Hawaii,239,0.30%,2015
+736,9th Circuit,Idaho,264,0.40%,2015
+737,9th Circuit,Montana,363,0.50%,2015
+738,9th Circuit,Nevada,552,0.80%,2015
+739,9th Circuit,Northern Mariana Islands,13,0.00%,2015
+740,9th Circuit,Oregon,581,0.80%,2015
+741,9th Circuit,"Washington, Eastern",381,0.50%,2015
+742,9th Circuit,"Washington, Western",509,0.70%,2015
+743,10th Circuit,Colorado,436,0.60%,2015
+744,10th Circuit,Kansas,596,0.80%,2015
+745,10th Circuit,New Mexico,"4,440",6.30%,2015
+746,10th Circuit,"Oklahoma, Eastern",99,0.10%,2015
+747,10th Circuit,"Oklahoma, Northern",186,0.30%,2015
+748,10th Circuit,"Oklahoma, Western",337,0.50%,2015
+749,10th Circuit,Utah,620,0.90%,2015
+750,10th Circuit,Wyoming,254,0.40%,2015
+751,11th Circuit,"Alabama, Middle",201,0.30%,2015
+752,11th Circuit,"Alabama, Northern",347,0.50%,2015
+753,11th Circuit,"Alabama, Southern",328,0.50%,2015
+754,11th Circuit,"Florida, Middle","1,384",1.90%,2015
+755,11th Circuit,"Florida, Northern",255,0.40%,2015
+756,11th Circuit,"Florida, Southern","2,238",3.20%,2015
+757,11th Circuit,"Georgia, Middle",377,0.50%,2015
+758,11th Circuit,"Georgia, Northern",592,0.80%,2015
+759,11th Circuit,"Georgia, Southern",420,0.60%,2015

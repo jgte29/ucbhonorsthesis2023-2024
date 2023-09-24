@@ -1,0 +1,249 @@
+id,Crime,N,Pct,FY_Year
+0,Grand Total,"64,157",100.00%,2022
+1,Administration of Justice,653,1.00%,2022
+2,Antitrust,8,0.00%,2022
+3,Arson,106,0.20%,2022
+4,Assault,855,1.30%,2022
+5,Bribery/Corruption,361,0.60%,2022
+6,Burglary/Trespass,112,0.20%,2022
+7,Child Pornography,"1,436",2.20%,2022
+8,Commercialized Vice,73,0.10%,2022
+9,Drug Possession,296,0.50%,2022
+10,Drug Trafficking,"19,941",31.10%,2022
+11,Environmental,154,0.20%,2022
+12,Extortion/Racketeering,121,0.20%,2022
+13,Firearms,"9,318",14.50%,2022
+14,Food and Drug,40,0.10%,2022
+15,Forgery/Counter/Copyright,111,0.20%,2022
+16,Fraud/Theft/Embezzlement,"5,522",8.60%,2022
+17,Immigration,"17,657",27.50%,2022
+18,Individual Rights,92,0.10%,2022
+19,Kidnapping,128,0.20%,2022
+20,Manslaughter,80,0.10%,2022
+21,Money Laundering,"1,192",1.90%,2022
+22,Murder,410,0.60%,2022
+23,National Defense,181,0.30%,2022
+24,Obscenity/Other Sex Offenses,344,0.50%,2022
+25,Prison Offenses,499,0.80%,2022
+26,Robbery,"1,445",2.30%,2022
+27,Sexual Abuse,"1,499",2.30%,2022
+28,Stalking/Harassing,267,0.40%,2022
+29,Tax,496,0.80%,2022
+30,Other,760,1.20%,2022
+31,Grand Total,"57,304",100.00%,2021
+32,Administration of Justice,512,0.90%,2021
+33,Antitrust,6,0.00%,2021
+34,Arson,79,0.10%,2021
+35,Assault,669,1.20%,2021
+36,Bribery/Corruption,248,0.40%,2021
+37,Burglary/Trespass,64,0.10%,2021
+38,Child Pornography,"1,217",2.10%,2021
+39,Commercialized Vice,114,0.20%,2021
+40,Drug Possession,309,0.50%,2021
+41,Drug Trafficking,"17,611",30.70%,2021
+42,Environmental,173,0.30%,2021
+43,Extortion/Racketeering,117,0.20%,2021
+44,Firearms,"8,154",14.20%,2021
+45,Food and Drug,47,0.10%,2021
+46,Forgery/Counter/Copyright,137,0.20%,2021
+47,Fraud/Theft/Embezzlement,"4,573",8.00%,2021
+48,Immigration,"16,939",29.60%,2021
+49,Individual Rights,70,0.10%,2021
+50,Kidnapping,92,0.20%,2021
+51,Manslaughter,56,0.10%,2021
+52,Money Laundering,"1,028",1.80%,2021
+53,Murder,259,0.50%,2021
+54,National Defense,217,0.40%,2021
+55,Obscenity/Other Sex Offenses,299,0.50%,2021
+56,Prison Offenses,531,0.90%,2021
+57,Robbery,"1,301",2.30%,2021
+58,Sexual Abuse,"1,061",1.90%,2021
+59,Stalking/Harassing,219,0.40%,2021
+60,Tax,422,0.70%,2021
+61,Other,780,1.40%,2021
+62,Grand Total,"57,304",100.00%,2020
+63,Administration of Justice,512,0.90%,2020
+64,Antitrust,6,0.00%,2020
+65,Arson,79,0.10%,2020
+66,Assault,669,1.20%,2020
+67,Bribery/Corruption,248,0.40%,2020
+68,Burglary/Trespass,64,0.10%,2020
+69,Child Pornography,"1,217",2.10%,2020
+70,Commercialized Vice,114,0.20%,2020
+71,Drug Possession,309,0.50%,2020
+72,Drug Trafficking,"17,611",30.70%,2020
+73,Environmental,173,0.30%,2020
+74,Extortion/Racketeering,117,0.20%,2020
+75,Firearms,"8,154",14.20%,2020
+76,Food and Drug,47,0.10%,2020
+77,Forgery/Counter/Copyright,137,0.20%,2020
+78,Fraud/Theft/Embezzlement,"4,573",8.00%,2020
+79,Immigration,"16,939",29.60%,2020
+80,Individual Rights,70,0.10%,2020
+81,Kidnapping,92,0.20%,2020
+82,Manslaughter,56,0.10%,2020
+83,Money Laundering,"1,028",1.80%,2020
+84,Murder,259,0.50%,2020
+85,National Defense,217,0.40%,2020
+86,Obscenity/Other Sex Offenses,299,0.50%,2020
+87,Prison Offenses,531,0.90%,2020
+88,Robbery,"1,301",2.30%,2020
+89,Sexual Abuse,"1,061",1.90%,2020
+90,Stalking/Harassing,219,0.40%,2020
+91,Tax,422,0.70%,2020
+92,Other,780,1.40%,2020
+93,Grand Total,"76,593",100.00%,2019
+94,Administration of Justice,699,0.90%,2019
+95,Antitrust,20,0.00%,2019
+96,Arson,68,0.10%,2019
+97,Assault,787,1.00%,2019
+98,Bribery/Corruption,342,0.40%,2019
+99,Burglary/Trespass,64,0.10%,2019
+100,Child Pornography,"1,368",1.80%,2019
+101,Commercialized Vice,91,0.10%,2019
+102,Drug Possession,564,0.70%,2019
+103,Drug Trafficking,"19,849",25.90%,2019
+104,Environmental,179,0.20%,2019
+105,Extortion/Racketeering,185,0.20%,2019
+106,Firearms,"8,486",11.10%,2019
+107,Food and Drug,48,0.10%,2019
+108,Forgery/Counter/Copyright,276,0.40%,2019
+109,Fraud/Theft/Embezzlement,"6,403",8.40%,2019
+110,Immigration,"29,358",38.30%,2019
+111,Individual Rights,69,0.10%,2019
+112,Kidnapping,96,0.10%,2019
+113,Manslaughter,74,0.10%,2019
+114,Money Laundering,"1,179",1.50%,2019
+115,Murder,379,0.50%,2019
+116,National Defense,195,0.30%,2019
+117,Obscenity/Other Sex Offenses,393,0.50%,2019
+118,Prison Offenses,628,0.80%,2019
+119,Robbery,"1,824",2.40%,2019
+120,Sexual Abuse,"1,166",1.50%,2019
+121,Stalking/Harassing,224,0.30%,2019
+122,Tax,547,0.70%,2019
+123,Other,"1,032",1.30%,2019
+124,Grand Total,"69,470",100.00%,2018
+125,Administration of Justice,730,1.10%,2018
+126,Antitrust,53,0.10%,2018
+127,Arson,55,0.10%,2018
+128,Assault,696,1.00%,2018
+129,Bribery/Corruption,317,0.50%,2018
+130,Burglary/Trespass,41,0.10%,2018
+131,Child Pornography,"1,416",2.00%,2018
+132,Commercialized Vice,146,0.20%,2018
+133,Drug Possession,778,1.10%,2018
+134,Drug Trafficking,"18,768",27.00%,2018
+135,Environmental,203,0.30%,2018
+136,Extortion/Racketeering,288,0.40%,2018
+137,Firearms,"7,516",10.80%,2018
+138,Food and Drug,43,0.10%,2018
+139,Forgery/Counter/Copyright,298,0.40%,2018
+140,Fraud/Theft/Embezzlement,"6,625",9.50%,2018
+141,Immigration,"23,886",34.40%,2018
+142,Individual Rights,67,0.10%,2018
+143,Kidnapping,106,0.20%,2018
+144,Manslaughter,61,0.10%,2018
+145,Money Laundering,"1,297",1.90%,2018
+146,Murder,321,0.50%,2018
+147,National Defense,204,0.30%,2018
+148,Obscenity/Other Sex Offenses,384,0.60%,2018
+149,Prison Offenses,568,0.80%,2018
+150,Robbery,"1,722",2.50%,2018
+151,Sexual Abuse,"1,067",1.50%,2018
+152,Stalking/Harassing,213,0.30%,2018
+153,Tax,577,0.80%,2018
+154,Other,"1,024",1.50%,2018
+155,Grand Total,"66,899",100.00%,2017
+156,Administration of Justice,723,1.10%,2017
+157,Antitrust,27,0.00%,2017
+158,Arson,55,0.10%,2017
+159,Assault,718,1.10%,2017
+160,Bribery/Corruption,336,0.50%,2017
+161,Burglary/Trespass,74,0.10%,2017
+162,Child Pornography,"1,409",2.10%,2017
+163,Commercialized Vice,127,0.20%,2017
+164,Drug Possession,"1,286",1.90%,2017
+165,Drug Trafficking,"19,636",29.40%,2017
+166,Environmental,153,0.20%,2017
+167,Extortion/Racketeering,187,0.30%,2017
+168,Firearms,"6,757",10.10%,2017
+169,Food and Drug,44,0.10%,2017
+170,Forgery/Counter/Copyright,320,0.50%,2017
+171,Fraud/Theft/Embezzlement,"7,055",10.50%,2017
+172,Immigration,"20,493",30.60%,2017
+173,Individual Rights,79,0.10%,2017
+174,Kidnapping,120,0.20%,2017
+175,Manslaughter,75,0.10%,2017
+176,Money Laundering,"1,274",1.90%,2017
+177,Murder,358,0.50%,2017
+178,National Defense,170,0.30%,2017
+179,Obscenity/Other Sex Offenses,413,0.60%,2017
+180,Prison Offenses,517,0.80%,2017
+181,Robbery,"1,560",2.30%,2017
+182,Sexual Abuse,"1,096",1.60%,2017
+183,Stalking/Harassing,165,0.20%,2017
+184,Tax,663,1.00%,2017
+185,Other,"1,009",1.50%,2017
+186,Grand Total,"67,794",100.00%,2016
+187,Administration of Justice,727,1.10%,2016
+188,Antitrust,20,0.00%,2016
+189,Arson,63,0.10%,2016
+190,Assault,636,0.90%,2016
+191,Bribery/Corruption,378,0.60%,2016
+192,Burglary/Trespass,47,0.10%,2016
+193,Child Pornography,"1,593",2.30%,2016
+194,Commercialized Vice,143,0.20%,2016
+195,Drug Possession,"1,891",2.80%,2016
+196,Drug Trafficking,"19,658",29.00%,2016
+197,Environmental,191,0.30%,2016
+198,Extortion/Racketeering,200,0.30%,2016
+199,Firearms,"6,096",9.00%,2016
+200,Food and Drug,62,0.10%,2016
+201,Forgery/Counter/Copyright,365,0.50%,2016
+202,Fraud/Theft/Embezzlement,"7,946",11.70%,2016
+203,Immigration,"20,115",29.70%,2016
+204,Individual Rights,72,0.10%,2016
+205,Kidnapping,78,0.10%,2016
+206,Manslaughter,68,0.10%,2016
+207,Money Laundering,"1,354",2.00%,2016
+208,Murder,332,0.50%,2016
+209,National Defense,143,0.20%,2016
+210,Obscenity/Other Sex Offenses,455,0.70%,2016
+211,Prison Offenses,468,0.70%,2016
+212,Robbery,"1,608",2.40%,2016
+213,Sexual Abuse,"1,094",1.60%,2016
+214,Stalking/Harassing,173,0.30%,2016
+215,Tax,662,1.00%,2016
+216,Other,"1,156",1.70%,2016
+217,Grand Total,"71,030",100.00%,2015
+218,Administration of Justice,778,1.10%,2015
+219,Antitrust,9,0.00%,2015
+220,Arson,83,0.10%,2015
+221,Assault,613,0.90%,2015
+222,Bribery/Corruption,448,0.60%,2015
+223,Burglary/Trespass,69,0.10%,2015
+224,Child Pornography,"1,557",2.20%,2015
+225,Commercialized Vice,182,0.30%,2015
+226,Drug Possession,"2,277",3.20%,2015
+227,Drug Trafficking,"20,501",28.90%,2015
+228,Environmental,206,0.30%,2015
+229,Extortion/Racketeering,244,0.30%,2015
+230,Firearms,"5,761",8.10%,2015
+231,Food and Drug,91,0.10%,2015
+232,Forgery/Counter/Copyright,475,0.70%,2015
+233,Fraud/Theft/Embezzlement,"8,861",12.50%,2015
+234,Immigration,"20,951",29.50%,2015
+235,Individual Rights,74,0.10%,2015
+236,Kidnapping,91,0.10%,2015
+237,Manslaughter,59,0.10%,2015
+238,Money Laundering,"1,289",1.80%,2015
+239,Murder,360,0.50%,2015
+240,National Defense,155,0.20%,2015
+241,Obscenity/Other Sex Offenses,466,0.70%,2015
+242,Prison Offenses,465,0.70%,2015
+243,Robbery,"1,713",2.40%,2015
+244,Sexual Abuse,999,1.40%,2015
+245,Stalking/Harassing,164,0.20%,2015
+246,Tax,750,1.10%,2015
+247,Other,"1,339",1.90%,2015
