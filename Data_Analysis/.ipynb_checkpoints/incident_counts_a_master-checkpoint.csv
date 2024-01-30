@@ -1,0 +1,284 @@
+Year,nhood,count
+2018,Western Addition,4482
+2018,West of Twin Peaks,2762
+2018,Visitacion Valley,1680
+2018,Twin Peaks,599
+2018,South of Market,12804
+2018,Treasure Island,495
+2018,Presidio Heights,826
+2018,Presidio,281
+2018,Potrero Hill,2366
+2018,Portola,1547
+2018,Pacific Heights,2244
+2018,Outer Richmond,2889
+2018,Outer Mission,1947
+2018,Sunset/Parkside,4357
+2018,Oceanview/Merced/Ingleside,1572
+2018,North Beach,5029
+2018,Noe Valley,1280
+2018,Lone Mountain/USF,1763
+2018,Lincoln Park,144
+2018,Seacliff,152
+2018,Nob Hill,3882
+2018,Mission Bay,2646
+2018,Mission,17426
+2018,Russian Hill,3483
+2018,Marina,3074
+2018,Lakeshore,1633
+2018,Tenderloin,14741
+2018,McLaren Park,118
+2018,Japantown,1475
+2018,Inner Sunset,1632
+2018,Hayes Valley,3606
+2018,Haight Ashbury,2665
+2018,Golden Gate Park,1610
+2018,Inner Richmond,1881
+2018,Glen Park,711
+2018,Financial District/South Beach,13786
+2018,Excelsior,2335
+2018,Chinatown,2891
+2018,Castro/Upper Market,4478
+2018,Bernal Heights,2431
+2018,Bayview Hunters Point,7994
+2019,Western Addition,4772
+2019,West of Twin Peaks,2824
+2019,Visitacion Valley,1441
+2019,Twin Peaks,827
+2019,South of Market,11681
+2019,Treasure Island,417
+2019,Presidio Heights,815
+2019,Presidio,407
+2019,Potrero Hill,2159
+2019,Portola,1532
+2019,Pacific Heights,2408
+2019,Outer Richmond,3279
+2019,Outer Mission,1890
+2019,Sunset/Parkside,3853
+2019,Oceanview/Merced/Ingleside,1359
+2019,North Beach,4252
+2019,Noe Valley,1318
+2019,Lone Mountain/USF,1642
+2019,Lincoln Park,199
+2019,Seacliff,167
+2019,Nob Hill,4209
+2019,Mission Bay,2284
+2019,Mission,15285
+2019,Russian Hill,3141
+2019,Marina,3722
+2019,Lakeshore,1813
+2019,Tenderloin,14213
+2019,McLaren Park,157
+2019,Japantown,1618
+2019,Inner Sunset,1727
+2019,Hayes Valley,4090
+2019,Haight Ashbury,2324
+2019,Golden Gate Park,1478
+2019,Inner Richmond,1900
+2019,Glen Park,713
+2019,Financial District/South Beach,12996
+2019,Excelsior,2110
+2019,Chinatown,2825
+2019,Castro/Upper Market,4153
+2019,Bernal Heights,2339
+2019,Bayview Hunters Point,8149
+2020,Western Addition,3702
+2020,West of Twin Peaks,2400
+2020,Visitacion Valley,1438
+2020,Twin Peaks,662
+2020,South of Market,8704
+2020,Treasure Island,433
+2020,Presidio Heights,919
+2020,Presidio,252
+2020,Potrero Hill,2239
+2020,Portola,1383
+2020,Pacific Heights,2382
+2020,Outer Richmond,2825
+2020,Outer Mission,1793
+2020,Sunset/Parkside,3501
+2020,Oceanview/Merced/Ingleside,1195
+2020,North Beach,2564
+2020,Noe Valley,1405
+2020,Lone Mountain/USF,1573
+2020,Lincoln Park,178
+2020,Seacliff,178
+2020,Nob Hill,3399
+2020,Mission Bay,2170
+2020,Mission,11295
+2020,Russian Hill,2503
+2020,Marina,3493
+2020,Lakeshore,1218
+2020,Tenderloin,11366
+2020,McLaren Park,153
+2020,Japantown,859
+2020,Inner Sunset,1561
+2020,Hayes Valley,3291
+2020,Haight Ashbury,1981
+2020,Golden Gate Park,1089
+2020,Inner Richmond,1574
+2020,Glen Park,727
+2020,Financial District/South Beach,7388
+2020,Excelsior,2263
+2020,Chinatown,1872
+2020,Castro/Upper Market,3561
+2020,Bernal Heights,2372
+2020,Bayview Hunters Point,7957
+2021,Western Addition,3581
+2021,West of Twin Peaks,2460
+2021,Visitacion Valley,1280
+2021,Twin Peaks,597
+2021,South of Market,8683
+2021,Treasure Island,524
+2021,Presidio Heights,824
+2021,Presidio,291
+2021,Potrero Hill,2188
+2021,Portola,1494
+2021,Pacific Heights,2353
+2021,Outer Richmond,2936
+2021,Outer Mission,1890
+2021,Sunset/Parkside,3579
+2021,Oceanview/Merced/Ingleside,1430
+2021,North Beach,4909
+2021,Noe Valley,1561
+2021,Lone Mountain/USF,1401
+2021,Lincoln Park,296
+2021,Seacliff,239
+2021,Nob Hill,3507
+2021,Mission Bay,2448
+2021,Mission,11890
+2021,Russian Hill,3462
+2021,Marina,4236
+2021,Lakeshore,1554
+2021,Tenderloin,11134
+2021,McLaren Park,172
+2021,Japantown,1246
+2021,Inner Sunset,1728
+2021,Hayes Valley,3263
+2021,Haight Ashbury,2067
+2021,Golden Gate Park,1280
+2021,Inner Richmond,1670
+2021,Glen Park,730
+2021,Financial District/South Beach,9042
+2021,Excelsior,2169
+2021,Chinatown,2130
+2021,Castro/Upper Market,3721
+2021,Bernal Heights,2434
+2021,Bayview Hunters Point,9091
+2022,Western Addition,4228
+2022,West of Twin Peaks,2552
+2022,Visitacion Valley,1305
+2022,Twin Peaks,708
+2022,South of Market,10312
+2022,Treasure Island,493
+2022,Presidio Heights,773
+2022,Presidio,163
+2022,Potrero Hill,2150
+2022,Portola,1422
+2022,Pacific Heights,2163
+2022,Outer Richmond,2988
+2022,Outer Mission,1789
+2022,Sunset/Parkside,3960
+2022,Oceanview/Merced/Ingleside,1454
+2022,North Beach,4952
+2022,Noe Valley,1491
+2022,Lone Mountain/USF,1458
+2022,Lincoln Park,200
+2022,Seacliff,202
+2022,Nob Hill,3574
+2022,Mission Bay,2198
+2022,Mission,12747
+2022,Russian Hill,3140
+2022,Marina,3801
+2022,Lakeshore,1913
+2022,Tenderloin,13808
+2022,McLaren Park,182
+2022,Japantown,1674
+2022,Inner Sunset,1612
+2022,Hayes Valley,3378
+2022,Haight Ashbury,1844
+2022,Golden Gate Park,1327
+2022,Inner Richmond,1716
+2022,Glen Park,764
+2022,Financial District/South Beach,9578
+2022,Excelsior,2065
+2022,Chinatown,2312
+2022,Castro/Upper Market,3226
+2022,Bernal Heights,2430
+2022,Bayview Hunters Point,9036
+2023,Western Addition,4281
+2023,West of Twin Peaks,2679
+2023,Visitacion Valley,1457
+2023,Twin Peaks,518
+2023,South of Market,10539
+2023,Treasure Island,412
+2023,Presidio Heights,886
+2023,Presidio,230
+2023,Potrero Hill,1843
+2023,Portola,1620
+2023,Pacific Heights,2218
+2023,Outer Richmond,2702
+2023,Outer Mission,1988
+2023,Sunset/Parkside,3750
+2023,Oceanview/Merced/Ingleside,1340
+2023,North Beach,4173
+2023,Noe Valley,1420
+2023,Lone Mountain/USF,1585
+2023,Lincoln Park,256
+2023,Seacliff,147
+2023,Nob Hill,3495
+2023,Mission Bay,1968
+2023,Mission,12852
+2023,Russian Hill,2960
+2023,Marina,3185
+2023,Lakeshore,1872
+2023,Tenderloin,13790
+2023,McLaren Park,189
+2023,Japantown,1151
+2023,Inner Sunset,1763
+2023,Hayes Valley,3549
+2023,Haight Ashbury,1706
+2023,Golden Gate Park,1344
+2023,Inner Richmond,1561
+2023,Glen Park,747
+2023,Financial District/South Beach,8060
+2023,Excelsior,2252
+2023,Chinatown,2219
+2023,Castro/Upper Market,2916
+2023,Bernal Heights,2526
+2023,Bayview Hunters Point,8784
+2023,Western Addition,4288
+2023,West of Twin Peaks,2685
+2023,Visitacion Valley,1462
+2023,Twin Peaks,520
+2023,South of Market,10560
+2023,Treasure Island,416
+2023,Presidio Heights,891
+2023,Potrero Hill,1850
+2023,Portola,1623
+2023,Pacific Heights,2230
+2023,Outer Richmond,2711
+2023,Outer Mission,1995
+2023,Sunset/Parkside,3761
+2023,Oceanview/Merced/Ingleside,1354
+2023,North Beach,4181
+2023,Noe Valley,1428
+2023,Lone Mountain/USF,1587
+2023,Seacliff,148
+2023,Nob Hill,3502
+2023,Mission Bay,1974
+2023,Mission,12883
+2023,Russian Hill,2964
+2023,Marina,3190
+2023,Lakeshore,1880
+2023,Tenderloin,13818
+2023,Japantown,1155
+2023,Inner Sunset,1764
+2023,Hayes Valley,3559
+2023,Haight Ashbury,1717
+2023,Inner Richmond,1565
+2023,Glen Park,749
+2023,Financial District/South Beach,8078
+2023,Excelsior,2259
+2023,Chinatown,2225
+2023,Castro/Upper Market,2926
+2023,Bernal Heights,2532
+2023,Bayview Hunters Point,8813
