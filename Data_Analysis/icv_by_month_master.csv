@@ -1,0 +1,918 @@
+incident_year,incident_month,incident_category,count
+2018,1,Arson,26
+2018,1,Assault,715
+2018,1,Homicide,1
+2018,1,"Human Trafficking (A), Commercial Sex Acts",1
+2018,1,Offences Against The Family And Children,142
+2018,1,Rape,2
+2018,1,Robbery,277
+2018,1,Sex Offense,17
+2018,1,Weapons Carrying Etc,119
+2018,1,Weapons Offense,69
+2018,2,Arson,25
+2018,2,Assault,683
+2018,2,Offences Against The Family And Children,149
+2018,2,Rape,3
+2018,2,Robbery,314
+2018,2,Sex Offense,15
+2018,2,Weapons Carrying Etc,72
+2018,2,Weapons Offense,63
+2018,3,Arson,30
+2018,3,Assault,754
+2018,3,Homicide,1
+2018,3,"Human Trafficking (A), Commercial Sex Acts",4
+2018,3,Offences Against The Family And Children,164
+2018,3,Rape,2
+2018,3,Robbery,291
+2018,3,Sex Offense,14
+2018,3,Weapons Carrying Etc,72
+2018,3,Weapons Offense,55
+2018,4,Arson,36
+2018,4,Assault,795
+2018,4,Homicide,1
+2018,4,"Human Trafficking (A), Commercial Sex Acts",3
+2018,4,Offences Against The Family And Children,172
+2018,4,Rape,3
+2018,4,Robbery,240
+2018,4,Sex Offense,9
+2018,4,Weapons Carrying Etc,58
+2018,4,Weapons Offense,54
+2018,5,Arson,20
+2018,5,Assault,810
+2018,5,Homicide,2
+2018,5,"Human Trafficking (A), Commercial Sex Acts",10
+2018,5,Offences Against The Family And Children,178
+2018,5,Rape,1
+2018,5,Robbery,310
+2018,5,Sex Offense,23
+2018,5,Weapons Carrying Etc,74
+2018,5,Weapons Offence,1
+2018,5,Weapons Offense,57
+2018,6,Arson,33
+2018,6,Assault,795
+2018,6,Homicide,1
+2018,6,"Human Trafficking (A), Commercial Sex Acts",16
+2018,6,"Human Trafficking, Commercial Sex Acts",1
+2018,6,Offences Against The Family And Children,166
+2018,6,Rape,6
+2018,6,Robbery,319
+2018,6,Sex Offense,13
+2018,6,Weapons Carrying Etc,57
+2018,6,Weapons Offense,55
+2018,7,Arson,25
+2018,7,Assault,802
+2018,7,"Human Trafficking (A), Commercial Sex Acts",3
+2018,7,Offences Against The Family And Children,176
+2018,7,Rape,7
+2018,7,Robbery,349
+2018,7,Sex Offense,20
+2018,7,Weapons Carrying Etc,76
+2018,7,Weapons Offence,2
+2018,7,Weapons Offense,69
+2018,8,Arson,38
+2018,8,Assault,783
+2018,8,Homicide,8
+2018,8,"Human Trafficking (A), Commercial Sex Acts",7
+2018,8,Offences Against The Family And Children,158
+2018,8,Rape,8
+2018,8,Robbery,295
+2018,8,Sex Offense,9
+2018,8,Weapons Carrying Etc,54
+2018,8,Weapons Offence,1
+2018,8,Weapons Offense,74
+2018,9,Arson,20
+2018,9,Assault,700
+2018,9,Homicide,1
+2018,9,"Human Trafficking (A), Commercial Sex Acts",17
+2018,9,"Human Trafficking, Commercial Sex Acts",1
+2018,9,Offences Against The Family And Children,189
+2018,9,Rape,4
+2018,9,Robbery,300
+2018,9,Sex Offense,17
+2018,9,Weapons Carrying Etc,76
+2018,9,Weapons Offense,64
+2018,10,Arson,40
+2018,10,Assault,731
+2018,10,Homicide,2
+2018,10,"Human Trafficking (A), Commercial Sex Acts",2
+2018,10,"Human Trafficking, Commercial Sex Acts",1
+2018,10,Offences Against The Family And Children,193
+2018,10,Rape,5
+2018,10,Robbery,287
+2018,10,Sex Offense,16
+2018,10,Weapons Carrying Etc,60
+2018,10,Weapons Offense,58
+2018,11,Arson,44
+2018,11,Assault,659
+2018,11,Homicide,2
+2018,11,"Human Trafficking (A), Commercial Sex Acts",7
+2018,11,"Human Trafficking, Commercial Sex Acts",1
+2018,11,Offences Against The Family And Children,165
+2018,11,Rape,2
+2018,11,Robbery,275
+2018,11,Sex Offense,12
+2018,11,Weapons Carrying Etc,62
+2018,11,Weapons Offence,1
+2018,11,Weapons Offense,66
+2018,12,Arson,26
+2018,12,Assault,705
+2018,12,Homicide,5
+2018,12,"Human Trafficking (B), Involuntary Servitude",1
+2018,12,Offences Against The Family And Children,161
+2018,12,Rape,1
+2018,12,Robbery,359
+2018,12,Sex Offense,11
+2018,12,Weapons Carrying Etc,41
+2018,12,Weapons Offense,66
+2019,1,Arson,24
+2019,1,Assault,661
+2019,1,Homicide,1
+2019,1,"Human Trafficking (A), Commercial Sex Acts",1
+2019,1,Offences Against The Family And Children,177
+2019,1,Rape,7
+2019,1,Robbery,290
+2019,1,Sex Offense,14
+2019,1,Weapons Carrying Etc,78
+2019,1,Weapons Offense,87
+2019,2,Arson,18
+2019,2,Assault,533
+2019,2,Offences Against The Family And Children,156
+2019,2,Rape,3
+2019,2,Robbery,228
+2019,2,Sex Offense,16
+2019,2,Weapons Carrying Etc,63
+2019,2,Weapons Offense,60
+2019,3,Arson,20
+2019,3,Assault,800
+2019,3,Homicide,1
+2019,3,"Human Trafficking (A), Commercial Sex Acts",1
+2019,3,"Human Trafficking, Commercial Sex Acts",1
+2019,3,Offences Against The Family And Children,171
+2019,3,Rape,2
+2019,3,Robbery,250
+2019,3,Sex Offense,6
+2019,3,Weapons Carrying Etc,53
+2019,3,Weapons Offence,1
+2019,3,Weapons Offense,59
+2019,4,Arson,22
+2019,4,Assault,694
+2019,4,Homicide,1
+2019,4,"Human Trafficking (A), Commercial Sex Acts",2
+2019,4,Offences Against The Family And Children,145
+2019,4,Rape,1
+2019,4,Robbery,256
+2019,4,Sex Offense,16
+2019,4,Weapons Carrying Etc,43
+2019,4,Weapons Offense,74
+2019,5,Arson,24
+2019,5,Assault,774
+2019,5,Homicide,2
+2019,5,Offences Against The Family And Children,169
+2019,5,Rape,3
+2019,5,Robbery,256
+2019,5,Sex Offense,14
+2019,5,Weapons Carrying Etc,74
+2019,5,Weapons Offence,1
+2019,5,Weapons Offense,64
+2019,6,Arson,19
+2019,6,Assault,794
+2019,6,Homicide,4
+2019,6,Offences Against The Family And Children,158
+2019,6,Rape,4
+2019,6,Robbery,274
+2019,6,Sex Offense,22
+2019,6,Weapons Carrying Etc,72
+2019,6,Weapons Offence,3
+2019,6,Weapons Offense,57
+2019,7,Arson,23
+2019,7,Assault,751
+2019,7,Offences Against The Family And Children,145
+2019,7,Rape,5
+2019,7,Robbery,257
+2019,7,Sex Offense,8
+2019,7,Weapons Carrying Etc,67
+2019,7,Weapons Offense,77
+2019,8,Arson,31
+2019,8,Assault,828
+2019,8,Homicide,1
+2019,8,"Human Trafficking (A), Commercial Sex Acts",1
+2019,8,"Human Trafficking, Commercial Sex Acts",1
+2019,8,Offences Against The Family And Children,179
+2019,8,Rape,1
+2019,8,Robbery,317
+2019,8,Sex Offense,25
+2019,8,Weapons Carrying Etc,53
+2019,8,Weapons Offense,71
+2019,9,Arson,34
+2019,9,Assault,754
+2019,9,"Human Trafficking, Commercial Sex Acts",1
+2019,9,Offences Against The Family And Children,167
+2019,9,Robbery,289
+2019,9,Sex Offense,9
+2019,9,Weapons Carrying Etc,72
+2019,9,Weapons Offence,1
+2019,9,Weapons Offense,62
+2019,10,Arson,36
+2019,10,Assault,752
+2019,10,Homicide,3
+2019,10,"Human Trafficking (A), Commercial Sex Acts",1
+2019,10,Offences Against The Family And Children,172
+2019,10,Rape,2
+2019,10,Robbery,351
+2019,10,Sex Offense,10
+2019,10,Weapons Carrying Etc,67
+2019,10,Weapons Offence,3
+2019,10,Weapons Offense,57
+2019,11,Arson,35
+2019,11,Assault,694
+2019,11,Homicide,2
+2019,11,"Human Trafficking (A), Commercial Sex Acts",4
+2019,11,"Human Trafficking, Commercial Sex Acts",4
+2019,11,Offences Against The Family And Children,127
+2019,11,Rape,4
+2019,11,Robbery,368
+2019,11,Sex Offense,11
+2019,11,Weapons Carrying Etc,35
+2019,11,Weapons Offense,47
+2019,12,Arson,22
+2019,12,Assault,688
+2019,12,"Human Trafficking, Commercial Sex Acts",2
+2019,12,Offences Against The Family And Children,123
+2019,12,Rape,5
+2019,12,Robbery,288
+2019,12,Sex Offense,11
+2019,12,Weapons Carrying Etc,46
+2019,12,Weapons Offense,42
+2020,1,Arson,25
+2020,1,Assault,605
+2020,1,"Human Trafficking (A), Commercial Sex Acts",2
+2020,1,Offences Against The Family And Children,144
+2020,1,Rape,5
+2020,1,Robbery,298
+2020,1,Sex Offense,17
+2020,1,Weapons Carrying Etc,77
+2020,1,Weapons Offense,82
+2020,2,Arson,23
+2020,2,Assault,689
+2020,2,Homicide,2
+2020,2,"Human Trafficking (A), Commercial Sex Acts",1
+2020,2,Offences Against The Family And Children,152
+2020,2,Rape,4
+2020,2,Robbery,334
+2020,2,Sex Offense,10
+2020,2,Weapons Carrying Etc,48
+2020,2,Weapons Offense,78
+2020,3,Arson,31
+2020,3,Assault,582
+2020,3,Homicide,1
+2020,3,"Human Trafficking, Commercial Sex Acts",1
+2020,3,Offences Against The Family And Children,150
+2020,3,Rape,1
+2020,3,Robbery,263
+2020,3,Sex Offense,13
+2020,3,Weapons Carrying Etc,43
+2020,3,Weapons Offence,1
+2020,3,Weapons Offense,49
+2020,4,Arson,38
+2020,4,Assault,462
+2020,4,"Human Trafficking, Commercial Sex Acts",1
+2020,4,Offences Against The Family And Children,120
+2020,4,Robbery,172
+2020,4,Sex Offense,6
+2020,4,Weapons Carrying Etc,28
+2020,4,Weapons Offence,2
+2020,4,Weapons Offense,53
+2020,5,Arson,40
+2020,5,Assault,503
+2020,5,Homicide,1
+2020,5,"Human Trafficking (A), Commercial Sex Acts",2
+2020,5,"Human Trafficking, Commercial Sex Acts",2
+2020,5,Offences Against The Family And Children,125
+2020,5,Rape,2
+2020,5,Robbery,171
+2020,5,Sex Offense,10
+2020,5,Weapons Carrying Etc,61
+2020,5,Weapons Offense,76
+2020,6,Arson,38
+2020,6,Assault,540
+2020,6,Homicide,1
+2020,6,"Human Trafficking (A), Commercial Sex Acts",1
+2020,6,Offences Against The Family And Children,140
+2020,6,Robbery,194
+2020,6,Sex Offense,12
+2020,6,Weapons Carrying Etc,44
+2020,6,Weapons Offense,59
+2020,7,Arson,35
+2020,7,Assault,555
+2020,7,Homicide,1
+2020,7,"Human Trafficking (A), Commercial Sex Acts",1
+2020,7,Offences Against The Family And Children,146
+2020,7,Rape,2
+2020,7,Robbery,201
+2020,7,Sex Offense,11
+2020,7,Weapons Carrying Etc,42
+2020,7,Weapons Offense,60
+2020,8,Arson,50
+2020,8,Assault,523
+2020,8,"Human Trafficking (A), Commercial Sex Acts",2
+2020,8,Offences Against The Family And Children,156
+2020,8,Rape,3
+2020,8,Robbery,203
+2020,8,Sex Offense,15
+2020,8,Weapons Carrying Etc,42
+2020,8,Weapons Offense,69
+2020,9,Arson,35
+2020,9,Assault,633
+2020,9,Homicide,2
+2020,9,Offences Against The Family And Children,131
+2020,9,Robbery,180
+2020,9,Sex Offense,12
+2020,9,Weapons Carrying Etc,55
+2020,9,Weapons Offense,70
+2020,10,Arson,31
+2020,10,Assault,653
+2020,10,Offences Against The Family And Children,142
+2020,10,Rape,2
+2020,10,Robbery,199
+2020,10,Sex Offense,12
+2020,10,Weapons Carrying Etc,73
+2020,10,Weapons Offense,86
+2020,11,Arson,34
+2020,11,Assault,576
+2020,11,Offences Against The Family And Children,162
+2020,11,Rape,4
+2020,11,Robbery,239
+2020,11,Sex Offense,10
+2020,11,Weapons Carrying Etc,57
+2020,11,Weapons Offense,83
+2020,12,Arson,43
+2020,12,Assault,580
+2020,12,Homicide,4
+2020,12,Offences Against The Family And Children,134
+2020,12,Rape,1
+2020,12,Robbery,282
+2020,12,Sex Offense,11
+2020,12,Weapons Carrying Etc,66
+2020,12,Weapons Offense,111
+2021,1,Arson,45
+2021,1,Assault,588
+2021,1,Homicide,1
+2021,1,"Human Trafficking (A), Commercial Sex Acts",2
+2021,1,Offences Against The Family And Children,111
+2021,1,Rape,3
+2021,1,Robbery,230
+2021,1,Sex Offense,13
+2021,1,Weapons Carrying Etc,76
+2021,1,Weapons Offence,1
+2021,1,Weapons Offense,110
+2021,2,Arson,36
+2021,2,Assault,513
+2021,2,Homicide,2
+2021,2,Offences Against The Family And Children,104
+2021,2,Rape,2
+2021,2,Robbery,260
+2021,2,Sex Offense,9
+2021,2,Weapons Carrying Etc,82
+2021,2,Weapons Offense,86
+2021,3,Arson,43
+2021,3,Assault,567
+2021,3,Homicide,1
+2021,3,"Human Trafficking (A), Commercial Sex Acts",3
+2021,3,Offences Against The Family And Children,140
+2021,3,Rape,3
+2021,3,Robbery,205
+2021,3,Sex Offense,5
+2021,3,Weapons Carrying Etc,65
+2021,3,Weapons Offense,97
+2021,4,Arson,41
+2021,4,Assault,572
+2021,4,"Human Trafficking (A), Commercial Sex Acts",1
+2021,4,"Human Trafficking, Commercial Sex Acts",1
+2021,4,Offences Against The Family And Children,178
+2021,4,Rape,2
+2021,4,Robbery,184
+2021,4,Sex Offense,11
+2021,4,Weapons Carrying Etc,54
+2021,4,Weapons Offense,75
+2021,5,Arson,31
+2021,5,Assault,665
+2021,5,Homicide,1
+2021,5,"Human Trafficking (A), Commercial Sex Acts",1
+2021,5,Offences Against The Family And Children,167
+2021,5,Robbery,199
+2021,5,Sex Offense,9
+2021,5,Weapons Carrying Etc,67
+2021,5,Weapons Offence,1
+2021,5,Weapons Offense,103
+2021,6,Arson,37
+2021,6,Assault,631
+2021,6,"Human Trafficking (A), Commercial Sex Acts",1
+2021,6,Offences Against The Family And Children,147
+2021,6,Rape,3
+2021,6,Robbery,216
+2021,6,Sex Offense,15
+2021,6,Weapons Carrying Etc,54
+2021,6,Weapons Offense,86
+2021,7,Arson,37
+2021,7,Assault,677
+2021,7,"Human Trafficking (A), Commercial Sex Acts",1
+2021,7,Offences Against The Family And Children,169
+2021,7,Rape,3
+2021,7,Robbery,177
+2021,7,Sex Offense,8
+2021,7,Weapons Carrying Etc,68
+2021,7,Weapons Offense,89
+2021,8,Arson,50
+2021,8,Assault,709
+2021,8,Homicide,2
+2021,8,Offences Against The Family And Children,191
+2021,8,Rape,3
+2021,8,Robbery,253
+2021,8,Sex Offense,11
+2021,8,Weapons Carrying Etc,64
+2021,8,Weapons Offense,95
+2021,9,Arson,31
+2021,9,Assault,765
+2021,9,Homicide,2
+2021,9,"Human Trafficking (A), Commercial Sex Acts",2
+2021,9,Offences Against The Family And Children,186
+2021,9,Rape,3
+2021,9,Robbery,199
+2021,9,Sex Offense,12
+2021,9,Weapons Carrying Etc,46
+2021,9,Weapons Offense,98
+2021,10,Arson,37
+2021,10,Assault,730
+2021,10,Homicide,3
+2021,10,"Human Trafficking (A), Commercial Sex Acts",2
+2021,10,"Human Trafficking, Commercial Sex Acts",1
+2021,10,Offences Against The Family And Children,174
+2021,10,Rape,2
+2021,10,Robbery,241
+2021,10,Sex Offense,5
+2021,10,Weapons Carrying Etc,55
+2021,10,Weapons Offense,101
+2021,11,Arson,27
+2021,11,Assault,684
+2021,11,Homicide,1
+2021,11,Offences Against The Family And Children,161
+2021,11,Rape,1
+2021,11,Robbery,200
+2021,11,Sex Offense,9
+2021,11,Weapons Carrying Etc,65
+2021,11,Weapons Offense,77
+2021,12,Arson,15
+2021,12,Assault,619
+2021,12,Homicide,1
+2021,12,Offences Against The Family And Children,131
+2021,12,Rape,5
+2021,12,Robbery,219
+2021,12,Sex Offense,4
+2021,12,Weapons Carrying Etc,77
+2021,12,Weapons Offense,89
+2022,1,Arson,38
+2022,1,Assault,612
+2022,1,Homicide,1
+2022,1,"Human Trafficking (A), Commercial Sex Acts",1
+2022,1,Offences Against The Family And Children,134
+2022,1,Rape,8
+2022,1,Robbery,190
+2022,1,Sex Offense,6
+2022,1,Weapons Carrying Etc,58
+2022,1,Weapons Offense,79
+2022,2,Arson,27
+2022,2,Assault,619
+2022,2,Offences Against The Family And Children,109
+2022,2,Robbery,203
+2022,2,Sex Offense,10
+2022,2,Weapons Carrying Etc,53
+2022,2,Weapons Offense,81
+2022,3,Arson,32
+2022,3,Assault,667
+2022,3,Homicide,1
+2022,3,Offences Against The Family And Children,146
+2022,3,Robbery,231
+2022,3,Sex Offense,8
+2022,3,Weapons Carrying Etc,91
+2022,3,Weapons Offense,90
+2022,4,Arson,34
+2022,4,Assault,719
+2022,4,Homicide,1
+2022,4,"Human Trafficking (A), Commercial Sex Acts",2
+2022,4,"Human Trafficking, Commercial Sex Acts",1
+2022,4,Offences Against The Family And Children,157
+2022,4,Rape,2
+2022,4,Robbery,229
+2022,4,Sex Offense,7
+2022,4,Weapons Carrying Etc,67
+2022,4,Weapons Offence,1
+2022,4,Weapons Offense,89
+2022,5,Arson,40
+2022,5,Assault,719
+2022,5,Homicide,6
+2022,5,Offences Against The Family And Children,127
+2022,5,Rape,3
+2022,5,Robbery,205
+2022,5,Sex Offense,12
+2022,5,Weapons Carrying Etc,79
+2022,5,Weapons Offense,73
+2022,6,Arson,33
+2022,6,Assault,780
+2022,6,Homicide,1
+2022,6,Offences Against The Family And Children,154
+2022,6,Rape,2
+2022,6,Robbery,271
+2022,6,Sex Offense,8
+2022,6,Weapons Carrying Etc,68
+2022,6,Weapons Offense,96
+2022,7,Arson,32
+2022,7,Assault,756
+2022,7,Homicide,1
+2022,7,Offences Against The Family And Children,179
+2022,7,Rape,2
+2022,7,Robbery,256
+2022,7,Sex Offense,9
+2022,7,Weapons Carrying Etc,90
+2022,7,Weapons Offense,82
+2022,8,Arson,36
+2022,8,Assault,723
+2022,8,Homicide,2
+2022,8,"Human Trafficking (A), Commercial Sex Acts",4
+2022,8,Offences Against The Family And Children,197
+2022,8,Rape,1
+2022,8,Robbery,229
+2022,8,Sex Offense,9
+2022,8,Weapons Carrying Etc,56
+2022,8,Weapons Offense,95
+2022,9,Arson,39
+2022,9,Assault,827
+2022,9,Homicide,5
+2022,9,Offences Against The Family And Children,157
+2022,9,Rape,6
+2022,9,Robbery,275
+2022,9,Sex Offense,16
+2022,9,Weapons Carrying Etc,69
+2022,9,Weapons Offense,111
+2022,10,Arson,30
+2022,10,Assault,808
+2022,10,Homicide,5
+2022,10,Offences Against The Family And Children,136
+2022,10,Rape,1
+2022,10,Robbery,254
+2022,10,Sex Offense,14
+2022,10,Weapons Carrying Etc,61
+2022,10,Weapons Offense,104
+2022,11,Arson,33
+2022,11,Assault,663
+2022,11,Homicide,2
+2022,11,Offences Against The Family And Children,135
+2022,11,Rape,3
+2022,11,Robbery,214
+2022,11,Sex Offense,9
+2022,11,Weapons Carrying Etc,72
+2022,11,Weapons Offense,77
+2022,12,Arson,26
+2022,12,Assault,670
+2022,12,Homicide,4
+2022,12,Offences Against The Family And Children,134
+2022,12,Rape,3
+2022,12,Robbery,187
+2022,12,Sex Offense,8
+2022,12,Weapons Carrying Etc,50
+2022,12,Weapons Offense,77
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Offences Against The Family And Children,118
+2023,1,Rape,1
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Offences Against The Family And Children,121
+2023,2,Rape,2
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Offences Against The Family And Children,106
+2023,3,Rape,6
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Offences Against The Family And Children,127
+2023,4,Rape,3
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Offences Against The Family And Children,123
+2023,5,Rape,2
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Homicide,2
+2023,6,Offences Against The Family And Children,117
+2023,6,Rape,5
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Offences Against The Family And Children,133
+2023,7,Rape,6
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Homicide,3
+2023,8,Offences Against The Family And Children,140
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Homicide,2
+2023,9,Offences Against The Family And Children,127
+2023,9,Rape,2
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Homicide,7
+2023,10,Offences Against The Family And Children,137
+2023,10,Rape,2
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Homicide,5
+2023,11,Offences Against The Family And Children,122
+2023,11,Rape,1
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Homicide,10
+2023,12,Offences Against The Family And Children,115
+2023,12,Rape,2
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Offences Against The Family And Children,118
+2023,1,Rape,1
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Offences Against The Family And Children,121
+2023,2,Rape,2
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Offences Against The Family And Children,106
+2023,3,Rape,6
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Offences Against The Family And Children,127
+2023,4,Rape,3
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Offences Against The Family And Children,123
+2023,5,Rape,2
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Homicide,2
+2023,6,Offences Against The Family And Children,117
+2023,6,Rape,5
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Offences Against The Family And Children,133
+2023,7,Rape,6
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Homicide,3
+2023,8,Offences Against The Family And Children,140
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Homicide,2
+2023,9,Offences Against The Family And Children,127
+2023,9,Rape,2
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Homicide,7
+2023,10,Offences Against The Family And Children,137
+2023,10,Rape,2
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Homicide,5
+2023,11,Offences Against The Family And Children,122
+2023,11,Rape,1
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Homicide,10
+2023,12,Offences Against The Family And Children,115
+2023,12,Rape,2
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Offences Against The Family And Children,118
+2023,1,Rape,1
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Offences Against The Family And Children,121
+2023,2,Rape,2
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Offences Against The Family And Children,106
+2023,3,Rape,6
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Offences Against The Family And Children,127
+2023,4,Rape,3
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Offences Against The Family And Children,123
+2023,5,Rape,2
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Homicide,2
+2023,6,Offences Against The Family And Children,117
+2023,6,Rape,5
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Offences Against The Family And Children,133
+2023,7,Rape,6
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Homicide,3
+2023,8,Offences Against The Family And Children,140
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Homicide,2
+2023,9,Offences Against The Family And Children,127
+2023,9,Rape,2
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Homicide,7
+2023,10,Offences Against The Family And Children,137
+2023,10,Rape,2
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Homicide,5
+2023,11,Offences Against The Family And Children,122
+2023,11,Rape,1
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Homicide,10
+2023,12,Offences Against The Family And Children,115
+2023,12,Rape,2
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83

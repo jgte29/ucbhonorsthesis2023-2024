@@ -1,0 +1,3266 @@
+incident_year,incident_month,incident_category,count
+2018,1,Arson,26
+2018,1,Assault,715
+2018,1,Case Closure,50
+2018,1,Courtesy Report,32
+2018,1,Drug Violation,3
+2018,1,Embezzlement,24
+2018,1,Fire Report,18
+2018,1,Forgery And Counterfeiting,62
+2018,1,Fraud,416
+2018,1,Gambling,4
+2018,1,Homicide,1
+2018,1,"Human Trafficking (A), Commercial Sex Acts",1
+2018,1,Lost Property,427
+2018,1,Miscellaneous Investigation,105
+2018,1,Missing Person,290
+2018,1,Motor Vehicle Theft,419
+2018,1,Offences Against The Family And Children,142
+2018,1,Other,74
+2018,1,Other Miscellaneous,1057
+2018,1,Other Offenses,97
+2018,1,Rape,2
+2018,1,Recovered Vehicle,366
+2018,1,Robbery,277
+2018,1,Sex Offense,17
+2018,1,Stolen Property,82
+2018,1,Suicide,4
+2018,1,Suspicious Occ,267
+2018,1,Traffic Collision,21
+2018,1,Traffic Violation Arrest,219
+2018,1,Vehicle Impounded,4
+2018,1,Vehicle Misplaced,1
+2018,1,Warrant,444
+2018,1,Weapons Carrying Etc,119
+2018,1,Weapons Offense,69
+2018,2,Arson,25
+2018,2,Assault,683
+2018,2,Case Closure,76
+2018,2,Courtesy Report,34
+2018,2,Drug Violation,5
+2018,2,Embezzlement,18
+2018,2,Fire Report,16
+2018,2,Forgery And Counterfeiting,61
+2018,2,Fraud,340
+2018,2,Gambling,2
+2018,2,Lost Property,451
+2018,2,Miscellaneous Investigation,97
+2018,2,Missing Person,311
+2018,2,Motor Vehicle Theft,365
+2018,2,Motor Vehicle Theft?,3
+2018,2,Offences Against The Family And Children,149
+2018,2,Other,80
+2018,2,Other Miscellaneous,943
+2018,2,Other Offenses,101
+2018,2,Rape,3
+2018,2,Recovered Vehicle,317
+2018,2,Robbery,314
+2018,2,Sex Offense,15
+2018,2,Stolen Property,83
+2018,2,Suicide,3
+2018,2,Suspicious,1
+2018,2,Suspicious Occ,271
+2018,2,Traffic Collision,12
+2018,2,Traffic Violation Arrest,189
+2018,2,Vehicle Impounded,12
+2018,2,Vehicle Misplaced,4
+2018,2,Warrant,415
+2018,2,Weapons Carrying Etc,72
+2018,2,Weapons Offense,63
+2018,3,Arson,30
+2018,3,Assault,754
+2018,3,Case Closure,73
+2018,3,Courtesy Report,44
+2018,3,Drug Violation,5
+2018,3,Embezzlement,14
+2018,3,Fire Report,18
+2018,3,Forgery And Counterfeiting,63
+2018,3,Fraud,442
+2018,3,Gambling,3
+2018,3,Homicide,1
+2018,3,"Human Trafficking (A), Commercial Sex Acts",4
+2018,3,Lost Property,461
+2018,3,Miscellaneous Investigation,113
+2018,3,Missing Person,333
+2018,3,Motor Vehicle Theft,398
+2018,3,Motor Vehicle Theft?,3
+2018,3,Offences Against The Family And Children,164
+2018,3,Other,67
+2018,3,Other Miscellaneous,961
+2018,3,Other Offenses,90
+2018,3,Rape,2
+2018,3,Recovered Vehicle,321
+2018,3,Robbery,291
+2018,3,Sex Offense,14
+2018,3,Stolen Property,56
+2018,3,Suicide,6
+2018,3,Suspicious,1
+2018,3,Suspicious Occ,227
+2018,3,Traffic Collision,25
+2018,3,Traffic Violation Arrest,175
+2018,3,Vehicle Impounded,1
+2018,3,Vehicle Misplaced,5
+2018,3,Warrant,455
+2018,3,Weapons Carrying Etc,72
+2018,3,Weapons Offense,55
+2018,4,Arson,36
+2018,4,Assault,795
+2018,4,Case Closure,75
+2018,4,Courtesy Report,36
+2018,4,Drug Violation,3
+2018,4,Embezzlement,26
+2018,4,Fire Report,13
+2018,4,Forgery And Counterfeiting,71
+2018,4,Fraud,420
+2018,4,Homicide,1
+2018,4,"Human Trafficking (A), Commercial Sex Acts",3
+2018,4,Lost Property,468
+2018,4,Miscellaneous Investigation,122
+2018,4,Missing Person,309
+2018,4,Motor Vehicle Theft,386
+2018,4,Motor Vehicle Theft?,6
+2018,4,Offences Against The Family And Children,172
+2018,4,Other,74
+2018,4,Other Miscellaneous,1011
+2018,4,Other Offenses,83
+2018,4,Rape,3
+2018,4,Recovered Vehicle,304
+2018,4,Robbery,240
+2018,4,Sex Offense,9
+2018,4,Stolen Property,52
+2018,4,Suicide,4
+2018,4,Suspicious,2
+2018,4,Suspicious Occ,239
+2018,4,Traffic Collision,20
+2018,4,Traffic Violation Arrest,177
+2018,4,Vehicle Impounded,10
+2018,4,Vehicle Misplaced,8
+2018,4,Warrant,485
+2018,4,Weapons Carrying Etc,58
+2018,4,Weapons Offense,54
+2018,5,Arson,20
+2018,5,Assault,810
+2018,5,Case Closure,60
+2018,5,Courtesy Report,25
+2018,5,Drug Violation,1
+2018,5,Embezzlement,21
+2018,5,Fire Report,9
+2018,5,Forgery And Counterfeiting,54
+2018,5,Fraud,429
+2018,5,Gambling,1
+2018,5,Homicide,2
+2018,5,"Human Trafficking (A), Commercial Sex Acts",10
+2018,5,Lost Property,465
+2018,5,Miscellaneous Investigation,125
+2018,5,Missing Person,357
+2018,5,Motor Vehicle Theft,451
+2018,5,Motor Vehicle Theft?,4
+2018,5,Offences Against The Family And Children,178
+2018,5,Other,70
+2018,5,Other Miscellaneous,972
+2018,5,Other Offenses,106
+2018,5,Rape,1
+2018,5,Recovered Vehicle,372
+2018,5,Robbery,310
+2018,5,Sex Offense,23
+2018,5,Stolen Property,47
+2018,5,Suicide,2
+2018,5,Suspicious,1
+2018,5,Suspicious Occ,243
+2018,5,Traffic Collision,17
+2018,5,Traffic Violation Arrest,194
+2018,5,Vehicle Impounded,2
+2018,5,Vehicle Misplaced,6
+2018,5,Warrant,450
+2018,5,Weapons Carrying Etc,74
+2018,5,Weapons Offence,1
+2018,5,Weapons Offense,57
+2018,6,Arson,33
+2018,6,Assault,795
+2018,6,Case Closure,58
+2018,6,Courtesy Report,45
+2018,6,Drug Violation,3
+2018,6,Embezzlement,14
+2018,6,Fire Report,14
+2018,6,Forgery And Counterfeiting,51
+2018,6,Fraud,387
+2018,6,Gambling,2
+2018,6,Homicide,1
+2018,6,"Human Trafficking (A), Commercial Sex Acts",16
+2018,6,"Human Trafficking, Commercial Sex Acts",1
+2018,6,Lost Property,539
+2018,6,Miscellaneous Investigation,114
+2018,6,Missing Person,365
+2018,6,Motor Vehicle Theft,481
+2018,6,Motor Vehicle Theft?,2
+2018,6,Offences Against The Family And Children,166
+2018,6,Other,76
+2018,6,Other Miscellaneous,865
+2018,6,Other Offenses,68
+2018,6,Rape,6
+2018,6,Recovered Vehicle,379
+2018,6,Robbery,319
+2018,6,Sex Offense,13
+2018,6,Stolen Property,54
+2018,6,Suicide,5
+2018,6,Suspicious,3
+2018,6,Suspicious Occ,193
+2018,6,Traffic Collision,23
+2018,6,Traffic Violation Arrest,107
+2018,6,Vehicle Impounded,3
+2018,6,Vehicle Misplaced,6
+2018,6,Warrant,388
+2018,6,Weapons Carrying Etc,57
+2018,6,Weapons Offense,55
+2018,7,Arson,25
+2018,7,Assault,802
+2018,7,Case Closure,87
+2018,7,Courtesy Report,52
+2018,7,Drug Violation,4
+2018,7,Embezzlement,19
+2018,7,Fire Report,11
+2018,7,Forgery And Counterfeiting,55
+2018,7,Fraud,440
+2018,7,"Human Trafficking (A), Commercial Sex Acts",3
+2018,7,Lost Property,493
+2018,7,Miscellaneous Investigation,130
+2018,7,Missing Person,278
+2018,7,Motor Vehicle Theft,484
+2018,7,Motor Vehicle Theft?,2
+2018,7,Offences Against The Family And Children,176
+2018,7,Other,65
+2018,7,Other Miscellaneous,1017
+2018,7,Other Offenses,99
+2018,7,Rape,7
+2018,7,Recovered Vehicle,409
+2018,7,Robbery,349
+2018,7,Sex Offense,20
+2018,7,Stolen Property,67
+2018,7,Suicide,4
+2018,7,Suspicious,3
+2018,7,Suspicious Occ,224
+2018,7,Traffic Collision,22
+2018,7,Traffic Violation Arrest,129
+2018,7,Vehicle Impounded,6
+2018,7,Vehicle Misplaced,7
+2018,7,Warrant,502
+2018,7,Weapons Carrying Etc,76
+2018,7,Weapons Offence,2
+2018,7,Weapons Offense,69
+2018,8,Arson,38
+2018,8,Assault,783
+2018,8,Case Closure,67
+2018,8,Courtesy Report,34
+2018,8,Drug Violation,7
+2018,8,Embezzlement,17
+2018,8,Fire Report,11
+2018,8,Forgery And Counterfeiting,76
+2018,8,Fraud,413
+2018,8,Homicide,8
+2018,8,"Human Trafficking (A), Commercial Sex Acts",7
+2018,8,Lost Property,543
+2018,8,Miscellaneous Investigation,113
+2018,8,Missing Person,285
+2018,8,Motor Vehicle Theft,444
+2018,8,Motor Vehicle Theft?,1
+2018,8,Offences Against The Family And Children,158
+2018,8,Other,57
+2018,8,Other Miscellaneous,1036
+2018,8,Other Offenses,93
+2018,8,Rape,8
+2018,8,Recovered Vehicle,375
+2018,8,Robbery,295
+2018,8,Sex Offense,9
+2018,8,Stolen Property,63
+2018,8,Suicide,5
+2018,8,Suspicious,1
+2018,8,Suspicious Occ,262
+2018,8,Traffic Collision,31
+2018,8,Traffic Violation Arrest,198
+2018,8,Vehicle Impounded,11
+2018,8,Vehicle Misplaced,5
+2018,8,Warrant,515
+2018,8,Weapons Carrying Etc,54
+2018,8,Weapons Offence,1
+2018,8,Weapons Offense,74
+2018,9,Arson,20
+2018,9,Assault,700
+2018,9,Case Closure,35
+2018,9,Courtesy Report,40
+2018,9,Drug Violation,1
+2018,9,Embezzlement,18
+2018,9,Fire Report,8
+2018,9,Forgery And Counterfeiting,49
+2018,9,Fraud,335
+2018,9,Gambling,1
+2018,9,Homicide,1
+2018,9,"Human Trafficking (A), Commercial Sex Acts",17
+2018,9,"Human Trafficking, Commercial Sex Acts",1
+2018,9,Lost Property,492
+2018,9,Miscellaneous Investigation,103
+2018,9,Missing Person,268
+2018,9,Motor Vehicle Theft,450
+2018,9,Motor Vehicle Theft?,2
+2018,9,Offences Against The Family And Children,189
+2018,9,Other,84
+2018,9,Other Miscellaneous,1001
+2018,9,Other Offenses,88
+2018,9,Rape,4
+2018,9,Recovered Vehicle,390
+2018,9,Robbery,300
+2018,9,Sex Offense,17
+2018,9,Stolen Property,78
+2018,9,Suicide,6
+2018,9,Suspicious,3
+2018,9,Suspicious Occ,230
+2018,9,Traffic Collision,25
+2018,9,Traffic Violation Arrest,177
+2018,9,Vehicle Impounded,10
+2018,9,Vehicle Misplaced,9
+2018,9,Warrant,458
+2018,9,Weapons Carrying Etc,76
+2018,9,Weapons Offense,64
+2018,10,Arson,40
+2018,10,Assault,731
+2018,10,Case Closure,55
+2018,10,Courtesy Report,47
+2018,10,Drug Violation,10
+2018,10,Embezzlement,25
+2018,10,Fire Report,11
+2018,10,Forgery And Counterfeiting,65
+2018,10,Fraud,385
+2018,10,Homicide,2
+2018,10,"Human Trafficking (A), Commercial Sex Acts",2
+2018,10,"Human Trafficking, Commercial Sex Acts",1
+2018,10,Lost Property,539
+2018,10,Miscellaneous Investigation,121
+2018,10,Missing Person,343
+2018,10,Motor Vehicle Theft,494
+2018,10,Motor Vehicle Theft?,1
+2018,10,Offences Against The Family And Children,193
+2018,10,Other,67
+2018,10,Other Miscellaneous,943
+2018,10,Other Offenses,97
+2018,10,Rape,5
+2018,10,Recovered Vehicle,402
+2018,10,Robbery,287
+2018,10,Sex Offense,16
+2018,10,Stolen Property,75
+2018,10,Suicide,6
+2018,10,Suspicious,6
+2018,10,Suspicious Occ,205
+2018,10,Traffic Collision,17
+2018,10,Traffic Violation Arrest,146
+2018,10,Vehicle Impounded,8
+2018,10,Vehicle Misplaced,5
+2018,10,Warrant,470
+2018,10,Weapons Carrying Etc,60
+2018,10,Weapons Offense,58
+2018,11,Arson,44
+2018,11,Assault,659
+2018,11,Case Closure,53
+2018,11,Courtesy Report,30
+2018,11,Drug Violation,6
+2018,11,Embezzlement,19
+2018,11,Fire Report,15
+2018,11,Forgery And Counterfeiting,61
+2018,11,Fraud,394
+2018,11,Homicide,2
+2018,11,"Human Trafficking (A), Commercial Sex Acts",7
+2018,11,"Human Trafficking, Commercial Sex Acts",1
+2018,11,Lost Property,445
+2018,11,Miscellaneous Investigation,109
+2018,11,Missing Person,300
+2018,11,Motor Vehicle Theft,450
+2018,11,Motor Vehicle Theft?,1
+2018,11,Offences Against The Family And Children,165
+2018,11,Other,100
+2018,11,Other Miscellaneous,867
+2018,11,Other Offenses,108
+2018,11,Rape,2
+2018,11,Recovered Vehicle,339
+2018,11,Robbery,275
+2018,11,Sex Offense,12
+2018,11,Stolen Property,53
+2018,11,Suicide,5
+2018,11,Suspicious,4
+2018,11,Suspicious Occ,216
+2018,11,Traffic Collision,22
+2018,11,Traffic Violation Arrest,184
+2018,11,Vehicle Impounded,13
+2018,11,Vehicle Misplaced,2
+2018,11,Warrant,445
+2018,11,Weapons Carrying Etc,62
+2018,11,Weapons Offence,1
+2018,11,Weapons Offense,66
+2018,12,Arson,26
+2018,12,Assault,705
+2018,12,Case Closure,58
+2018,12,Courtesy Report,27
+2018,12,Drug Violation,2
+2018,12,Embezzlement,19
+2018,12,Fire Report,11
+2018,12,Forgery And Counterfeiting,66
+2018,12,Fraud,387
+2018,12,Gambling,1
+2018,12,Homicide,5
+2018,12,"Human Trafficking (B), Involuntary Servitude",1
+2018,12,Lost Property,492
+2018,12,Miscellaneous Investigation,96
+2018,12,Missing Person,272
+2018,12,Motor Vehicle Theft,462
+2018,12,Motor Vehicle Theft?,1
+2018,12,Offences Against The Family And Children,161
+2018,12,Other,87
+2018,12,Other Miscellaneous,909
+2018,12,Other Offenses,98
+2018,12,Rape,1
+2018,12,Recovered Vehicle,356
+2018,12,Robbery,359
+2018,12,Sex Offense,11
+2018,12,Stolen Property,59
+2018,12,Suicide,4
+2018,12,Suspicious,6
+2018,12,Suspicious Occ,242
+2018,12,Traffic Collision,17
+2018,12,Traffic Violation Arrest,161
+2018,12,Vehicle Impounded,8
+2018,12,Vehicle Misplaced,9
+2018,12,Warrant,460
+2018,12,Weapons Carrying Etc,41
+2018,12,Weapons Offense,66
+2019,1,Arson,24
+2019,1,Assault,661
+2019,1,Case Closure,64
+2019,1,Courtesy Report,41
+2019,1,Drug Violation,5
+2019,1,Embezzlement,26
+2019,1,Fire Report,7
+2019,1,Forgery And Counterfeiting,69
+2019,1,Fraud,407
+2019,1,Gambling,2
+2019,1,Homicide,1
+2019,1,"Human Trafficking (A), Commercial Sex Acts",1
+2019,1,Lost Property,426
+2019,1,Miscellaneous Investigation,113
+2019,1,Missing Person,285
+2019,1,Motor Vehicle Theft,419
+2019,1,Motor Vehicle Theft?,3
+2019,1,Offences Against The Family And Children,177
+2019,1,Other,95
+2019,1,Other Miscellaneous,895
+2019,1,Other Offenses,99
+2019,1,Rape,7
+2019,1,Recovered Vehicle,390
+2019,1,Robbery,290
+2019,1,Sex Offense,14
+2019,1,Stolen Property,83
+2019,1,Suicide,10
+2019,1,Suspicious Occ,236
+2019,1,Traffic Collision,26
+2019,1,Traffic Violation Arrest,150
+2019,1,Vehicle Impounded,8
+2019,1,Vehicle Misplaced,5
+2019,1,Warrant,439
+2019,1,Weapons Carrying Etc,78
+2019,1,Weapons Offense,87
+2019,2,Arson,18
+2019,2,Assault,533
+2019,2,Case Closure,90
+2019,2,Courtesy Report,27
+2019,2,Drug Violation,1
+2019,2,Embezzlement,16
+2019,2,Fire Report,11
+2019,2,Forgery And Counterfeiting,51
+2019,2,Fraud,395
+2019,2,Gambling,1
+2019,2,Lost Property,445
+2019,2,Miscellaneous Investigation,104
+2019,2,Missing Person,250
+2019,2,Motor Vehicle Theft,398
+2019,2,Motor Vehicle Theft?,2
+2019,2,Offences Against The Family And Children,156
+2019,2,Other,100
+2019,2,Other Miscellaneous,814
+2019,2,Other Offenses,70
+2019,2,Rape,3
+2019,2,Recovered Vehicle,319
+2019,2,Robbery,228
+2019,2,Sex Offense,16
+2019,2,Stolen Property,58
+2019,2,Suicide,4
+2019,2,Suspicious Occ,197
+2019,2,Traffic Collision,24
+2019,2,Traffic Violation Arrest,157
+2019,2,Vehicle Impounded,17
+2019,2,Vehicle Misplaced,5
+2019,2,Warrant,429
+2019,2,Weapons Carrying Etc,63
+2019,2,Weapons Offense,60
+2019,3,Arson,20
+2019,3,Assault,800
+2019,3,Case Closure,63
+2019,3,Courtesy Report,36
+2019,3,Drug Violation,2
+2019,3,Embezzlement,17
+2019,3,Fire Report,14
+2019,3,Forgery And Counterfeiting,52
+2019,3,Fraud,387
+2019,3,Homicide,1
+2019,3,"Human Trafficking (A), Commercial Sex Acts",1
+2019,3,"Human Trafficking, Commercial Sex Acts",1
+2019,3,Lost Property,515
+2019,3,Miscellaneous Investigation,116
+2019,3,Missing Person,282
+2019,3,Motor Vehicle Theft,415
+2019,3,Motor Vehicle Theft?,1
+2019,3,Offences Against The Family And Children,171
+2019,3,Other,82
+2019,3,Other Miscellaneous,808
+2019,3,Other Offenses,79
+2019,3,Rape,2
+2019,3,Recovered Vehicle,340
+2019,3,Robbery,250
+2019,3,Sex Offense,6
+2019,3,Stolen Property,54
+2019,3,Suicide,4
+2019,3,Suspicious,1
+2019,3,Suspicious Occ,231
+2019,3,Traffic Collision,23
+2019,3,Traffic Violation Arrest,124
+2019,3,Vehicle Impounded,15
+2019,3,Vehicle Misplaced,4
+2019,3,Warrant,418
+2019,3,Weapons Carrying Etc,53
+2019,3,Weapons Offence,1
+2019,3,Weapons Offense,59
+2019,4,Arson,22
+2019,4,Assault,694
+2019,4,Case Closure,55
+2019,4,Courtesy Report,44
+2019,4,Drug Violation,1
+2019,4,Embezzlement,6
+2019,4,Fire Report,3
+2019,4,Forgery And Counterfeiting,45
+2019,4,Fraud,408
+2019,4,Homicide,1
+2019,4,"Human Trafficking (A), Commercial Sex Acts",2
+2019,4,Lost Property,499
+2019,4,Miscellaneous Investigation,127
+2019,4,Missing Person,289
+2019,4,Motor Vehicle Theft,443
+2019,4,Motor Vehicle Theft?,2
+2019,4,Offences Against The Family And Children,145
+2019,4,Other,68
+2019,4,Other Miscellaneous,880
+2019,4,Other Offenses,104
+2019,4,Rape,1
+2019,4,Recovered Vehicle,337
+2019,4,Robbery,256
+2019,4,Sex Offense,16
+2019,4,Stolen Property,52
+2019,4,Suicide,8
+2019,4,Suspicious Occ,287
+2019,4,Traffic Collision,27
+2019,4,Traffic Violation Arrest,168
+2019,4,Vehicle Impounded,4
+2019,4,Vehicle Misplaced,2
+2019,4,Warrant,497
+2019,4,Weapons Carrying Etc,43
+2019,4,Weapons Offense,74
+2019,5,Arson,24
+2019,5,Assault,774
+2019,5,Case Closure,51
+2019,5,Courtesy Report,41
+2019,5,Drug Violation,3
+2019,5,Embezzlement,24
+2019,5,Fire Report,7
+2019,5,Forgery And Counterfeiting,53
+2019,5,Fraud,403
+2019,5,Homicide,2
+2019,5,Lost Property,416
+2019,5,Miscellaneous Investigation,120
+2019,5,Missing Person,261
+2019,5,Motor Vehicle Theft,449
+2019,5,Motor Vehicle Theft?,1
+2019,5,Offences Against The Family And Children,169
+2019,5,Other,84
+2019,5,Other Miscellaneous,930
+2019,5,Other Offenses,89
+2019,5,Rape,3
+2019,5,Recovered Vehicle,371
+2019,5,Robbery,256
+2019,5,Sex Offense,14
+2019,5,Stolen Property,64
+2019,5,Suicide,5
+2019,5,Suspicious,2
+2019,5,Suspicious Occ,269
+2019,5,Traffic Collision,32
+2019,5,Traffic Violation Arrest,170
+2019,5,Vehicle Impounded,16
+2019,5,Vehicle Misplaced,4
+2019,5,Warrant,480
+2019,5,Weapons Carrying Etc,74
+2019,5,Weapons Offence,1
+2019,5,Weapons Offense,64
+2019,6,Arson,19
+2019,6,Assault,794
+2019,6,Case Closure,56
+2019,6,Courtesy Report,45
+2019,6,Drug Violation,6
+2019,6,Embezzlement,15
+2019,6,Fire Report,12
+2019,6,Forgery And Counterfeiting,59
+2019,6,Fraud,395
+2019,6,Homicide,4
+2019,6,Lost Property,448
+2019,6,Miscellaneous Investigation,118
+2019,6,Missing Person,284
+2019,6,Motor Vehicle Theft,460
+2019,6,Motor Vehicle Theft?,2
+2019,6,Offences Against The Family And Children,158
+2019,6,Other,85
+2019,6,Other Miscellaneous,785
+2019,6,Other Offenses,88
+2019,6,Rape,4
+2019,6,Recovered Vehicle,355
+2019,6,Robbery,274
+2019,6,Sex Offense,22
+2019,6,Stolen Property,52
+2019,6,Suicide,6
+2019,6,Suspicious Occ,251
+2019,6,Traffic Collision,24
+2019,6,Traffic Violation Arrest,117
+2019,6,Vehicle Impounded,17
+2019,6,Vehicle Misplaced,4
+2019,6,Warrant,439
+2019,6,Weapons Carrying Etc,72
+2019,6,Weapons Offence,3
+2019,6,Weapons Offense,57
+2019,7,Arson,23
+2019,7,Assault,751
+2019,7,Case Closure,60
+2019,7,Courtesy Report,41
+2019,7,Drug Violation,8
+2019,7,Embezzlement,14
+2019,7,Fire Report,15
+2019,7,Forgery And Counterfeiting,79
+2019,7,Fraud,414
+2019,7,Lost Property,438
+2019,7,Miscellaneous Investigation,107
+2019,7,Missing Person,296
+2019,7,Motor Vehicle Theft,459
+2019,7,Motor Vehicle Theft?,4
+2019,7,Offences Against The Family And Children,145
+2019,7,Other,88
+2019,7,Other Miscellaneous,953
+2019,7,Other Offenses,94
+2019,7,Rape,5
+2019,7,Recovered Vehicle,333
+2019,7,Robbery,257
+2019,7,Sex Offense,8
+2019,7,Stolen Property,62
+2019,7,Suicide,5
+2019,7,Suspicious,2
+2019,7,Suspicious Occ,232
+2019,7,Traffic Collision,21
+2019,7,Traffic Violation Arrest,165
+2019,7,Vehicle Impounded,8
+2019,7,Vehicle Misplaced,3
+2019,7,Warrant,464
+2019,7,Weapons Carrying Etc,67
+2019,7,Weapons Offense,77
+2019,8,Arson,31
+2019,8,Assault,828
+2019,8,Case Closure,53
+2019,8,Courtesy Report,58
+2019,8,Drug Violation,2
+2019,8,Embezzlement,13
+2019,8,Fire Report,11
+2019,8,Forgery And Counterfeiting,45
+2019,8,Fraud,387
+2019,8,Homicide,1
+2019,8,"Human Trafficking (A), Commercial Sex Acts",1
+2019,8,"Human Trafficking, Commercial Sex Acts",1
+2019,8,Lost Property,497
+2019,8,Miscellaneous Investigation,123
+2019,8,Missing Person,289
+2019,8,Motor Vehicle Theft,433
+2019,8,Offences Against The Family And Children,179
+2019,8,Other,92
+2019,8,Other Miscellaneous,979
+2019,8,Other Offenses,112
+2019,8,Rape,1
+2019,8,Recovered Vehicle,359
+2019,8,Robbery,317
+2019,8,Sex Offense,25
+2019,8,Stolen Property,65
+2019,8,Suicide,13
+2019,8,Suspicious,7
+2019,8,Suspicious Occ,261
+2019,8,Traffic Collision,32
+2019,8,Traffic Violation Arrest,152
+2019,8,Vehicle Impounded,14
+2019,8,Vehicle Misplaced,5
+2019,8,Warrant,494
+2019,8,Weapons Carrying Etc,53
+2019,8,Weapons Offense,71
+2019,9,Arson,34
+2019,9,Assault,754
+2019,9,Case Closure,40
+2019,9,Courtesy Report,42
+2019,9,Drug Violation,7
+2019,9,Embezzlement,22
+2019,9,Fire Report,17
+2019,9,Forgery And Counterfeiting,52
+2019,9,Fraud,389
+2019,9,"Human Trafficking, Commercial Sex Acts",1
+2019,9,Lost Property,463
+2019,9,Miscellaneous Investigation,111
+2019,9,Missing Person,304
+2019,9,Motor Vehicle Theft,482
+2019,9,Offences Against The Family And Children,167
+2019,9,Other,73
+2019,9,Other Miscellaneous,891
+2019,9,Other Offenses,120
+2019,9,Recovered Vehicle,373
+2019,9,Robbery,289
+2019,9,Sex Offense,9
+2019,9,Stolen Property,63
+2019,9,Suicide,7
+2019,9,Suspicious Occ,220
+2019,9,Traffic Collision,20
+2019,9,Traffic Violation Arrest,155
+2019,9,Vehicle Impounded,9
+2019,9,Vehicle Misplaced,4
+2019,9,Warrant,399
+2019,9,Weapons Carrying Etc,72
+2019,9,Weapons Offence,1
+2019,9,Weapons Offense,62
+2019,10,Arson,36
+2019,10,Assault,752
+2019,10,Case Closure,49
+2019,10,Courtesy Report,52
+2019,10,Drug Violation,5
+2019,10,Embezzlement,22
+2019,10,Fire Report,17
+2019,10,Forgery And Counterfeiting,43
+2019,10,Fraud,373
+2019,10,Gambling,3
+2019,10,Homicide,3
+2019,10,"Human Trafficking (A), Commercial Sex Acts",1
+2019,10,Lost Property,453
+2019,10,Miscellaneous Investigation,116
+2019,10,Missing Person,300
+2019,10,Motor Vehicle Theft,463
+2019,10,Motor Vehicle Theft?,3
+2019,10,Offences Against The Family And Children,172
+2019,10,Other,74
+2019,10,Other Miscellaneous,875
+2019,10,Other Offenses,119
+2019,10,Rape,2
+2019,10,Recovered Vehicle,368
+2019,10,Robbery,351
+2019,10,Sex Offense,10
+2019,10,Stolen Property,55
+2019,10,Suicide,5
+2019,10,Suspicious,4
+2019,10,Suspicious Occ,270
+2019,10,Traffic Collision,34
+2019,10,Traffic Violation Arrest,155
+2019,10,Vehicle Impounded,11
+2019,10,Vehicle Misplaced,10
+2019,10,Warrant,451
+2019,10,Weapons Carrying Etc,67
+2019,10,Weapons Offence,3
+2019,10,Weapons Offense,57
+2019,11,Arson,35
+2019,11,Assault,694
+2019,11,Case Closure,50
+2019,11,Courtesy Report,38
+2019,11,Drug Violation,2
+2019,11,Embezzlement,18
+2019,11,Fire Report,19
+2019,11,Forgery And Counterfeiting,50
+2019,11,Fraud,382
+2019,11,Homicide,2
+2019,11,"Human Trafficking (A), Commercial Sex Acts",4
+2019,11,"Human Trafficking, Commercial Sex Acts",4
+2019,11,Lost Property,427
+2019,11,Miscellaneous Investigation,106
+2019,11,Missing Person,239
+2019,11,Motor Vehicle Theft,499
+2019,11,Motor Vehicle Theft?,1
+2019,11,Offences Against The Family And Children,127
+2019,11,Other,89
+2019,11,Other Miscellaneous,850
+2019,11,Other Offenses,123
+2019,11,Rape,4
+2019,11,Recovered Vehicle,358
+2019,11,Robbery,368
+2019,11,Sex Offense,11
+2019,11,Stolen Property,64
+2019,11,Suicide,8
+2019,11,Suspicious,3
+2019,11,Suspicious Occ,221
+2019,11,Traffic Collision,28
+2019,11,Traffic Violation Arrest,152
+2019,11,Vehicle Impounded,9
+2019,11,Vehicle Misplaced,7
+2019,11,Warrant,412
+2019,11,Weapons Carrying Etc,35
+2019,11,Weapons Offense,47
+2019,12,Arson,22
+2019,12,Assault,688
+2019,12,Case Closure,58
+2019,12,Courtesy Report,40
+2019,12,Drug Violation,4
+2019,12,Embezzlement,18
+2019,12,Fire Report,11
+2019,12,Forgery And Counterfeiting,38
+2019,12,Fraud,375
+2019,12,"Human Trafficking, Commercial Sex Acts",2
+2019,12,Lost Property,488
+2019,12,Miscellaneous Investigation,109
+2019,12,Missing Person,274
+2019,12,Motor Vehicle Theft,474
+2019,12,Motor Vehicle Theft?,2
+2019,12,Offences Against The Family And Children,123
+2019,12,Other,109
+2019,12,Other Miscellaneous,747
+2019,12,Other Offenses,101
+2019,12,Rape,5
+2019,12,Recovered Vehicle,351
+2019,12,Robbery,288
+2019,12,Sex Offense,11
+2019,12,Stolen Property,50
+2019,12,Suicide,7
+2019,12,Suspicious,4
+2019,12,Suspicious Occ,201
+2019,12,Traffic Collision,19
+2019,12,Traffic Violation Arrest,119
+2019,12,Vehicle Impounded,7
+2019,12,Vehicle Misplaced,9
+2019,12,Warrant,381
+2019,12,Weapons Carrying Etc,46
+2019,12,Weapons Offense,42
+2020,1,Arson,25
+2020,1,Assault,605
+2020,1,Case Closure,50
+2020,1,Courtesy Report,46
+2020,1,Drug Violation,5
+2020,1,Embezzlement,16
+2020,1,Fire Report,15
+2020,1,Forgery And Counterfeiting,40
+2020,1,Fraud,409
+2020,1,"Human Trafficking (A), Commercial Sex Acts",2
+2020,1,Lost Property,416
+2020,1,Miscellaneous Investigation,109
+2020,1,Missing Person,254
+2020,1,Motor Vehicle Theft,481
+2020,1,Offences Against The Family And Children,144
+2020,1,Other,97
+2020,1,Other Miscellaneous,863
+2020,1,Other Offenses,99
+2020,1,Rape,5
+2020,1,Recovered Vehicle,386
+2020,1,Robbery,298
+2020,1,Sex Offense,17
+2020,1,Stolen Property,60
+2020,1,Suicide,9
+2020,1,Suspicious,2
+2020,1,Suspicious Occ,241
+2020,1,Traffic Collision,26
+2020,1,Traffic Violation Arrest,153
+2020,1,Vehicle Impounded,12
+2020,1,Vehicle Misplaced,8
+2020,1,Warrant,447
+2020,1,Weapons Carrying Etc,77
+2020,1,Weapons Offense,82
+2020,2,Arson,23
+2020,2,Assault,689
+2020,2,Case Closure,56
+2020,2,Courtesy Report,36
+2020,2,Drug Violation,6
+2020,2,Embezzlement,25
+2020,2,Fire Report,14
+2020,2,Forgery And Counterfeiting,34
+2020,2,Fraud,321
+2020,2,Homicide,2
+2020,2,"Human Trafficking (A), Commercial Sex Acts",1
+2020,2,Lost Property,384
+2020,2,Miscellaneous Investigation,107
+2020,2,Missing Person,269
+2020,2,Motor Vehicle Theft,484
+2020,2,Offences Against The Family And Children,152
+2020,2,Other,96
+2020,2,Other Miscellaneous,814
+2020,2,Other Offenses,96
+2020,2,Rape,4
+2020,2,Recovered Vehicle,380
+2020,2,Robbery,334
+2020,2,Sex Offense,10
+2020,2,Stolen Property,49
+2020,2,Suicide,3
+2020,2,Suspicious,4
+2020,2,Suspicious Occ,199
+2020,2,Traffic Collision,18
+2020,2,Traffic Violation Arrest,154
+2020,2,Vehicle Impounded,11
+2020,2,Vehicle Misplaced,11
+2020,2,Warrant,395
+2020,2,Weapons Carrying Etc,48
+2020,2,Weapons Offense,78
+2020,3,Arson,31
+2020,3,Assault,582
+2020,3,Case Closure,37
+2020,3,Courtesy Report,25
+2020,3,Drug Violation,2
+2020,3,Embezzlement,28
+2020,3,Fire Report,5
+2020,3,Forgery And Counterfeiting,42
+2020,3,Fraud,311
+2020,3,Homicide,1
+2020,3,"Human Trafficking, Commercial Sex Acts",1
+2020,3,Lost Property,255
+2020,3,Miscellaneous Investigation,104
+2020,3,Missing Person,256
+2020,3,Motor Vehicle Theft,521
+2020,3,Motor Vehicle Theft?,1
+2020,3,Offences Against The Family And Children,150
+2020,3,Other,100
+2020,3,Other Miscellaneous,747
+2020,3,Other Offenses,73
+2020,3,Rape,1
+2020,3,Recovered Vehicle,365
+2020,3,Robbery,263
+2020,3,Sex Offense,13
+2020,3,Stolen Property,70
+2020,3,Suicide,4
+2020,3,Suspicious,4
+2020,3,Suspicious Occ,219
+2020,3,Traffic Collision,25
+2020,3,Traffic Violation Arrest,95
+2020,3,Vehicle Impounded,4
+2020,3,Vehicle Misplaced,8
+2020,3,Warrant,268
+2020,3,Weapons Carrying Etc,43
+2020,3,Weapons Offence,1
+2020,3,Weapons Offense,49
+2020,4,Arson,38
+2020,4,Assault,462
+2020,4,Case Closure,34
+2020,4,Courtesy Report,9
+2020,4,Drug Violation,2
+2020,4,Embezzlement,11
+2020,4,Fire Report,14
+2020,4,Forgery And Counterfeiting,38
+2020,4,Fraud,204
+2020,4,"Human Trafficking, Commercial Sex Acts",1
+2020,4,Lost Property,132
+2020,4,Miscellaneous Investigation,94
+2020,4,Missing Person,174
+2020,4,Motor Vehicle Theft,528
+2020,4,Offences Against The Family And Children,120
+2020,4,Other,91
+2020,4,Other Miscellaneous,707
+2020,4,Other Offenses,75
+2020,4,Recovered Vehicle,351
+2020,4,Robbery,172
+2020,4,Sex Offense,6
+2020,4,Stolen Property,59
+2020,4,Suicide,6
+2020,4,Suspicious Occ,181
+2020,4,Traffic Collision,12
+2020,4,Traffic Violation Arrest,68
+2020,4,Vehicle Impounded,7
+2020,4,Vehicle Misplaced,2
+2020,4,Warrant,171
+2020,4,Weapons Carrying Etc,28
+2020,4,Weapons Offence,2
+2020,4,Weapons Offense,53
+2020,5,Arson,40
+2020,5,Assault,503
+2020,5,Case Closure,40
+2020,5,Courtesy Report,21
+2020,5,Drug Violation,2
+2020,5,Embezzlement,16
+2020,5,Fire Report,13
+2020,5,Forgery And Counterfeiting,32
+2020,5,Fraud,247
+2020,5,Gambling,1
+2020,5,Homicide,1
+2020,5,"Human Trafficking (A), Commercial Sex Acts",2
+2020,5,"Human Trafficking, Commercial Sex Acts",2
+2020,5,Lost Property,148
+2020,5,Miscellaneous Investigation,107
+2020,5,Missing Person,191
+2020,5,Motor Vehicle Theft,615
+2020,5,Motor Vehicle Theft?,1
+2020,5,Offences Against The Family And Children,125
+2020,5,Other,110
+2020,5,Other Miscellaneous,738
+2020,5,Other Offenses,112
+2020,5,Rape,2
+2020,5,Recovered Vehicle,421
+2020,5,Robbery,171
+2020,5,Sex Offense,10
+2020,5,Stolen Property,53
+2020,5,Suicide,6
+2020,5,Suspicious,2
+2020,5,Suspicious Occ,202
+2020,5,Traffic Collision,20
+2020,5,Traffic Violation Arrest,57
+2020,5,Vehicle Impounded,1
+2020,5,Vehicle Misplaced,1
+2020,5,Warrant,185
+2020,5,Weapons Carrying Etc,61
+2020,5,Weapons Offense,76
+2020,6,Arson,38
+2020,6,Assault,540
+2020,6,Case Closure,35
+2020,6,Courtesy Report,28
+2020,6,Drug Violation,1
+2020,6,Embezzlement,13
+2020,6,Fire Report,23
+2020,6,Forgery And Counterfeiting,28
+2020,6,Fraud,317
+2020,6,Homicide,1
+2020,6,"Human Trafficking (A), Commercial Sex Acts",1
+2020,6,Lost Property,167
+2020,6,Miscellaneous Investigation,103
+2020,6,Missing Person,215
+2020,6,Motor Vehicle Theft,686
+2020,6,Offences Against The Family And Children,140
+2020,6,Other,112
+2020,6,Other Miscellaneous,615
+2020,6,Other Offenses,88
+2020,6,Recovered Vehicle,488
+2020,6,Robbery,194
+2020,6,Sex Offense,12
+2020,6,Stolen Property,47
+2020,6,Suicide,3
+2020,6,Suspicious,1
+2020,6,Suspicious Occ,220
+2020,6,Traffic Collision,14
+2020,6,Traffic Violation Arrest,55
+2020,6,Vehicle Impounded,1
+2020,6,Warrant,213
+2020,6,Weapons Carrying Etc,44
+2020,6,Weapons Offense,59
+2020,7,Arson,35
+2020,7,Assault,555
+2020,7,Case Closure,48
+2020,7,Courtesy Report,34
+2020,7,Drug Violation,2
+2020,7,Embezzlement,12
+2020,7,Fire Report,15
+2020,7,Forgery And Counterfeiting,43
+2020,7,Fraud,391
+2020,7,Homicide,1
+2020,7,"Human Trafficking (A), Commercial Sex Acts",1
+2020,7,Lost Property,152
+2020,7,Miscellaneous Investigation,124
+2020,7,Missing Person,242
+2020,7,Motor Vehicle Theft,829
+2020,7,Offences Against The Family And Children,146
+2020,7,Other,104
+2020,7,Other Miscellaneous,585
+2020,7,Other Offenses,92
+2020,7,Rape,2
+2020,7,Recovered Vehicle,596
+2020,7,Robbery,201
+2020,7,Sex Offense,11
+2020,7,Stolen Property,37
+2020,7,Suicide,7
+2020,7,Suspicious,1
+2020,7,Suspicious Occ,203
+2020,7,Traffic Collision,20
+2020,7,Traffic Violation Arrest,58
+2020,7,Vehicle Impounded,5
+2020,7,Vehicle Misplaced,4
+2020,7,Warrant,227
+2020,7,Weapons Carrying Etc,42
+2020,7,Weapons Offense,60
+2020,8,Arson,50
+2020,8,Assault,523
+2020,8,Case Closure,23
+2020,8,Courtesy Report,28
+2020,8,Drug Violation,2
+2020,8,Embezzlement,9
+2020,8,Fire Report,23
+2020,8,Forgery And Counterfeiting,27
+2020,8,Fraud,325
+2020,8,"Human Trafficking (A), Commercial Sex Acts",2
+2020,8,Lost Property,172
+2020,8,Miscellaneous Investigation,94
+2020,8,Missing Person,222
+2020,8,Motor Vehicle Theft,668
+2020,8,Motor Vehicle Theft?,2
+2020,8,Offences Against The Family And Children,156
+2020,8,Other,114
+2020,8,Other Miscellaneous,611
+2020,8,Other Offenses,97
+2020,8,Rape,3
+2020,8,Recovered Vehicle,556
+2020,8,Robbery,203
+2020,8,Sex Offense,15
+2020,8,Stolen Property,50
+2020,8,Suicide,1
+2020,8,Suspicious,2
+2020,8,Suspicious Occ,202
+2020,8,Traffic Collision,21
+2020,8,Traffic Violation Arrest,77
+2020,8,Vehicle Impounded,4
+2020,8,Vehicle Misplaced,2
+2020,8,Warrant,238
+2020,8,Weapons Carrying Etc,42
+2020,8,Weapons Offense,69
+2020,9,Arson,35
+2020,9,Assault,633
+2020,9,Case Closure,43
+2020,9,Courtesy Report,23
+2020,9,Drug Violation,3
+2020,9,Embezzlement,16
+2020,9,Fire Report,25
+2020,9,Forgery And Counterfeiting,34
+2020,9,Fraud,367
+2020,9,Gambling,1
+2020,9,Homicide,2
+2020,9,Lost Property,176
+2020,9,Miscellaneous Investigation,103
+2020,9,Missing Person,197
+2020,9,Motor Vehicle Theft,536
+2020,9,Motor Vehicle Theft?,1
+2020,9,Offences Against The Family And Children,131
+2020,9,Other,104
+2020,9,Other Miscellaneous,635
+2020,9,Other Offenses,85
+2020,9,Recovered Vehicle,479
+2020,9,Robbery,180
+2020,9,Sex Offense,12
+2020,9,Stolen Property,45
+2020,9,Suicide,2
+2020,9,Suspicious,1
+2020,9,Suspicious Occ,236
+2020,9,Traffic Collision,27
+2020,9,Traffic Violation Arrest,85
+2020,9,Vehicle Impounded,10
+2020,9,Vehicle Misplaced,7
+2020,9,Warrant,250
+2020,9,Weapons Carrying Etc,55
+2020,9,Weapons Offense,70
+2020,10,Arson,31
+2020,10,Assault,653
+2020,10,Case Closure,55
+2020,10,Courtesy Report,20
+2020,10,Drug Violation,5
+2020,10,Embezzlement,12
+2020,10,Fire Report,15
+2020,10,Forgery And Counterfeiting,26
+2020,10,Fraud,383
+2020,10,Lost Property,172
+2020,10,Miscellaneous Investigation,103
+2020,10,Missing Person,194
+2020,10,Motor Vehicle Theft,674
+2020,10,Motor Vehicle Theft?,3
+2020,10,Offences Against The Family And Children,142
+2020,10,Other,100
+2020,10,Other Miscellaneous,655
+2020,10,Other Offenses,110
+2020,10,Rape,2
+2020,10,Recovered Vehicle,517
+2020,10,Robbery,199
+2020,10,Sex Offense,12
+2020,10,Stolen Property,57
+2020,10,Suicide,3
+2020,10,Suspicious,2
+2020,10,Suspicious Occ,215
+2020,10,Traffic Collision,25
+2020,10,Traffic Violation Arrest,92
+2020,10,Vehicle Impounded,5
+2020,10,Vehicle Misplaced,5
+2020,10,Warrant,251
+2020,10,Weapons Carrying Etc,73
+2020,10,Weapons Offense,86
+2020,11,Arson,34
+2020,11,Assault,576
+2020,11,Case Closure,69
+2020,11,Courtesy Report,18
+2020,11,Drug Violation,1
+2020,11,Embezzlement,6
+2020,11,Fire Report,18
+2020,11,Forgery And Counterfeiting,26
+2020,11,Fraud,294
+2020,11,Lost Property,197
+2020,11,Miscellaneous Investigation,83
+2020,11,Missing Person,213
+2020,11,Motor Vehicle Theft,759
+2020,11,Motor Vehicle Theft?,2
+2020,11,Offences Against The Family And Children,162
+2020,11,Other,95
+2020,11,Other Miscellaneous,673
+2020,11,Other Offenses,125
+2020,11,Rape,4
+2020,11,Recovered Vehicle,547
+2020,11,Robbery,239
+2020,11,Sex Offense,10
+2020,11,Stolen Property,60
+2020,11,Suicide,1
+2020,11,Suspicious Occ,215
+2020,11,Traffic Collision,18
+2020,11,Traffic Violation Arrest,94
+2020,11,Vehicle Impounded,8
+2020,11,Vehicle Misplaced,1
+2020,11,Warrant,265
+2020,11,Weapons Carrying Etc,57
+2020,11,Weapons Offense,83
+2020,12,Arson,43
+2020,12,Assault,580
+2020,12,Case Closure,56
+2020,12,Courtesy Report,30
+2020,12,Drug Violation,3
+2020,12,Embezzlement,11
+2020,12,Fire Report,13
+2020,12,Forgery And Counterfeiting,25
+2020,12,Fraud,258
+2020,12,Homicide,4
+2020,12,Lost Property,167
+2020,12,Miscellaneous Investigation,93
+2020,12,Missing Person,178
+2020,12,Motor Vehicle Theft,780
+2020,12,Offences Against The Family And Children,134
+2020,12,Other,122
+2020,12,Other Miscellaneous,703
+2020,12,Other Offenses,116
+2020,12,Rape,1
+2020,12,Recovered Vehicle,570
+2020,12,Robbery,282
+2020,12,Sex Offense,11
+2020,12,Stolen Property,62
+2020,12,Suicide,3
+2020,12,Suspicious,2
+2020,12,Suspicious Occ,207
+2020,12,Traffic Collision,32
+2020,12,Traffic Violation Arrest,83
+2020,12,Vehicle Impounded,8
+2020,12,Vehicle Misplaced,2
+2020,12,Warrant,250
+2020,12,Weapons Carrying Etc,66
+2020,12,Weapons Offense,111
+2021,1,Arson,45
+2021,1,Assault,588
+2021,1,Case Closure,35
+2021,1,Courtesy Report,22
+2021,1,Drug Violation,2
+2021,1,Embezzlement,9
+2021,1,Fire Report,25
+2021,1,Forgery And Counterfeiting,33
+2021,1,Fraud,317
+2021,1,Homicide,1
+2021,1,"Human Trafficking (A), Commercial Sex Acts",2
+2021,1,Lost Property,166
+2021,1,Miscellaneous Investigation,107
+2021,1,Missing Person,189
+2021,1,Motor Vehicle Theft,766
+2021,1,Motor Vehicle Theft?,1
+2021,1,Offences Against The Family And Children,111
+2021,1,Other,133
+2021,1,Other Miscellaneous,737
+2021,1,Other Offenses,102
+2021,1,Rape,3
+2021,1,Recovered Vehicle,582
+2021,1,Robbery,230
+2021,1,Sex Offense,13
+2021,1,Stolen Property,74
+2021,1,Suicide,2
+2021,1,Suspicious,4
+2021,1,Suspicious Occ,221
+2021,1,Traffic Collision,26
+2021,1,Traffic Violation Arrest,123
+2021,1,Vehicle Impounded,11
+2021,1,Warrant,244
+2021,1,Weapons Carrying Etc,76
+2021,1,Weapons Offence,1
+2021,1,Weapons Offense,110
+2021,2,Arson,36
+2021,2,Assault,513
+2021,2,Case Closure,36
+2021,2,Courtesy Report,13
+2021,2,Drug Violation,6
+2021,2,Embezzlement,10
+2021,2,Fire Report,21
+2021,2,Forgery And Counterfeiting,17
+2021,2,Fraud,283
+2021,2,Homicide,2
+2021,2,Lost Property,144
+2021,2,Miscellaneous Investigation,101
+2021,2,Missing Person,166
+2021,2,Motor Vehicle Theft,638
+2021,2,Offences Against The Family And Children,104
+2021,2,Other,115
+2021,2,Other Miscellaneous,739
+2021,2,Other Offenses,105
+2021,2,Rape,2
+2021,2,Recovered Vehicle,541
+2021,2,Robbery,260
+2021,2,Sex Offense,9
+2021,2,Stolen Property,53
+2021,2,Suicide,10
+2021,2,Suspicious,1
+2021,2,Suspicious Occ,231
+2021,2,Traffic Collision,24
+2021,2,Traffic Violation Arrest,106
+2021,2,Vehicle Impounded,5
+2021,2,Vehicle Misplaced,1
+2021,2,Warrant,215
+2021,2,Weapons Carrying Etc,82
+2021,2,Weapons Offense,86
+2021,3,Arson,43
+2021,3,Assault,567
+2021,3,Case Closure,29
+2021,3,Courtesy Report,27
+2021,3,Drug Violation,4
+2021,3,Embezzlement,18
+2021,3,Fire Report,22
+2021,3,Forgery And Counterfeiting,34
+2021,3,Fraud,281
+2021,3,Homicide,1
+2021,3,"Human Trafficking (A), Commercial Sex Acts",3
+2021,3,Lost Property,187
+2021,3,Miscellaneous Investigation,115
+2021,3,Missing Person,200
+2021,3,Motor Vehicle Theft,599
+2021,3,Offences Against The Family And Children,140
+2021,3,Other,112
+2021,3,Other Miscellaneous,692
+2021,3,Other Offenses,85
+2021,3,Rape,3
+2021,3,Recovered Vehicle,458
+2021,3,Robbery,205
+2021,3,Sex Offense,5
+2021,3,Stolen Property,68
+2021,3,Suspicious,1
+2021,3,Suspicious Occ,267
+2021,3,Traffic Collision,28
+2021,3,Traffic Violation Arrest,112
+2021,3,Vehicle Impounded,5
+2021,3,Vehicle Misplaced,2
+2021,3,Warrant,225
+2021,3,Weapons Carrying Etc,65
+2021,3,Weapons Offense,97
+2021,4,Arson,41
+2021,4,Assault,572
+2021,4,Case Closure,47
+2021,4,Courtesy Report,22
+2021,4,Drug Violation,3
+2021,4,Embezzlement,6
+2021,4,Fire Report,6
+2021,4,Forgery And Counterfeiting,16
+2021,4,Fraud,309
+2021,4,"Human Trafficking (A), Commercial Sex Acts",1
+2021,4,"Human Trafficking, Commercial Sex Acts",1
+2021,4,Lost Property,178
+2021,4,Miscellaneous Investigation,102
+2021,4,Missing Person,170
+2021,4,Motor Vehicle Theft,578
+2021,4,Offences Against The Family And Children,178
+2021,4,Other,90
+2021,4,Other Miscellaneous,611
+2021,4,Other Offenses,80
+2021,4,Rape,2
+2021,4,Recovered Vehicle,455
+2021,4,Robbery,184
+2021,4,Sex Offense,11
+2021,4,Stolen Property,49
+2021,4,Suicide,5
+2021,4,Suspicious Occ,236
+2021,4,Traffic Collision,34
+2021,4,Traffic Violation Arrest,83
+2021,4,Vehicle Impounded,7
+2021,4,Vehicle Misplaced,5
+2021,4,Warrant,221
+2021,4,Weapons Carrying Etc,54
+2021,4,Weapons Offense,75
+2021,5,Arson,31
+2021,5,Assault,665
+2021,5,Case Closure,48
+2021,5,Courtesy Report,26
+2021,5,Drug Violation,4
+2021,5,Embezzlement,7
+2021,5,Fire Report,21
+2021,5,Forgery And Counterfeiting,39
+2021,5,Fraud,273
+2021,5,Homicide,1
+2021,5,"Human Trafficking (A), Commercial Sex Acts",1
+2021,5,Lost Property,216
+2021,5,Miscellaneous Investigation,107
+2021,5,Missing Person,217
+2021,5,Motor Vehicle Theft,679
+2021,5,Offences Against The Family And Children,167
+2021,5,Other,88
+2021,5,Other Miscellaneous,612
+2021,5,Other Offenses,82
+2021,5,Recovered Vehicle,486
+2021,5,Robbery,199
+2021,5,Sex Offense,9
+2021,5,Stolen Property,40
+2021,5,Suicide,5
+2021,5,Suspicious,1
+2021,5,Suspicious Occ,219
+2021,5,Traffic Collision,29
+2021,5,Traffic Violation Arrest,56
+2021,5,Vehicle Impounded,2
+2021,5,Vehicle Misplaced,4
+2021,5,Warrant,186
+2021,5,Weapons Carrying Etc,67
+2021,5,Weapons Offence,1
+2021,5,Weapons Offense,103
+2021,6,Arson,37
+2021,6,Assault,631
+2021,6,Case Closure,26
+2021,6,Courtesy Report,30
+2021,6,Embezzlement,8
+2021,6,Fire Report,23
+2021,6,Forgery And Counterfeiting,24
+2021,6,Fraud,305
+2021,6,"Human Trafficking (A), Commercial Sex Acts",1
+2021,6,Lost Property,256
+2021,6,Miscellaneous Investigation,107
+2021,6,Missing Person,220
+2021,6,Motor Vehicle Theft,611
+2021,6,Offences Against The Family And Children,147
+2021,6,Other,94
+2021,6,Other Miscellaneous,728
+2021,6,Other Offenses,68
+2021,6,Rape,3
+2021,6,Recovered Vehicle,461
+2021,6,Robbery,216
+2021,6,Sex Offense,15
+2021,6,Stolen Property,53
+2021,6,Suicide,7
+2021,6,Suspicious,2
+2021,6,Suspicious Occ,270
+2021,6,Traffic Collision,36
+2021,6,Traffic Violation Arrest,56
+2021,6,Vehicle Impounded,3
+2021,6,Vehicle Misplaced,4
+2021,6,Warrant,210
+2021,6,Weapons Carrying Etc,54
+2021,6,Weapons Offense,86
+2021,7,Arson,37
+2021,7,Assault,677
+2021,7,Case Closure,56
+2021,7,Courtesy Report,30
+2021,7,Drug Violation,5
+2021,7,Embezzlement,6
+2021,7,Fire Report,29
+2021,7,Forgery And Counterfeiting,30
+2021,7,Fraud,301
+2021,7,Gambling,2
+2021,7,"Human Trafficking (A), Commercial Sex Acts",1
+2021,7,Lost Property,293
+2021,7,Miscellaneous Investigation,124
+2021,7,Missing Person,211
+2021,7,Motor Vehicle Theft,673
+2021,7,Motor Vehicle Theft?,1
+2021,7,Offences Against The Family And Children,169
+2021,7,Other,92
+2021,7,Other Miscellaneous,743
+2021,7,Other Offenses,96
+2021,7,Rape,3
+2021,7,Recovered Vehicle,443
+2021,7,Robbery,177
+2021,7,Sex Offense,8
+2021,7,Stolen Property,42
+2021,7,Suicide,2
+2021,7,Suspicious Occ,261
+2021,7,Traffic Collision,30
+2021,7,Traffic Violation Arrest,68
+2021,7,Vehicle Impounded,8
+2021,7,Vehicle Misplaced,4
+2021,7,Warrant,213
+2021,7,Weapons Carrying Etc,68
+2021,7,Weapons Offense,89
+2021,8,Arson,50
+2021,8,Assault,709
+2021,8,Case Closure,38
+2021,8,Courtesy Report,21
+2021,8,Drug Violation,4
+2021,8,Embezzlement,13
+2021,8,Fire Report,17
+2021,8,Forgery And Counterfeiting,26
+2021,8,Fraud,288
+2021,8,Homicide,2
+2021,8,Lost Property,218
+2021,8,Miscellaneous Investigation,140
+2021,8,Missing Person,234
+2021,8,Motor Vehicle Theft,675
+2021,8,Motor Vehicle Theft?,1
+2021,8,Offences Against The Family And Children,191
+2021,8,Other,93
+2021,8,Other Miscellaneous,830
+2021,8,Other Offenses,104
+2021,8,Rape,3
+2021,8,Recovered Vehicle,518
+2021,8,Robbery,253
+2021,8,Sex Offense,11
+2021,8,Stolen Property,40
+2021,8,Suicide,7
+2021,8,Suspicious,2
+2021,8,Suspicious Occ,258
+2021,8,Traffic Collision,43
+2021,8,Traffic Violation Arrest,53
+2021,8,Vehicle Impounded,4
+2021,8,Vehicle Misplaced,4
+2021,8,Warrant,253
+2021,8,Weapons Carrying Etc,64
+2021,8,Weapons Offense,95
+2021,9,Arson,31
+2021,9,Assault,765
+2021,9,Case Closure,28
+2021,9,Courtesy Report,36
+2021,9,Drug Violation,1
+2021,9,Embezzlement,13
+2021,9,Fire Report,24
+2021,9,Forgery And Counterfeiting,23
+2021,9,Fraud,319
+2021,9,Homicide,2
+2021,9,"Human Trafficking (A), Commercial Sex Acts",2
+2021,9,Lost Property,250
+2021,9,Miscellaneous Investigation,132
+2021,9,Missing Person,215
+2021,9,Motor Vehicle Theft,616
+2021,9,Motor Vehicle Theft?,2
+2021,9,Offences Against The Family And Children,186
+2021,9,Other,81
+2021,9,Other Miscellaneous,874
+2021,9,Other Offenses,92
+2021,9,Rape,3
+2021,9,Recovered Vehicle,430
+2021,9,Robbery,199
+2021,9,Sex Offense,12
+2021,9,Stolen Property,34
+2021,9,Suicide,6
+2021,9,Suspicious Occ,257
+2021,9,Traffic Collision,43
+2021,9,Traffic Violation Arrest,75
+2021,9,Vehicle Impounded,6
+2021,9,Vehicle Misplaced,8
+2021,9,Warrant,203
+2021,9,Weapons Carrying Etc,46
+2021,9,Weapons Offense,98
+2021,10,Arson,37
+2021,10,Assault,730
+2021,10,Case Closure,48
+2021,10,Courtesy Report,29
+2021,10,Drug Violation,2
+2021,10,Embezzlement,19
+2021,10,Fire Report,21
+2021,10,Forgery And Counterfeiting,30
+2021,10,Fraud,307
+2021,10,Homicide,3
+2021,10,"Human Trafficking (A), Commercial Sex Acts",2
+2021,10,"Human Trafficking, Commercial Sex Acts",1
+2021,10,Lost Property,294
+2021,10,Miscellaneous Investigation,133
+2021,10,Missing Person,220
+2021,10,Motor Vehicle Theft,781
+2021,10,Motor Vehicle Theft?,2
+2021,10,Offences Against The Family And Children,174
+2021,10,Other,89
+2021,10,Other Miscellaneous,752
+2021,10,Other Offenses,82
+2021,10,Rape,2
+2021,10,Recovered Vehicle,480
+2021,10,Robbery,241
+2021,10,Sex Offense,5
+2021,10,Stolen Property,42
+2021,10,Suicide,3
+2021,10,Suspicious Occ,247
+2021,10,Traffic Collision,30
+2021,10,Traffic Violation Arrest,76
+2021,10,Vehicle Impounded,7
+2021,10,Vehicle Misplaced,3
+2021,10,Warrant,243
+2021,10,Weapons Carrying Etc,55
+2021,10,Weapons Offense,101
+2021,11,Arson,27
+2021,11,Assault,684
+2021,11,Case Closure,78
+2021,11,Courtesy Report,31
+2021,11,Drug Violation,4
+2021,11,Embezzlement,6
+2021,11,Fire Report,16
+2021,11,Forgery And Counterfeiting,17
+2021,11,Fraud,322
+2021,11,Homicide,1
+2021,11,Lost Property,246
+2021,11,Miscellaneous Investigation,139
+2021,11,Missing Person,226
+2021,11,Motor Vehicle Theft,660
+2021,11,Motor Vehicle Theft?,1
+2021,11,Offences Against The Family And Children,161
+2021,11,Other,107
+2021,11,Other Miscellaneous,712
+2021,11,Other Offenses,109
+2021,11,Rape,1
+2021,11,Recovered Vehicle,515
+2021,11,Robbery,200
+2021,11,Sex Offense,9
+2021,11,Stolen Property,39
+2021,11,Suicide,1
+2021,11,Suspicious Occ,303
+2021,11,Traffic Collision,28
+2021,11,Traffic Violation Arrest,63
+2021,11,Vehicle Impounded,8
+2021,11,Vehicle Misplaced,1
+2021,11,Warrant,212
+2021,11,Weapons Carrying Etc,65
+2021,11,Weapons Offense,77
+2021,12,Arson,15
+2021,12,Assault,619
+2021,12,Case Closure,28
+2021,12,Courtesy Report,35
+2021,12,Drug Violation,6
+2021,12,Embezzlement,19
+2021,12,Fire Report,19
+2021,12,Forgery And Counterfeiting,12
+2021,12,Fraud,375
+2021,12,Homicide,1
+2021,12,Lost Property,275
+2021,12,Miscellaneous Investigation,124
+2021,12,Missing Person,242
+2021,12,Motor Vehicle Theft,709
+2021,12,Motor Vehicle Theft?,3
+2021,12,Offences Against The Family And Children,131
+2021,12,Other,84
+2021,12,Other Miscellaneous,669
+2021,12,Other Offenses,87
+2021,12,Rape,5
+2021,12,Recovered Vehicle,538
+2021,12,Robbery,219
+2021,12,Sex Offense,4
+2021,12,Stolen Property,61
+2021,12,Suicide,2
+2021,12,Suspicious,2
+2021,12,Suspicious Occ,230
+2021,12,Traffic Collision,27
+2021,12,Traffic Violation Arrest,40
+2021,12,Vehicle Impounded,4
+2021,12,Vehicle Misplaced,5
+2021,12,Warrant,253
+2021,12,Weapons Carrying Etc,77
+2021,12,Weapons Offense,89
+2022,1,Arson,38
+2022,1,Assault,612
+2022,1,Case Closure,37
+2022,1,Courtesy Report,29
+2022,1,Drug Violation,1
+2022,1,Embezzlement,15
+2022,1,Fire Report,17
+2022,1,Forgery And Counterfeiting,27
+2022,1,Fraud,359
+2022,1,Homicide,1
+2022,1,"Human Trafficking (A), Commercial Sex Acts",1
+2022,1,Lost Property,286
+2022,1,Miscellaneous Investigation,127
+2022,1,Missing Person,186
+2022,1,Motor Vehicle Theft,711
+2022,1,Offences Against The Family And Children,134
+2022,1,Other,116
+2022,1,Other Miscellaneous,662
+2022,1,Other Offenses,101
+2022,1,Rape,8
+2022,1,Recovered Vehicle,540
+2022,1,Robbery,190
+2022,1,Sex Offense,6
+2022,1,Stolen Property,54
+2022,1,Suicide,4
+2022,1,Suspicious Occ,241
+2022,1,Traffic Collision,25
+2022,1,Traffic Violation Arrest,55
+2022,1,Vehicle Impounded,6
+2022,1,Vehicle Misplaced,3
+2022,1,Warrant,212
+2022,1,Weapons Carrying Etc,58
+2022,1,Weapons Offense,79
+2022,2,Arson,27
+2022,2,Assault,619
+2022,2,Case Closure,14
+2022,2,Courtesy Report,30
+2022,2,Drug Violation,4
+2022,2,Embezzlement,10
+2022,2,Fire Report,22
+2022,2,Forgery And Counterfeiting,26
+2022,2,Fraud,386
+2022,2,Lost Property,245
+2022,2,Miscellaneous Investigation,139
+2022,2,Missing Person,205
+2022,2,Motor Vehicle Theft,740
+2022,2,Motor Vehicle Theft?,1
+2022,2,Offences Against The Family And Children,109
+2022,2,Other,91
+2022,2,Other Miscellaneous,522
+2022,2,Other Offenses,58
+2022,2,Recovered Vehicle,544
+2022,2,Robbery,203
+2022,2,Sex Offense,10
+2022,2,Stolen Property,49
+2022,2,Suicide,4
+2022,2,Suspicious,3
+2022,2,Suspicious Occ,211
+2022,2,Traffic Collision,31
+2022,2,Traffic Violation Arrest,50
+2022,2,Vehicle Impounded,4
+2022,2,Vehicle Misplaced,5
+2022,2,Warrant,191
+2022,2,Weapons Carrying Etc,53
+2022,2,Weapons Offense,81
+2022,3,Arson,32
+2022,3,Assault,667
+2022,3,Case Closure,25
+2022,3,Courtesy Report,34
+2022,3,Drug Violation,4
+2022,3,Embezzlement,17
+2022,3,Fire Report,19
+2022,3,Forgery And Counterfeiting,28
+2022,3,Fraud,392
+2022,3,Gambling,2
+2022,3,Homicide,1
+2022,3,Lost Property,295
+2022,3,Miscellaneous Investigation,134
+2022,3,Missing Person,237
+2022,3,Motor Vehicle Theft,657
+2022,3,Offences Against The Family And Children,146
+2022,3,Other,84
+2022,3,Other Miscellaneous,638
+2022,3,Other Offenses,96
+2022,3,Recovered Vehicle,529
+2022,3,Robbery,231
+2022,3,Sex Offense,8
+2022,3,Stolen Property,71
+2022,3,Suicide,4
+2022,3,Suspicious Occ,243
+2022,3,Traffic Collision,24
+2022,3,Traffic Violation Arrest,61
+2022,3,Vehicle Impounded,6
+2022,3,Vehicle Misplaced,3
+2022,3,Warrant,238
+2022,3,Weapons Carrying Etc,91
+2022,3,Weapons Offense,90
+2022,4,Arson,34
+2022,4,Assault,719
+2022,4,Case Closure,59
+2022,4,Courtesy Report,30
+2022,4,Drug Violation,4
+2022,4,Embezzlement,11
+2022,4,Fire Report,20
+2022,4,Forgery And Counterfeiting,22
+2022,4,Fraud,445
+2022,4,Homicide,1
+2022,4,"Human Trafficking (A), Commercial Sex Acts",2
+2022,4,"Human Trafficking, Commercial Sex Acts",1
+2022,4,Lost Property,286
+2022,4,Miscellaneous Investigation,138
+2022,4,Missing Person,208
+2022,4,Motor Vehicle Theft,598
+2022,4,Offences Against The Family And Children,157
+2022,4,Other,93
+2022,4,Other Miscellaneous,662
+2022,4,Other Offenses,90
+2022,4,Rape,2
+2022,4,Recovered Vehicle,463
+2022,4,Robbery,229
+2022,4,Sex Offense,7
+2022,4,Stolen Property,57
+2022,4,Suicide,3
+2022,4,Suspicious Occ,259
+2022,4,Traffic Collision,23
+2022,4,Traffic Violation Arrest,56
+2022,4,Vehicle Impounded,4
+2022,4,Vehicle Misplaced,10
+2022,4,Warrant,223
+2022,4,Weapons Carrying Etc,67
+2022,4,Weapons Offence,1
+2022,4,Weapons Offense,89
+2022,5,Arson,40
+2022,5,Assault,719
+2022,5,Case Closure,35
+2022,5,Courtesy Report,43
+2022,5,Drug Violation,6
+2022,5,Embezzlement,12
+2022,5,Fire Report,21
+2022,5,Forgery And Counterfeiting,22
+2022,5,Fraud,448
+2022,5,Homicide,6
+2022,5,Lost Property,297
+2022,5,Miscellaneous Investigation,122
+2022,5,Missing Person,241
+2022,5,Motor Vehicle Theft,596
+2022,5,Offences Against The Family And Children,127
+2022,5,Other,97
+2022,5,Other Miscellaneous,631
+2022,5,Other Offenses,91
+2022,5,Rape,3
+2022,5,Recovered Vehicle,452
+2022,5,Robbery,205
+2022,5,Sex Offense,12
+2022,5,Stolen Property,48
+2022,5,Suicide,3
+2022,5,Suspicious Occ,251
+2022,5,Traffic Collision,26
+2022,5,Traffic Violation Arrest,50
+2022,5,Vehicle Impounded,7
+2022,5,Vehicle Misplaced,5
+2022,5,Warrant,252
+2022,5,Weapons Carrying Etc,79
+2022,5,Weapons Offense,73
+2022,6,Arson,33
+2022,6,Assault,780
+2022,6,Case Closure,34
+2022,6,Courtesy Report,49
+2022,6,Drug Violation,4
+2022,6,Embezzlement,4
+2022,6,Fire Report,23
+2022,6,Forgery And Counterfeiting,27
+2022,6,Fraud,482
+2022,6,Homicide,1
+2022,6,Lost Property,361
+2022,6,Miscellaneous Investigation,160
+2022,6,Missing Person,196
+2022,6,Motor Vehicle Theft,635
+2022,6,Offences Against The Family And Children,154
+2022,6,Other,88
+2022,6,Other Miscellaneous,639
+2022,6,Other Offenses,76
+2022,6,Rape,2
+2022,6,Recovered Vehicle,445
+2022,6,Robbery,271
+2022,6,Sex Offense,8
+2022,6,Stolen Property,47
+2022,6,Suicide,5
+2022,6,Suspicious,2
+2022,6,Suspicious Occ,225
+2022,6,Traffic Collision,18
+2022,6,Traffic Violation Arrest,36
+2022,6,Vehicle Impounded,5
+2022,6,Vehicle Misplaced,4
+2022,6,Warrant,196
+2022,6,Weapons Carrying Etc,68
+2022,6,Weapons Offense,96
+2022,7,Arson,32
+2022,7,Assault,756
+2022,7,Case Closure,34
+2022,7,Courtesy Report,41
+2022,7,Drug Violation,10
+2022,7,Embezzlement,15
+2022,7,Fire Report,23
+2022,7,Forgery And Counterfeiting,29
+2022,7,Fraud,503
+2022,7,Gambling,2
+2022,7,Homicide,1
+2022,7,Lost Property,299
+2022,7,Miscellaneous Investigation,141
+2022,7,Missing Person,214
+2022,7,Motor Vehicle Theft,685
+2022,7,Motor Vehicle Theft?,1
+2022,7,Offences Against The Family And Children,179
+2022,7,Other,66
+2022,7,Other Miscellaneous,797
+2022,7,Other Offenses,113
+2022,7,Rape,2
+2022,7,Recovered Vehicle,500
+2022,7,Robbery,256
+2022,7,Sex Offense,9
+2022,7,Stolen Property,49
+2022,7,Suicide,5
+2022,7,Suspicious,1
+2022,7,Suspicious Occ,241
+2022,7,Traffic Collision,32
+2022,7,Traffic Violation Arrest,73
+2022,7,Vehicle Impounded,7
+2022,7,Vehicle Misplaced,3
+2022,7,Warrant,291
+2022,7,Weapons Carrying Etc,90
+2022,7,Weapons Offense,82
+2022,8,Arson,36
+2022,8,Assault,723
+2022,8,Case Closure,35
+2022,8,Courtesy Report,52
+2022,8,Drug Violation,3
+2022,8,Embezzlement,15
+2022,8,Fire Report,18
+2022,8,Forgery And Counterfeiting,25
+2022,8,Fraud,426
+2022,8,Gambling,1
+2022,8,Homicide,2
+2022,8,"Human Trafficking (A), Commercial Sex Acts",4
+2022,8,Lost Property,353
+2022,8,Miscellaneous Investigation,142
+2022,8,Missing Person,252
+2022,8,Motor Vehicle Theft,703
+2022,8,Offences Against The Family And Children,197
+2022,8,Other,93
+2022,8,Other Miscellaneous,696
+2022,8,Other Offenses,101
+2022,8,Rape,1
+2022,8,Recovered Vehicle,491
+2022,8,Robbery,229
+2022,8,Sex Offense,9
+2022,8,Stolen Property,47
+2022,8,Suicide,5
+2022,8,Suspicious,1
+2022,8,Suspicious Occ,261
+2022,8,Traffic Collision,29
+2022,8,Traffic Violation Arrest,50
+2022,8,Vehicle Impounded,6
+2022,8,Vehicle Misplaced,4
+2022,8,Warrant,250
+2022,8,Weapons Carrying Etc,56
+2022,8,Weapons Offense,95
+2022,9,Arson,39
+2022,9,Assault,827
+2022,9,Case Closure,28
+2022,9,Courtesy Report,45
+2022,9,Drug Violation,8
+2022,9,Embezzlement,10
+2022,9,Fire Report,15
+2022,9,Forgery And Counterfeiting,26
+2022,9,Fraud,407
+2022,9,Homicide,5
+2022,9,Lost Property,314
+2022,9,Miscellaneous Investigation,142
+2022,9,Missing Person,230
+2022,9,Motor Vehicle Theft,748
+2022,9,Offences Against The Family And Children,157
+2022,9,Other,84
+2022,9,Other Miscellaneous,802
+2022,9,Other Offenses,92
+2022,9,Rape,6
+2022,9,Recovered Vehicle,515
+2022,9,Robbery,275
+2022,9,Sex Offense,16
+2022,9,Stolen Property,70
+2022,9,Suicide,7
+2022,9,Suspicious Occ,285
+2022,9,Traffic Collision,33
+2022,9,Traffic Violation Arrest,67
+2022,9,Vehicle Impounded,6
+2022,9,Vehicle Misplaced,5
+2022,9,Warrant,274
+2022,9,Weapons Carrying Etc,69
+2022,9,Weapons Offense,111
+2022,10,Arson,30
+2022,10,Assault,808
+2022,10,Case Closure,32
+2022,10,Courtesy Report,33
+2022,10,Drug Violation,6
+2022,10,Embezzlement,12
+2022,10,Fire Report,13
+2022,10,Forgery And Counterfeiting,42
+2022,10,Fraud,397
+2022,10,Homicide,5
+2022,10,Lost Property,315
+2022,10,Miscellaneous Investigation,159
+2022,10,Missing Person,264
+2022,10,Motor Vehicle Theft,749
+2022,10,Motor Vehicle Theft?,3
+2022,10,Offences Against The Family And Children,136
+2022,10,Other,91
+2022,10,Other Miscellaneous,747
+2022,10,Other Offenses,94
+2022,10,Rape,1
+2022,10,Recovered Vehicle,565
+2022,10,Robbery,254
+2022,10,Sex Offense,14
+2022,10,Stolen Property,49
+2022,10,Suicide,5
+2022,10,Suspicious,2
+2022,10,Suspicious Occ,234
+2022,10,Traffic Collision,28
+2022,10,Traffic Violation Arrest,61
+2022,10,Vehicle Impounded,5
+2022,10,Vehicle Misplaced,5
+2022,10,Warrant,266
+2022,10,Weapons Carrying Etc,61
+2022,10,Weapons Offense,104
+2022,11,Arson,33
+2022,11,Assault,663
+2022,11,Case Closure,39
+2022,11,Courtesy Report,27
+2022,11,Drug Violation,3
+2022,11,Embezzlement,11
+2022,11,Fire Report,29
+2022,11,Forgery And Counterfeiting,30
+2022,11,Fraud,385
+2022,11,Homicide,2
+2022,11,Lost Property,301
+2022,11,Miscellaneous Investigation,135
+2022,11,Missing Person,208
+2022,11,Motor Vehicle Theft,711
+2022,11,Offences Against The Family And Children,135
+2022,11,Other,108
+2022,11,Other Miscellaneous,632
+2022,11,Other Offenses,76
+2022,11,Rape,3
+2022,11,Recovered Vehicle,550
+2022,11,Robbery,214
+2022,11,Sex Offense,9
+2022,11,Stolen Property,55
+2022,11,Suicide,5
+2022,11,Suspicious Occ,222
+2022,11,Traffic Collision,41
+2022,11,Traffic Violation Arrest,68
+2022,11,Vehicle Impounded,11
+2022,11,Vehicle Misplaced,5
+2022,11,Warrant,241
+2022,11,Weapons Carrying Etc,72
+2022,11,Weapons Offense,77
+2022,12,Arson,26
+2022,12,Assault,670
+2022,12,Case Closure,32
+2022,12,Courtesy Report,34
+2022,12,Drug Violation,2
+2022,12,Embezzlement,22
+2022,12,Fire Report,22
+2022,12,Forgery And Counterfeiting,31
+2022,12,Fraud,405
+2022,12,Gambling,3
+2022,12,Homicide,4
+2022,12,Lost Property,295
+2022,12,Miscellaneous Investigation,107
+2022,12,Missing Person,215
+2022,12,Motor Vehicle Theft,698
+2022,12,Motor Vehicle Theft?,1
+2022,12,Offences Against The Family And Children,134
+2022,12,Other,124
+2022,12,Other Miscellaneous,608
+2022,12,Other Offenses,105
+2022,12,Rape,3
+2022,12,Recovered Vehicle,519
+2022,12,Robbery,187
+2022,12,Sex Offense,8
+2022,12,Stolen Property,55
+2022,12,Suicide,11
+2022,12,Suspicious,2
+2022,12,Suspicious Occ,208
+2022,12,Traffic Collision,36
+2022,12,Traffic Violation Arrest,49
+2022,12,Vehicle Impounded,3
+2022,12,Vehicle Misplaced,3
+2022,12,Warrant,251
+2022,12,Weapons Carrying Etc,50
+2022,12,Weapons Offense,77
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Case Closure,41
+2023,1,Courtesy Report,28
+2023,1,Drug Violation,2
+2023,1,Embezzlement,17
+2023,1,Fire Report,16
+2023,1,Forgery And Counterfeiting,29
+2023,1,Fraud,470
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Lost Property,260
+2023,1,Miscellaneous Investigation,161
+2023,1,Missing Person,216
+2023,1,Motor Vehicle Theft,659
+2023,1,Offences Against The Family And Children,118
+2023,1,Other,127
+2023,1,Other Miscellaneous,691
+2023,1,Other Offenses,131
+2023,1,Rape,1
+2023,1,Recovered Vehicle,463
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Stolen Property,32
+2023,1,Suicide,10
+2023,1,Suspicious,1
+2023,1,Suspicious Occ,205
+2023,1,Traffic Collision,32
+2023,1,Traffic Violation Arrest,84
+2023,1,Vehicle Impounded,6
+2023,1,Vehicle Misplaced,6
+2023,1,Warrant,280
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Case Closure,35
+2023,2,Courtesy Report,18
+2023,2,Drug Violation,5
+2023,2,Embezzlement,15
+2023,2,Fire Report,25
+2023,2,Forgery And Counterfeiting,28
+2023,2,Fraud,377
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Lost Property,260
+2023,2,Miscellaneous Investigation,163
+2023,2,Missing Person,216
+2023,2,Motor Vehicle Theft,658
+2023,2,Offences Against The Family And Children,121
+2023,2,Other,83
+2023,2,Other Miscellaneous,633
+2023,2,Other Offenses,86
+2023,2,Rape,2
+2023,2,Recovered Vehicle,487
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Stolen Property,48
+2023,2,Suicide,11
+2023,2,Suspicious Occ,179
+2023,2,Traffic Collision,29
+2023,2,Traffic Violation Arrest,76
+2023,2,Vehicle Impounded,7
+2023,2,Vehicle Misplaced,6
+2023,2,Warrant,254
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Case Closure,47
+2023,3,Courtesy Report,30
+2023,3,Drug Violation,9
+2023,3,Embezzlement,13
+2023,3,Fire Report,24
+2023,3,Forgery And Counterfeiting,42
+2023,3,Fraud,461
+2023,3,Gambling,1
+2023,3,Lost Property,298
+2023,3,Miscellaneous Investigation,155
+2023,3,Missing Person,239
+2023,3,Motor Vehicle Theft,747
+2023,3,Offences Against The Family And Children,106
+2023,3,Other,103
+2023,3,Other Miscellaneous,750
+2023,3,Other Offenses,130
+2023,3,Rape,6
+2023,3,Recovered Vehicle,497
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Stolen Property,44
+2023,3,Suicide,5
+2023,3,Suspicious,3
+2023,3,Suspicious Occ,216
+2023,3,Traffic Collision,29
+2023,3,Traffic Violation Arrest,96
+2023,3,Vehicle Impounded,13
+2023,3,Vehicle Misplaced,7
+2023,3,Warrant,265
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,Case Closure,50
+2023,4,Courtesy Report,48
+2023,4,Drug Violation,5
+2023,4,Embezzlement,6
+2023,4,Fire Report,23
+2023,4,Forgery And Counterfeiting,47
+2023,4,Fraud,570
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Lost Property,300
+2023,4,Miscellaneous Investigation,166
+2023,4,Missing Person,209
+2023,4,Motor Vehicle Theft,758
+2023,4,Offences Against The Family And Children,127
+2023,4,Other,105
+2023,4,Other Miscellaneous,674
+2023,4,Other Offenses,95
+2023,4,Rape,3
+2023,4,Recovered Vehicle,546
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Stolen Property,44
+2023,4,Suicide,7
+2023,4,Suspicious,3
+2023,4,Suspicious Occ,212
+2023,4,Traffic Collision,38
+2023,4,Traffic Violation Arrest,121
+2023,4,Vehicle Impounded,12
+2023,4,Vehicle Misplaced,8
+2023,4,Warrant,242
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Case Closure,30
+2023,5,Courtesy Report,38
+2023,5,Drug Violation,1
+2023,5,Embezzlement,11
+2023,5,Fire Report,16
+2023,5,Forgery And Counterfeiting,31
+2023,5,Fraud,378
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Lost Property,307
+2023,5,Miscellaneous Investigation,157
+2023,5,Missing Person,217
+2023,5,Motor Vehicle Theft,850
+2023,5,Motor Vehicle Theft?,2
+2023,5,Offences Against The Family And Children,123
+2023,5,Other,119
+2023,5,Other Miscellaneous,643
+2023,5,Other Offenses,103
+2023,5,Rape,2
+2023,5,Recovered Vehicle,594
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Stolen Property,63
+2023,5,Suicide,3
+2023,5,Suspicious,1
+2023,5,Suspicious Occ,213
+2023,5,Traffic Collision,27
+2023,5,Traffic Violation Arrest,96
+2023,5,Vehicle Impounded,12
+2023,5,Vehicle Misplaced,3
+2023,5,Warrant,278
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Case Closure,8
+2023,6,Courtesy Report,28
+2023,6,Drug Violation,2
+2023,6,Embezzlement,7
+2023,6,Fire Report,15
+2023,6,Forgery And Counterfeiting,28
+2023,6,Fraud,294
+2023,6,Gambling,1
+2023,6,Homicide,2
+2023,6,Lost Property,337
+2023,6,Miscellaneous Investigation,151
+2023,6,Missing Person,202
+2023,6,Motor Vehicle Theft,760
+2023,6,Offences Against The Family And Children,117
+2023,6,Other,82
+2023,6,Other Miscellaneous,614
+2023,6,Other Offenses,108
+2023,6,Rape,5
+2023,6,Recovered Vehicle,545
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Stolen Property,52
+2023,6,Suicide,3
+2023,6,Suspicious,1
+2023,6,Suspicious Occ,215
+2023,6,Traffic Collision,26
+2023,6,Traffic Violation Arrest,84
+2023,6,Vehicle Impounded,13
+2023,6,Vehicle Misplaced,6
+2023,6,Warrant,248
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Case Closure,20
+2023,7,Courtesy Report,47
+2023,7,Drug Violation,6
+2023,7,Embezzlement,7
+2023,7,Fire Report,21
+2023,7,Forgery And Counterfeiting,41
+2023,7,Fraud,375
+2023,7,Gambling,1
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Lost Property,316
+2023,7,Miscellaneous Investigation,165
+2023,7,Missing Person,258
+2023,7,Motor Vehicle Theft,934
+2023,7,Motor Vehicle Theft?,3
+2023,7,Offences Against The Family And Children,133
+2023,7,Other,108
+2023,7,Other Miscellaneous,642
+2023,7,Other Offenses,118
+2023,7,Rape,6
+2023,7,Recovered Vehicle,640
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Stolen Property,37
+2023,7,Suicide,4
+2023,7,Suspicious Occ,204
+2023,7,Traffic Collision,49
+2023,7,Traffic Violation Arrest,69
+2023,7,Vehicle Impounded,13
+2023,7,Vehicle Misplaced,4
+2023,7,Warrant,326
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Case Closure,30
+2023,8,Courtesy Report,44
+2023,8,Drug Violation,1
+2023,8,Embezzlement,2
+2023,8,Fire Report,15
+2023,8,Forgery And Counterfeiting,37
+2023,8,Fraud,382
+2023,8,Homicide,3
+2023,8,Lost Property,317
+2023,8,Miscellaneous Investigation,183
+2023,8,Missing Person,242
+2023,8,Motor Vehicle Theft,776
+2023,8,Offences Against The Family And Children,140
+2023,8,Other,120
+2023,8,Other Miscellaneous,682
+2023,8,Other Offenses,109
+2023,8,Recovered Vehicle,530
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Stolen Property,58
+2023,8,Suicide,7
+2023,8,Suspicious,1
+2023,8,Suspicious Occ,217
+2023,8,Traffic Collision,39
+2023,8,Traffic Violation Arrest,57
+2023,8,Vehicle Impounded,5
+2023,8,Vehicle Misplaced,8
+2023,8,Warrant,343
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Case Closure,17
+2023,9,Courtesy Report,32
+2023,9,Drug Violation,4
+2023,9,Embezzlement,9
+2023,9,Fire Report,15
+2023,9,Forgery And Counterfeiting,30
+2023,9,Fraud,344
+2023,9,Homicide,2
+2023,9,Lost Property,290
+2023,9,Miscellaneous Investigation,157
+2023,9,Missing Person,228
+2023,9,Motor Vehicle Theft,785
+2023,9,Offences Against The Family And Children,127
+2023,9,Other,100
+2023,9,Other Miscellaneous,758
+2023,9,Other Offenses,128
+2023,9,Rape,2
+2023,9,Recovered Vehicle,526
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Stolen Property,45
+2023,9,Suicide,8
+2023,9,Suspicious Occ,223
+2023,9,Traffic Collision,21
+2023,9,Traffic Violation Arrest,97
+2023,9,Vehicle Impounded,16
+2023,9,Vehicle Misplaced,6
+2023,9,Warrant,335
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Case Closure,11
+2023,10,Courtesy Report,35
+2023,10,Drug Violation,2
+2023,10,Embezzlement,7
+2023,10,Fire Report,12
+2023,10,Forgery And Counterfeiting,32
+2023,10,Fraud,285
+2023,10,Gambling,1
+2023,10,Homicide,7
+2023,10,Lost Property,303
+2023,10,Miscellaneous Investigation,150
+2023,10,Missing Person,211
+2023,10,Motor Vehicle Theft,714
+2023,10,Offences Against The Family And Children,137
+2023,10,Other,107
+2023,10,Other Miscellaneous,620
+2023,10,Other Offenses,88
+2023,10,Rape,2
+2023,10,Recovered Vehicle,490
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Stolen Property,44
+2023,10,Suicide,2
+2023,10,Suspicious,2
+2023,10,Suspicious Occ,223
+2023,10,Traffic Collision,37
+2023,10,Traffic Violation Arrest,82
+2023,10,Vehicle Impounded,17
+2023,10,Vehicle Misplaced,7
+2023,10,Warrant,345
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Case Closure,8
+2023,11,Courtesy Report,28
+2023,11,Drug Violation,2
+2023,11,Embezzlement,6
+2023,11,Fire Report,14
+2023,11,Forgery And Counterfeiting,36
+2023,11,Fraud,267
+2023,11,Homicide,5
+2023,11,Lost Property,255
+2023,11,Miscellaneous Investigation,131
+2023,11,Missing Person,185
+2023,11,Motor Vehicle Theft,656
+2023,11,Motor Vehicle Theft?,1
+2023,11,Offences Against The Family And Children,122
+2023,11,Other,84
+2023,11,Other Miscellaneous,592
+2023,11,Other Offenses,77
+2023,11,Rape,1
+2023,11,Recovered Vehicle,452
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Stolen Property,34
+2023,11,Suicide,1
+2023,11,Suspicious Occ,184
+2023,11,Traffic Collision,22
+2023,11,Traffic Violation Arrest,64
+2023,11,Vehicle Impounded,9
+2023,11,Vehicle Misplaced,7
+2023,11,Warrant,246
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Case Closure,12
+2023,12,Courtesy Report,35
+2023,12,Drug Violation,3
+2023,12,Embezzlement,5
+2023,12,Fire Report,26
+2023,12,Forgery And Counterfeiting,21
+2023,12,Fraud,194
+2023,12,Homicide,10
+2023,12,Lost Property,262
+2023,12,Miscellaneous Investigation,126
+2023,12,Missing Person,155
+2023,12,Motor Vehicle Theft,602
+2023,12,Motor Vehicle Theft?,3
+2023,12,Offences Against The Family And Children,115
+2023,12,Other,93
+2023,12,Other Miscellaneous,588
+2023,12,Other Offenses,78
+2023,12,Rape,2
+2023,12,Recovered Vehicle,429
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Stolen Property,42
+2023,12,Suicide,1
+2023,12,Suspicious,1
+2023,12,Suspicious Occ,170
+2023,12,Traffic Collision,30
+2023,12,Traffic Violation Arrest,76
+2023,12,Vehicle Impounded,13
+2023,12,Vehicle Misplaced,3
+2023,12,Warrant,302
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Case Closure,41
+2023,1,Courtesy Report,28
+2023,1,Drug Violation,2
+2023,1,Embezzlement,17
+2023,1,Fire Report,16
+2023,1,Forgery And Counterfeiting,29
+2023,1,Fraud,470
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Lost Property,260
+2023,1,Miscellaneous Investigation,161
+2023,1,Missing Person,216
+2023,1,Motor Vehicle Theft,659
+2023,1,Offences Against The Family And Children,118
+2023,1,Other,127
+2023,1,Other Miscellaneous,691
+2023,1,Other Offenses,131
+2023,1,Rape,1
+2023,1,Recovered Vehicle,463
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Stolen Property,32
+2023,1,Suicide,10
+2023,1,Suspicious,1
+2023,1,Suspicious Occ,205
+2023,1,Traffic Collision,32
+2023,1,Traffic Violation Arrest,84
+2023,1,Vehicle Impounded,6
+2023,1,Vehicle Misplaced,6
+2023,1,Warrant,280
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Case Closure,35
+2023,2,Courtesy Report,18
+2023,2,Drug Violation,5
+2023,2,Embezzlement,15
+2023,2,Fire Report,25
+2023,2,Forgery And Counterfeiting,28
+2023,2,Fraud,377
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Lost Property,260
+2023,2,Miscellaneous Investigation,163
+2023,2,Missing Person,216
+2023,2,Motor Vehicle Theft,658
+2023,2,Offences Against The Family And Children,121
+2023,2,Other,83
+2023,2,Other Miscellaneous,633
+2023,2,Other Offenses,86
+2023,2,Rape,2
+2023,2,Recovered Vehicle,487
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Stolen Property,48
+2023,2,Suicide,11
+2023,2,Suspicious Occ,179
+2023,2,Traffic Collision,29
+2023,2,Traffic Violation Arrest,76
+2023,2,Vehicle Impounded,7
+2023,2,Vehicle Misplaced,6
+2023,2,Warrant,254
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Case Closure,47
+2023,3,Courtesy Report,30
+2023,3,Drug Violation,9
+2023,3,Embezzlement,13
+2023,3,Fire Report,24
+2023,3,Forgery And Counterfeiting,42
+2023,3,Fraud,461
+2023,3,Gambling,1
+2023,3,Lost Property,298
+2023,3,Miscellaneous Investigation,155
+2023,3,Missing Person,239
+2023,3,Motor Vehicle Theft,747
+2023,3,Offences Against The Family And Children,106
+2023,3,Other,103
+2023,3,Other Miscellaneous,750
+2023,3,Other Offenses,130
+2023,3,Rape,6
+2023,3,Recovered Vehicle,497
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Stolen Property,44
+2023,3,Suicide,5
+2023,3,Suspicious,3
+2023,3,Suspicious Occ,216
+2023,3,Traffic Collision,29
+2023,3,Traffic Violation Arrest,96
+2023,3,Vehicle Impounded,13
+2023,3,Vehicle Misplaced,7
+2023,3,Warrant,265
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,Case Closure,50
+2023,4,Courtesy Report,48
+2023,4,Drug Violation,5
+2023,4,Embezzlement,6
+2023,4,Fire Report,23
+2023,4,Forgery And Counterfeiting,47
+2023,4,Fraud,570
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Lost Property,300
+2023,4,Miscellaneous Investigation,166
+2023,4,Missing Person,209
+2023,4,Motor Vehicle Theft,758
+2023,4,Offences Against The Family And Children,127
+2023,4,Other,105
+2023,4,Other Miscellaneous,674
+2023,4,Other Offenses,95
+2023,4,Rape,3
+2023,4,Recovered Vehicle,546
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Stolen Property,44
+2023,4,Suicide,7
+2023,4,Suspicious,3
+2023,4,Suspicious Occ,212
+2023,4,Traffic Collision,38
+2023,4,Traffic Violation Arrest,121
+2023,4,Vehicle Impounded,12
+2023,4,Vehicle Misplaced,8
+2023,4,Warrant,242
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Case Closure,30
+2023,5,Courtesy Report,38
+2023,5,Drug Violation,1
+2023,5,Embezzlement,11
+2023,5,Fire Report,16
+2023,5,Forgery And Counterfeiting,31
+2023,5,Fraud,378
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Lost Property,307
+2023,5,Miscellaneous Investigation,157
+2023,5,Missing Person,217
+2023,5,Motor Vehicle Theft,850
+2023,5,Motor Vehicle Theft?,2
+2023,5,Offences Against The Family And Children,123
+2023,5,Other,119
+2023,5,Other Miscellaneous,643
+2023,5,Other Offenses,103
+2023,5,Rape,2
+2023,5,Recovered Vehicle,594
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Stolen Property,63
+2023,5,Suicide,3
+2023,5,Suspicious,1
+2023,5,Suspicious Occ,213
+2023,5,Traffic Collision,27
+2023,5,Traffic Violation Arrest,96
+2023,5,Vehicle Impounded,12
+2023,5,Vehicle Misplaced,3
+2023,5,Warrant,278
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Case Closure,8
+2023,6,Courtesy Report,28
+2023,6,Drug Violation,2
+2023,6,Embezzlement,7
+2023,6,Fire Report,15
+2023,6,Forgery And Counterfeiting,28
+2023,6,Fraud,294
+2023,6,Gambling,1
+2023,6,Homicide,2
+2023,6,Lost Property,337
+2023,6,Miscellaneous Investigation,151
+2023,6,Missing Person,202
+2023,6,Motor Vehicle Theft,760
+2023,6,Offences Against The Family And Children,117
+2023,6,Other,82
+2023,6,Other Miscellaneous,614
+2023,6,Other Offenses,108
+2023,6,Rape,5
+2023,6,Recovered Vehicle,545
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Stolen Property,52
+2023,6,Suicide,3
+2023,6,Suspicious,1
+2023,6,Suspicious Occ,215
+2023,6,Traffic Collision,26
+2023,6,Traffic Violation Arrest,84
+2023,6,Vehicle Impounded,13
+2023,6,Vehicle Misplaced,6
+2023,6,Warrant,248
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Case Closure,20
+2023,7,Courtesy Report,47
+2023,7,Drug Violation,6
+2023,7,Embezzlement,7
+2023,7,Fire Report,21
+2023,7,Forgery And Counterfeiting,41
+2023,7,Fraud,375
+2023,7,Gambling,1
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Lost Property,316
+2023,7,Miscellaneous Investigation,165
+2023,7,Missing Person,258
+2023,7,Motor Vehicle Theft,934
+2023,7,Motor Vehicle Theft?,3
+2023,7,Offences Against The Family And Children,133
+2023,7,Other,108
+2023,7,Other Miscellaneous,642
+2023,7,Other Offenses,118
+2023,7,Rape,6
+2023,7,Recovered Vehicle,640
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Stolen Property,37
+2023,7,Suicide,4
+2023,7,Suspicious Occ,204
+2023,7,Traffic Collision,49
+2023,7,Traffic Violation Arrest,69
+2023,7,Vehicle Impounded,13
+2023,7,Vehicle Misplaced,4
+2023,7,Warrant,326
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Case Closure,30
+2023,8,Courtesy Report,44
+2023,8,Drug Violation,1
+2023,8,Embezzlement,2
+2023,8,Fire Report,15
+2023,8,Forgery And Counterfeiting,37
+2023,8,Fraud,382
+2023,8,Homicide,3
+2023,8,Lost Property,317
+2023,8,Miscellaneous Investigation,183
+2023,8,Missing Person,242
+2023,8,Motor Vehicle Theft,776
+2023,8,Offences Against The Family And Children,140
+2023,8,Other,120
+2023,8,Other Miscellaneous,682
+2023,8,Other Offenses,109
+2023,8,Recovered Vehicle,530
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Stolen Property,58
+2023,8,Suicide,7
+2023,8,Suspicious,1
+2023,8,Suspicious Occ,217
+2023,8,Traffic Collision,39
+2023,8,Traffic Violation Arrest,57
+2023,8,Vehicle Impounded,5
+2023,8,Vehicle Misplaced,8
+2023,8,Warrant,343
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Case Closure,17
+2023,9,Courtesy Report,32
+2023,9,Drug Violation,4
+2023,9,Embezzlement,9
+2023,9,Fire Report,15
+2023,9,Forgery And Counterfeiting,30
+2023,9,Fraud,344
+2023,9,Homicide,2
+2023,9,Lost Property,290
+2023,9,Miscellaneous Investigation,157
+2023,9,Missing Person,228
+2023,9,Motor Vehicle Theft,785
+2023,9,Offences Against The Family And Children,127
+2023,9,Other,100
+2023,9,Other Miscellaneous,758
+2023,9,Other Offenses,128
+2023,9,Rape,2
+2023,9,Recovered Vehicle,526
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Stolen Property,45
+2023,9,Suicide,8
+2023,9,Suspicious Occ,223
+2023,9,Traffic Collision,21
+2023,9,Traffic Violation Arrest,97
+2023,9,Vehicle Impounded,16
+2023,9,Vehicle Misplaced,6
+2023,9,Warrant,335
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Case Closure,11
+2023,10,Courtesy Report,35
+2023,10,Drug Violation,2
+2023,10,Embezzlement,7
+2023,10,Fire Report,12
+2023,10,Forgery And Counterfeiting,32
+2023,10,Fraud,285
+2023,10,Gambling,1
+2023,10,Homicide,7
+2023,10,Lost Property,303
+2023,10,Miscellaneous Investigation,150
+2023,10,Missing Person,211
+2023,10,Motor Vehicle Theft,714
+2023,10,Offences Against The Family And Children,137
+2023,10,Other,107
+2023,10,Other Miscellaneous,620
+2023,10,Other Offenses,88
+2023,10,Rape,2
+2023,10,Recovered Vehicle,490
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Stolen Property,44
+2023,10,Suicide,2
+2023,10,Suspicious,2
+2023,10,Suspicious Occ,223
+2023,10,Traffic Collision,37
+2023,10,Traffic Violation Arrest,82
+2023,10,Vehicle Impounded,17
+2023,10,Vehicle Misplaced,7
+2023,10,Warrant,345
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Case Closure,8
+2023,11,Courtesy Report,28
+2023,11,Drug Violation,2
+2023,11,Embezzlement,6
+2023,11,Fire Report,14
+2023,11,Forgery And Counterfeiting,36
+2023,11,Fraud,267
+2023,11,Homicide,5
+2023,11,Lost Property,255
+2023,11,Miscellaneous Investigation,131
+2023,11,Missing Person,185
+2023,11,Motor Vehicle Theft,656
+2023,11,Motor Vehicle Theft?,1
+2023,11,Offences Against The Family And Children,122
+2023,11,Other,84
+2023,11,Other Miscellaneous,592
+2023,11,Other Offenses,77
+2023,11,Rape,1
+2023,11,Recovered Vehicle,452
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Stolen Property,34
+2023,11,Suicide,1
+2023,11,Suspicious Occ,184
+2023,11,Traffic Collision,22
+2023,11,Traffic Violation Arrest,64
+2023,11,Vehicle Impounded,9
+2023,11,Vehicle Misplaced,7
+2023,11,Warrant,246
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Case Closure,12
+2023,12,Courtesy Report,35
+2023,12,Drug Violation,3
+2023,12,Embezzlement,5
+2023,12,Fire Report,26
+2023,12,Forgery And Counterfeiting,21
+2023,12,Fraud,194
+2023,12,Homicide,10
+2023,12,Lost Property,262
+2023,12,Miscellaneous Investigation,126
+2023,12,Missing Person,155
+2023,12,Motor Vehicle Theft,602
+2023,12,Motor Vehicle Theft?,3
+2023,12,Offences Against The Family And Children,115
+2023,12,Other,93
+2023,12,Other Miscellaneous,588
+2023,12,Other Offenses,78
+2023,12,Rape,2
+2023,12,Recovered Vehicle,429
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Stolen Property,42
+2023,12,Suicide,1
+2023,12,Suspicious,1
+2023,12,Suspicious Occ,170
+2023,12,Traffic Collision,30
+2023,12,Traffic Violation Arrest,76
+2023,12,Vehicle Impounded,13
+2023,12,Vehicle Misplaced,3
+2023,12,Warrant,302
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83
+2023,1,Arson,32
+2023,1,Assault,694
+2023,1,Case Closure,41
+2023,1,Courtesy Report,28
+2023,1,Drug Violation,2
+2023,1,Embezzlement,17
+2023,1,Fire Report,16
+2023,1,Forgery And Counterfeiting,29
+2023,1,Fraud,470
+2023,1,Homicide,7
+2023,1,"Human Trafficking (A), Commercial Sex Acts",2
+2023,1,Lost Property,260
+2023,1,Miscellaneous Investigation,161
+2023,1,Missing Person,216
+2023,1,Motor Vehicle Theft,659
+2023,1,Offences Against The Family And Children,118
+2023,1,Other,127
+2023,1,Other Miscellaneous,691
+2023,1,Other Offenses,131
+2023,1,Rape,1
+2023,1,Recovered Vehicle,463
+2023,1,Robbery,232
+2023,1,Sex Offense,8
+2023,1,Stolen Property,32
+2023,1,Suicide,10
+2023,1,Suspicious,1
+2023,1,Suspicious Occ,205
+2023,1,Traffic Collision,32
+2023,1,Traffic Violation Arrest,84
+2023,1,Vehicle Impounded,6
+2023,1,Vehicle Misplaced,6
+2023,1,Warrant,280
+2023,1,Weapons Carrying Etc,66
+2023,1,Weapons Offense,91
+2023,2,Arson,39
+2023,2,Assault,650
+2023,2,Case Closure,35
+2023,2,Courtesy Report,18
+2023,2,Drug Violation,5
+2023,2,Embezzlement,15
+2023,2,Fire Report,25
+2023,2,Forgery And Counterfeiting,28
+2023,2,Fraud,377
+2023,2,Homicide,5
+2023,2,"Human Trafficking, Commercial Sex Acts",2
+2023,2,Lost Property,260
+2023,2,Miscellaneous Investigation,163
+2023,2,Missing Person,216
+2023,2,Motor Vehicle Theft,658
+2023,2,Offences Against The Family And Children,121
+2023,2,Other,83
+2023,2,Other Miscellaneous,633
+2023,2,Other Offenses,86
+2023,2,Rape,2
+2023,2,Recovered Vehicle,487
+2023,2,Robbery,284
+2023,2,Sex Offense,15
+2023,2,Stolen Property,48
+2023,2,Suicide,11
+2023,2,Suspicious Occ,179
+2023,2,Traffic Collision,29
+2023,2,Traffic Violation Arrest,76
+2023,2,Vehicle Impounded,7
+2023,2,Vehicle Misplaced,6
+2023,2,Warrant,254
+2023,2,Weapons Carrying Etc,69
+2023,2,Weapons Offence,1
+2023,2,Weapons Offense,86
+2023,3,Arson,28
+2023,3,Assault,788
+2023,3,Case Closure,47
+2023,3,Courtesy Report,30
+2023,3,Drug Violation,9
+2023,3,Embezzlement,13
+2023,3,Fire Report,24
+2023,3,Forgery And Counterfeiting,42
+2023,3,Fraud,461
+2023,3,Gambling,1
+2023,3,Lost Property,298
+2023,3,Miscellaneous Investigation,155
+2023,3,Missing Person,239
+2023,3,Motor Vehicle Theft,747
+2023,3,Offences Against The Family And Children,106
+2023,3,Other,103
+2023,3,Other Miscellaneous,750
+2023,3,Other Offenses,130
+2023,3,Rape,6
+2023,3,Recovered Vehicle,497
+2023,3,Robbery,269
+2023,3,Sex Offense,10
+2023,3,Stolen Property,44
+2023,3,Suicide,5
+2023,3,Suspicious,3
+2023,3,Suspicious Occ,216
+2023,3,Traffic Collision,29
+2023,3,Traffic Violation Arrest,96
+2023,3,Vehicle Impounded,13
+2023,3,Vehicle Misplaced,7
+2023,3,Warrant,265
+2023,3,Weapons Carrying Etc,59
+2023,3,Weapons Offense,85
+2023,4,Arson,25
+2023,4,Assault,685
+2023,4,Case Closure,50
+2023,4,Courtesy Report,48
+2023,4,Drug Violation,5
+2023,4,Embezzlement,6
+2023,4,Fire Report,23
+2023,4,Forgery And Counterfeiting,47
+2023,4,Fraud,570
+2023,4,"Human Trafficking, Commercial Sex Acts",1
+2023,4,Lost Property,300
+2023,4,Miscellaneous Investigation,166
+2023,4,Missing Person,209
+2023,4,Motor Vehicle Theft,758
+2023,4,Offences Against The Family And Children,127
+2023,4,Other,105
+2023,4,Other Miscellaneous,674
+2023,4,Other Offenses,95
+2023,4,Rape,3
+2023,4,Recovered Vehicle,546
+2023,4,Robbery,212
+2023,4,Sex Offense,5
+2023,4,Stolen Property,44
+2023,4,Suicide,7
+2023,4,Suspicious,3
+2023,4,Suspicious Occ,212
+2023,4,Traffic Collision,38
+2023,4,Traffic Violation Arrest,121
+2023,4,Vehicle Impounded,12
+2023,4,Vehicle Misplaced,8
+2023,4,Warrant,242
+2023,4,Weapons Carrying Etc,58
+2023,4,Weapons Offense,87
+2023,5,Arson,28
+2023,5,Assault,700
+2023,5,Case Closure,30
+2023,5,Courtesy Report,38
+2023,5,Drug Violation,1
+2023,5,Embezzlement,11
+2023,5,Fire Report,16
+2023,5,Forgery And Counterfeiting,31
+2023,5,Fraud,378
+2023,5,Homicide,5
+2023,5,"Human Trafficking (A), Commercial Sex Acts",1
+2023,5,Lost Property,307
+2023,5,Miscellaneous Investigation,157
+2023,5,Missing Person,217
+2023,5,Motor Vehicle Theft,850
+2023,5,Motor Vehicle Theft?,2
+2023,5,Offences Against The Family And Children,123
+2023,5,Other,119
+2023,5,Other Miscellaneous,643
+2023,5,Other Offenses,103
+2023,5,Rape,2
+2023,5,Recovered Vehicle,594
+2023,5,Robbery,262
+2023,5,Sex Offense,18
+2023,5,Stolen Property,63
+2023,5,Suicide,3
+2023,5,Suspicious,1
+2023,5,Suspicious Occ,213
+2023,5,Traffic Collision,27
+2023,5,Traffic Violation Arrest,96
+2023,5,Vehicle Impounded,12
+2023,5,Vehicle Misplaced,3
+2023,5,Warrant,278
+2023,5,Weapons Carrying Etc,66
+2023,5,Weapons Offense,85
+2023,6,Arson,38
+2023,6,Assault,663
+2023,6,Case Closure,8
+2023,6,Courtesy Report,28
+2023,6,Drug Violation,2
+2023,6,Embezzlement,7
+2023,6,Fire Report,15
+2023,6,Forgery And Counterfeiting,28
+2023,6,Fraud,294
+2023,6,Gambling,1
+2023,6,Homicide,2
+2023,6,Lost Property,337
+2023,6,Miscellaneous Investigation,151
+2023,6,Missing Person,202
+2023,6,Motor Vehicle Theft,760
+2023,6,Offences Against The Family And Children,117
+2023,6,Other,82
+2023,6,Other Miscellaneous,614
+2023,6,Other Offenses,108
+2023,6,Rape,5
+2023,6,Recovered Vehicle,545
+2023,6,Robbery,235
+2023,6,Sex Offense,10
+2023,6,Stolen Property,52
+2023,6,Suicide,3
+2023,6,Suspicious,1
+2023,6,Suspicious Occ,215
+2023,6,Traffic Collision,26
+2023,6,Traffic Violation Arrest,84
+2023,6,Vehicle Impounded,13
+2023,6,Vehicle Misplaced,6
+2023,6,Warrant,248
+2023,6,Weapons Carrying Etc,52
+2023,6,Weapons Offence,2
+2023,6,Weapons Offense,98
+2023,7,Arson,28
+2023,7,Assault,742
+2023,7,Case Closure,20
+2023,7,Courtesy Report,47
+2023,7,Drug Violation,6
+2023,7,Embezzlement,7
+2023,7,Fire Report,21
+2023,7,Forgery And Counterfeiting,41
+2023,7,Fraud,375
+2023,7,Gambling,1
+2023,7,Homicide,3
+2023,7,"Human Trafficking (A), Commercial Sex Acts",2
+2023,7,Lost Property,316
+2023,7,Miscellaneous Investigation,165
+2023,7,Missing Person,258
+2023,7,Motor Vehicle Theft,934
+2023,7,Motor Vehicle Theft?,3
+2023,7,Offences Against The Family And Children,133
+2023,7,Other,108
+2023,7,Other Miscellaneous,642
+2023,7,Other Offenses,118
+2023,7,Rape,6
+2023,7,Recovered Vehicle,640
+2023,7,Robbery,307
+2023,7,Sex Offense,11
+2023,7,Stolen Property,37
+2023,7,Suicide,4
+2023,7,Suspicious Occ,204
+2023,7,Traffic Collision,49
+2023,7,Traffic Violation Arrest,69
+2023,7,Vehicle Impounded,13
+2023,7,Vehicle Misplaced,4
+2023,7,Warrant,326
+2023,7,Weapons Carrying Etc,71
+2023,7,Weapons Offense,88
+2023,8,Arson,35
+2023,8,Assault,748
+2023,8,Case Closure,30
+2023,8,Courtesy Report,44
+2023,8,Drug Violation,1
+2023,8,Embezzlement,2
+2023,8,Fire Report,15
+2023,8,Forgery And Counterfeiting,37
+2023,8,Fraud,382
+2023,8,Homicide,3
+2023,8,Lost Property,317
+2023,8,Miscellaneous Investigation,183
+2023,8,Missing Person,242
+2023,8,Motor Vehicle Theft,776
+2023,8,Offences Against The Family And Children,140
+2023,8,Other,120
+2023,8,Other Miscellaneous,682
+2023,8,Other Offenses,109
+2023,8,Recovered Vehicle,530
+2023,8,Robbery,310
+2023,8,Sex Offense,15
+2023,8,Stolen Property,58
+2023,8,Suicide,7
+2023,8,Suspicious,1
+2023,8,Suspicious Occ,217
+2023,8,Traffic Collision,39
+2023,8,Traffic Violation Arrest,57
+2023,8,Vehicle Impounded,5
+2023,8,Vehicle Misplaced,8
+2023,8,Warrant,343
+2023,8,Weapons Carrying Etc,65
+2023,8,Weapons Offense,84
+2023,9,Arson,23
+2023,9,Assault,749
+2023,9,Case Closure,17
+2023,9,Courtesy Report,32
+2023,9,Drug Violation,4
+2023,9,Embezzlement,9
+2023,9,Fire Report,15
+2023,9,Forgery And Counterfeiting,30
+2023,9,Fraud,344
+2023,9,Homicide,2
+2023,9,Lost Property,290
+2023,9,Miscellaneous Investigation,157
+2023,9,Missing Person,228
+2023,9,Motor Vehicle Theft,785
+2023,9,Offences Against The Family And Children,127
+2023,9,Other,100
+2023,9,Other Miscellaneous,758
+2023,9,Other Offenses,128
+2023,9,Rape,2
+2023,9,Recovered Vehicle,526
+2023,9,Robbery,290
+2023,9,Sex Offense,10
+2023,9,Stolen Property,45
+2023,9,Suicide,8
+2023,9,Suspicious Occ,223
+2023,9,Traffic Collision,21
+2023,9,Traffic Violation Arrest,97
+2023,9,Vehicle Impounded,16
+2023,9,Vehicle Misplaced,6
+2023,9,Warrant,335
+2023,9,Weapons Carrying Etc,71
+2023,9,Weapons Offense,112
+2023,10,Arson,26
+2023,10,Assault,778
+2023,10,Case Closure,11
+2023,10,Courtesy Report,35
+2023,10,Drug Violation,2
+2023,10,Embezzlement,7
+2023,10,Fire Report,12
+2023,10,Forgery And Counterfeiting,32
+2023,10,Fraud,285
+2023,10,Gambling,1
+2023,10,Homicide,7
+2023,10,Lost Property,303
+2023,10,Miscellaneous Investigation,150
+2023,10,Missing Person,211
+2023,10,Motor Vehicle Theft,714
+2023,10,Offences Against The Family And Children,137
+2023,10,Other,107
+2023,10,Other Miscellaneous,620
+2023,10,Other Offenses,88
+2023,10,Rape,2
+2023,10,Recovered Vehicle,490
+2023,10,Robbery,264
+2023,10,Sex Offense,16
+2023,10,Stolen Property,44
+2023,10,Suicide,2
+2023,10,Suspicious,2
+2023,10,Suspicious Occ,223
+2023,10,Traffic Collision,37
+2023,10,Traffic Violation Arrest,82
+2023,10,Vehicle Impounded,17
+2023,10,Vehicle Misplaced,7
+2023,10,Warrant,345
+2023,10,Weapons Carrying Etc,49
+2023,10,Weapons Offense,90
+2023,11,Arson,42
+2023,11,Assault,655
+2023,11,Case Closure,8
+2023,11,Courtesy Report,28
+2023,11,Drug Violation,2
+2023,11,Embezzlement,6
+2023,11,Fire Report,14
+2023,11,Forgery And Counterfeiting,36
+2023,11,Fraud,267
+2023,11,Homicide,5
+2023,11,Lost Property,255
+2023,11,Miscellaneous Investigation,131
+2023,11,Missing Person,185
+2023,11,Motor Vehicle Theft,656
+2023,11,Motor Vehicle Theft?,1
+2023,11,Offences Against The Family And Children,122
+2023,11,Other,84
+2023,11,Other Miscellaneous,592
+2023,11,Other Offenses,77
+2023,11,Rape,1
+2023,11,Recovered Vehicle,452
+2023,11,Robbery,222
+2023,11,Sex Offense,11
+2023,11,Stolen Property,34
+2023,11,Suicide,1
+2023,11,Suspicious Occ,184
+2023,11,Traffic Collision,22
+2023,11,Traffic Violation Arrest,64
+2023,11,Vehicle Impounded,9
+2023,11,Vehicle Misplaced,7
+2023,11,Warrant,246
+2023,11,Weapons Carrying Etc,46
+2023,11,Weapons Offense,76
+2023,12,Arson,35
+2023,12,Assault,638
+2023,12,Case Closure,12
+2023,12,Courtesy Report,35
+2023,12,Drug Violation,3
+2023,12,Embezzlement,5
+2023,12,Fire Report,26
+2023,12,Forgery And Counterfeiting,21
+2023,12,Fraud,194
+2023,12,Homicide,10
+2023,12,Lost Property,262
+2023,12,Miscellaneous Investigation,126
+2023,12,Missing Person,155
+2023,12,Motor Vehicle Theft,602
+2023,12,Motor Vehicle Theft?,3
+2023,12,Offences Against The Family And Children,115
+2023,12,Other,93
+2023,12,Other Miscellaneous,588
+2023,12,Other Offenses,78
+2023,12,Rape,2
+2023,12,Recovered Vehicle,429
+2023,12,Robbery,249
+2023,12,Sex Offense,6
+2023,12,Stolen Property,42
+2023,12,Suicide,1
+2023,12,Suspicious,1
+2023,12,Suspicious Occ,170
+2023,12,Traffic Collision,30
+2023,12,Traffic Violation Arrest,76
+2023,12,Vehicle Impounded,13
+2023,12,Vehicle Misplaced,3
+2023,12,Warrant,302
+2023,12,Weapons Carrying Etc,57
+2023,12,Weapons Offense,83
