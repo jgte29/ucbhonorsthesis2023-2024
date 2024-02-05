@@ -1,3 +1,9 @@
                       ,coef,se,p
 Boudin_ac_lc_c1,0.0132,0.095,0.4445
 Boudin_ac_lc_c2,-0.0301,0.083,0.359
+Boudin_vc_lc_c1,0.0562,0.101,0.2895
+Boudin_vc_lc_c2,0.1511*,0.105,0.075
+Boudin_ac_no23_lc_c1,-0.2339***,0.048,0.0
+Boudin_ac_no23_lc_c2,-0.2102***,0.061,0.0005
+Boudin_vc_no23_lc_c1,-0.1543***,0.06,0.005
+Boudin_vc_no23_lc_c2,-0.0702,0.072,0.1645
