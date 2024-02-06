@@ -1,0 +1,64 @@
+\documentclass[a4paper]{article}
+\usepackage{preamble}
+
+\title{Impact Analysis of the Chesa Boudin Administration}
+\author{Jordan G. Taqi-Eddin\\
+        \small University of California, Berkeley\\
+}
+\date{} % Comment this line to show today's date
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\textit{Insert Abstract Here} \\
+\blindtext
+\end{abstract} \hspace{10pt}
+
+%TC:ignore
+\keywords{\textit{Insert Keywords Here}}
+
+\begin{multicols}{2}
+[
+\section{Introduction}
+This is where I will put the introduction of my paper.
+]
+\blindtext\blindtext\blindtext
+
+\section{Literature Review}
+This is where I will put the Literature Review of my paper.
+]
+\blindtext\blindtext\blindtext
+\end{multicols}
+
+\import{./regression_tables}{ca_all_crimes.tex}
+\import{./regression_tables}{ca_violent_crimes.tex}
+\import{./regression_tables}{ca_noqol_crimes.tex}
+\import{./regression_tables}{incident_regs_std.tex}
+\import{./regression_tables}{incident_regs_nn.tex}
+\import{./regression_tables}{incident_regs_knn.tex}
+
+\newpage
+\import{./graphs/sfda_action_graphs_tex}{Monthly Log Total Of Prosecutions.tex}
+\import{./graphs/sfda_action_graphs_tex}{Monthly Log Total Of Convictions.tex}
+\import{./graphs/sfda_action_graphs_tex}{Monthly Log Total Of Successful Diversions.tex}
+
+\newpage
+\appendix
+\section*{Appendix}
+\addcontentsline{toc}{section}{Appendix}
+
+\section{2SLS First-Stage Model Performance}
+
+\import{./model_performance_tables}{first_stage_mses.tex}
+
+\newpage
+\begin{thebibliography}{00}
+\bibitem{b2} Insert Citations Here
+\end{thebibliography}
+%TC:endignore
+
+% Word count
+% \verbatiminput{\jobname.wordcount.tex}
+
+\end{document}

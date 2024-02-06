@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Impact Of The Boudin Administration On SFPD Incident Reports (Monthly, KNN 2SLS)}
+  \label{tab:regression_incidents_knn}
+  \begin{tabular}{lccccccc}
+    \toprule
+    & \multirow{1}{*}{(1)} & \multirow{1}{*}{(2)} & \multirow{1}{*}{(3)} & \multirow{1}{*}{(4)} & \multirow{1}{*}{(5)} & \multirow{1}{*}{(6)} \\
+    % & & & &\\ Option to have large \toprule. If uncommented change \multirow{1}{*} to \multirow{2}{*}
+    \midrule
+    \textit{Panel A. Second-Stage}  &   &   &  &  \\
+    1. $\widehat{\text{Log Prosecutions}}_{t-1}$  & -0.3437*** & -0.0709 & -0.3163*** & -0.0792 & -0.2027*** & 0.0031 \\
+     & (0.043) & (0.077) & (0.072) & (0.062) & (0.062) & (0.050) \\ \addlinespace
+     All Crimes & X & X & & & & \\
+     Violent Crimes & & & X & X & & \\
+     No QOL Crimes & & & & & X & X \\
+     Uses $Covid_1$ & X & & X & & X \\
+     Uses $Covid_2$ & & X & & X & & X \\
+    \bottomrule
+  \end{tabular}
+
+  \begin{flushleft}
+    \textit{Notes:} (a) Second-Stage Standard Errors are heteroscedasticity robust using (White, 1980) covariance matrix; (b) First-Stage equation calculated using a K-Nearest-Neighbors Algorithm \textit{See Appendix For Neural Network Model Selection}; (c)*** $p<0.01$, ** $p<0.05$, * $p<0.1$
+  \end{flushleft}
+\end{table}

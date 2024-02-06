@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+  \centering
+  \caption{Impact Of The Boudin Administration On SFPD Incident Reports (Monthly, Traditional 2SLS)}
+  \label{tab:regression_incidents_std}
+  \begin{tabular}{lccccccc}
+    \toprule
+    & \multirow{1}{*}{(1)} & \multirow{1}{*}{(2)} & \multirow{1}{*}{(3)} & \multirow{1}{*}{(4)} & \multirow{1}{*}{(5)} & \multirow{1}{*}{(6)} \\
+    % & & & &\\ Option to have large \toprule. If uncommented change \multirow{1}{*} to \multirow{2}{*}
+    \midrule
+    \textit{Panel A. First-Stage}  &   &   &  &  \\
+    1. $\text{Boudin}_{t-1}$  & -0.1609*** & -0.3788*** & -0.1609*** & -0.3788*** & -0.1609*** & -0.3788*** \\
+     & (0.025) & (0.070) & (0.025) & (0.070) & (0.0250) & (0.070)
+ \\ \addlinespace
+
+    \textit{Panel B. Second-Stage}  &   &   &  &  \\
+    1. $\widehat{\text{Log Prosecutions}}_{t-1}$  & -0.3342*** & -0.0828 & -0.3018*** & -0.0795 & -0.1935*** & -0.01160 \\
+     & (0.044) & (0.078) & (0.064) & (0.060) & (0.062) & (0.049) \\ \addlinespace
+     All Crimes & X & X & & & & \\
+     Violent Crimes & & & X & X & & \\
+     No QOL Crimes & & & & & X & X \\
+     Uses $Covid_1$ & X & & X & & X \\
+     Uses $Covid_2$ & & X & & X & & X \\
+    \bottomrule
+  \end{tabular}
+
+  \begin{flushleft}
+    \textit{Notes:} (a) Standard Errors are heteroscedasticity robust using (White, 1980) covariance matrix; \\
+    (b) First-Stage equation calculated using Generalized-Least Squares regression; (c)*** $p<0.01$, ** $p<0.05$, * $p<0.1$
+  \end{flushleft}
+\end{table}

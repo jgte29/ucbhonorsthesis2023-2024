@@ -1,0 +1,33 @@
+\begin{table}[htbp]
+  \centering
+  \caption*{Table A: MSE's of First-Stage Equations of Different 2SLS Models}
+  \label{tab:first_stage_mses}
+  \begin{tabular}{cccc}
+    \toprule
+    \textbf{Type} & \textbf{Model} & \textbf{Specifics} & \textbf{MSE} \\
+    \midrule
+    knn & ac\_c1 & [n\_neighbors: 12, weights: uniform] & 0.0032 \\
+    nn & ac\_c1 & [hidden\_layer\_sizes: (16, 16, 8), activation: tanh, optimizer: sgd] & 0.0048 \\
+    gls & ac\_c1 & - & 0.0053 \\
+    gls & ac\_c2 & - & 0.0181 \\
+    nn & ac\_c2 & [hidden\_layer\_sizes: (64, 32), activation: relu, optimizer: sgd] & 0.0185 \\
+    knn & ac\_c2 & [n\_neighbors: 9, weights: uniform] & 0.0208 \\
+    knn & noqol\_c1 & [n\_neighbors: 12, weights: uniform] & 0.0032 \\
+    gls & noqol\_c1 & - & 0.0053 \\
+    nn & noqol\_c1 & [hidden\_layer\_sizes: (16, 8), activation: tanh, optimizer: sgd] & 0.0053 \\
+    nn & noqol\_c2 & [hidden\_layer\_sizes: (16, 8), activation: relu, optimizer: sgd] & 0.0145 \\
+    gls & noqol\_c2 & - & 0.0181 \\
+    knn & noqol\_c2 & [n\_neighbors: 9, weights: uniform] & 0.0208 \\
+    knn & vc\_c1 & [n\_neighbors: 12, weights: uniform] & 0.0032 \\
+    nn & vc\_c1 & [hidden\_layer\_sizes: (32, 32, 16), activation: tanh, optimizer: adam] & 0.0052 \\
+    gls & vc\_c1 & - & 0.0053 \\
+    nn & vc\_c2 & [hidden\_layer\_sizes: (32, 32, 16), activation: relu, optimizer: sgd] & 0.0172 \\
+    gls & vc\_c2 & - & 0.0181 \\
+    knn & vc\_c2 & [n\_neighbors: 9, weights: uniform] & 0.0208 \\
+    \bottomrule
+  \end{tabular}
+  \begin{flushleft}
+    \textit{Notes:} (a) ac = All Crimes, vc = Violent Crimes, noqol = No Quality-of-Life Crimes
+    (b) c1 = $Covid_1$, c2 = $Covid_2$
+  \end{flushleft}
+\end{table}
