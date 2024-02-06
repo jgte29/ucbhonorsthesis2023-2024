@@ -1,0 +1,19 @@
+type,model,specifics,mse
+2sls,ac_c1,-,0.005264162377386042
+2sls,ac_c2,-,0.018075453602853443
+2sls,vc_c1,-,0.005264162377386042
+2sls,vc_c2,-,0.018075453602853443
+2sls,noqol_c1,-,0.005264162377386042
+2sls,noqol_c2,-,0.018075453602853443
+nn,ac_c1,"{'hidden_layer_sizes': (16, 16, 8), 'activation': 'tanh', 'optimizer': 'sgd'}",0.004756014403983973
+nn,ac_c2,"{'hidden_layer_sizes': (64, 32), 'activation': 'relu', 'optimizer': 'sgd'}",0.01848692826420999
+nn,vc_c1,"{'hidden_layer_sizes': (32, 32, 16), 'activation': 'tanh', 'optimizer': 'adam'}",0.005240589962654855
+nn,vc_c2,"{'hidden_layer_sizes': (32, 32, 16), 'activation': 'relu', 'optimizer': 'sgd'}",0.01723649031058847
+nn,noqolc_c1,"{'hidden_layer_sizes': (16, 8), 'activation': 'tanh', 'optimizer': 'sgd'}",0.005315094121442449
+nn,noqolc_c2,"{'hidden_layer_sizes': (16, 8), 'activation': 'relu', 'optimizer': 'sgd'}",0.014517182935032654
+knn,ac_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0031675040166760076
+knn,ac_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0207676708472125
+knn,vc_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0031675040166760076
+knn,vc_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0207676708472125
+knn,noqolc_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0031675040166760076
+knn,noqolc_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0207676708472125
