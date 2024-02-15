@@ -1,19 +1,19 @@
 type,model,specifics,mse
 knn,ac_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0032
 nn,ac_c1,"{'hidden_layer_sizes': (16, 16, 8), 'activation': 'tanh', 'optimizer': 'sgd'}",0.0048
-2sls,ac_c1,-,0.0053
-2sls,ac_c2,-,0.018075454
+gls,ac_c1,-,0.0053
+gls,ac_c2,-,0.0181
 nn,ac_c2,"{'hidden_layer_sizes': (64, 32), 'activation': 'relu', 'optimizer': 'sgd'}",0.0185
 knn,ac_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0208
 knn,noqol_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0032
-2sls,noqol_c1,-,0.0053
+gls,noqol_c1,-,0.0053
 nn,noqol_c1,"{'hidden_layer_sizes': (16, 8), 'activation': 'tanh', 'optimizer': 'sgd'}",0.0053
-nn,noqol_c2,"{'hidden_layer_sizes': (16, 8), 'activation': 'relu', 'optimizer': 'sgd'}",0.014517183
-2sls,noqol_c2,-,0.018075454
-knn,noqol_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.020767671
+nn,noqol_c2,"{'hidden_layer_sizes': (16, 8), 'activation': 'relu', 'optimizer': 'sgd'}",0.0145
+gls,noqol_c2,-,0.0181
+knn,noqol_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0208
 knn,vc_c1,"{'n_neighbors': 12, 'weights': 'uniform'}",0.0032
 nn,vc_c1,"{'hidden_layer_sizes': (32, 32, 16), 'activation': 'tanh', 'optimizer': 'adam'}",0.0052
-2sls,vc_c1,-,0.0053
+gls,vc_c1,-,0.0053
 nn,vc_c2,"{'hidden_layer_sizes': (32, 32, 16), 'activation': 'relu', 'optimizer': 'sgd'}",0.0172
-2sls,vc_c2,-,0.018075454
+gls,vc_c2,-,0.0181
 knn,vc_c2,"{'n_neighbors': 9, 'weights': 'uniform'}",0.0208
