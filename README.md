@@ -2,6 +2,6 @@
 
 Jordan G. Taqi-Eddin
 
-University of California - Berkeley,  Class of 2024
+University of California - Berkeley
 
-UC Berkeley CDSS Data Science Honors Program 2024
+CDSS Data Science Honors Program 2024
