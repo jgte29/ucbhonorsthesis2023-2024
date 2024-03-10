@@ -1,2 +1,3 @@
 # Impact Analysis of the Chesa Boudin Administration
-## Jordan G. Taqi-Eddin
+
+Jordan G. Taqi-Eddin
