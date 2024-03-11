@@ -13,3 +13,10 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
 1. Clone the repository on your local device:
    ```bash
    git clone https://github.com/jgte29/team-casimir-funk-proj02.git
+2. Repository Structure:
+   ```bash
+   └───analysis
+    ├───ic_data
+    ├───model_performances
+    ├───regressions
+    └───sf_data
