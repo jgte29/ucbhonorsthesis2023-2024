@@ -55,8 +55,13 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    ```
 
 ## Data Processing Pipeline
-1. Data Retrieval
-   -  In my analysis, I depend on three distinct data sources: information on SFDA case actions, SFPD incident reports, and geospatial data for San Francisco neighborhoods. 
+1. Data Retrieval <br>
+   In my analysis, I depend on three distinct data sources: information on SFDA case actions, SFPD incident reports, and geospatial data for San Francisco neighborhoods.
+   -  The San Francisco case actions dataset is generated and overseen by the city's open data portal, DataSF. When the SFDA (San Francisco District Attorney) files charges against a defendant, relevant data is manually entered into the District Attorney Office's case management system. Approximately on a weekly basis, reports are extracted from this system, undergo cleaning and anonymization processes, and are subsequently integrated into the DataSF portal.
+
+Covering cases from January 2014 to the present, the dataset comprises information on over 100 thousand cases presented to the District Attorney's Office. It specifically includes cases where the office initiated prosecution by filing new criminal charges or submitting a motion to revoke probation or parole (MTR). Cases handled by the San Francisco Adult Probation Department or the state Division of Adult Parole Operations, which initiate a motion to revoke, are not included.
+
+In instances of new criminal charges, the most serious offense type is designated as the primary offense for prosecution by the SFDA. For MTR cases, the categorization is based on the initial prosecution, as filing an MTR indicates a pursuit of a new sanction within the sentence of a prior criminal conviction, rather than filing new charges for the latest offense. The filing date for MTRs is determined by the date when the SFDA filed the MTR for the new arrest.
 2. Exploratory Data Analysis
    - Temporal & Spatial Aggregation
    - Feature Engineering
