@@ -77,7 +77,9 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    <ins>**Note**</ins> For more detailed information on the temporal aggregation and feature engineering for the datasets I use in my analysis, refer to the **Data** section of my paper.
 3. Modeling
    - Regression Discontinuity Design Model:
-      - (1) \hspace{0.25cm} $Y_{m,t} = \beta_{0} + \beta_{1} \times \textbf{1}(Boudin)__{m,t} + \mu__{m} + \pi__{m,t} + \epsilon_{m,t}$
+      - (1) \hspace{0.25cm} $$
+        Y_{m,t} = \beta_{0} + \beta_{1} \times \textbf{1}(Boudin)_{m,t} + \mu_{m} + \pi_{m,t} + \epsilon_{m,t}
+        $$
       - $Y_{m,t} \text{ = Dependent Variable in month m during year t}$
       - $Boudin_{m, t} \text{ = Binary Indicator for whether Chesa Boudin was in office during month m in year t}$
       - $\mu_{m} \text{ = Monthly Fixed-Effects}$
