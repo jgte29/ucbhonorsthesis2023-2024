@@ -54,13 +54,13 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
          └───Outcomes_of_SFPD_Incidents_All_Crimes.csv
    ```
 
-   ## Data Processing Pipeline
-   1. Data Retrieval
-      -  *Insert Text Here*
-   2. Exploratory Data Analysis
-      - Temporal & Spatial Aggregation
-      - Feature Engineering
-   3. Modeling
-      - Model A:
-      - Model B:
+## Data Processing Pipeline
+1. Data Retrieval
+   -  *Insert Text Here*
+2. Exploratory Data Analysis
+   - Temporal & Spatial Aggregation
+   - Feature Engineering
+3. Modeling
+   - Model A:
+   - Model B:
    
