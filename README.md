@@ -52,6 +52,7 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
          ├───DA_Actions_On_Arrests_Violent_Crimes.csv
          ├───District_Attorney_Cases_Prosecuted.csv
          └───Outcomes_of_SFPD_Incidents_All_Crimes.csv
+   ```
 
    ## Data Processing Pipeline
    1. Data Retrieval
