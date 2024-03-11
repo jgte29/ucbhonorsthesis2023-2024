@@ -15,6 +15,7 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    git clone https://github.com/jgte29/ucbhonorsthesis2023-2024.git
 2. Repository Structure:
    ```
+   ├───Impact Analysis of the Chesa Boudin Administration (Working Draft).pdf
    └───analysis
       ├───ic_data
          ├───ica_by_month_master.csv
