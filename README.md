@@ -73,11 +73,18 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    - <ins>SFDA Case Actions</ins>: <br>
       In obtaining synthetic treatment and time-fixed effects for my analysis, I employed various methods. The development of the monthly time-fixed effect was straightforward, as it naturally emerged during the temporal aggregation process. However, acquiring the time-fixed effect associated with the COVID-19 pandemic and the indicator for Chesa Boudin being in office demanded a more nuanced approach. To account for the COVID-19 pandemic, I adopted two different strategies. The first involved a simple cutoff at March 2020, marking the commencement of Shelter-In-Place Orders in California (Friedson et al., 2021). The second approach utilized a timeframe from March 2020 to the end of 2021, aligning with the literature suggesting the transition of COVID-19 to its endemic phase by the close of 2021 (Ioannidis, 2022). As SFDA action dates were unavailable in the case actions dataset, I implemented a lagging strategy to approximate when these actions occurred. Calculating the average Median Number of Days from Arrest to Conviction for the period from 2020 to 2022 revealed approximately 307 days (10 months) for all crimes and 426 days (14 months) for the subset of violent crimes. Consequently, for cases with arrest dates toward the end of Boudin's tenure, it was improbable that any conviction or successful diversion took place during his administration. Thus, the cutoffs for case actions under the Boudin administration are lagged by 10 and 14 months in the datasets for all crimes and violent crimes, respectively.
    - <ins>SFPD Incident Reports</ins>: <br>
-      In incorporating month and COVID time-fixed effects, I apply a strategy parallel to the one used for the SFDA case actions dataset. However, for the synthetic treatment, I choose not to use lagging, adopting a similar approach to the one employed when analyzing prosecutions in the case actions dataset.
+      In incorporating month and COVID time-fixed effects, I apply a strategy parallel to the one used for the SFDA case actions dataset. However, for the synthetic treatment, I choose not to use lagging, adopting a similar approach to the one employed when analyzing prosecutions in the case actions dataset. <br>
    <ins>**Note**</ins> For more detailed information on the temporal aggregation and feature engineering for the datasets I use in my analysis, refer to the **Data** section of my paper.
 3. Modeling
-   - Model A:
-   - Model B:
+   - Regression Discontinuity Design Model:
+   - $Y_{m, t} = \beta_0 + \beta_1 \textbf{1}(Boudin)_{m, t} + \mu_{m} + \pi_{m, t} + \epsilon_{m, t}$
+      - $Y_{m,t} \text{ = Dependent Variable in month m during year t}$
+      - $Boudin_{m, t} \text{ = Binary Indicator for whether Chesa Boudin was in office during month m in year t}$
+      - $\mu_{m} \text{ = Monthly Fixed-Effects}$
+      - $\pi_{m, t} \text{ = COVID Pandemic Fixed-Effect; Either } COVID_1 \text{ or } COVID_2$
+      - $COVID_1 \text{ = COVID using simple cuttoff at the start of the CA Shelter-In-Place-Orders, March 2020}$
+      - $COVID_2 \text{ = COVID using a range from March 2020 to the end of 2021, when the virus became endemic}$
+   - 2SLS Model:
 4. References:
    - Andrew I Friedson, Drew McNichols, Joseph J Sabia, and Dhaval Dave. 2021. Shelter-in-place orders and public health: evidence from California
 during the Covid-19 pandemic. Journal of Policy Analysis and Management 40, 1 (2021), 258–283.
