@@ -24,5 +24,31 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
          ├───incident_counts_by_crime_master.csv
          └───incident_counts_v_master.csv
       ├───model_performances
+         ├───first_stage_mses.csv
+         ├───ica_c1_knn_model_performance.csv
+         ├───ica_c1_nn_model_performance.csv
+         ├───ica_c2_knn_model_performance.csv
+         ├───ica_c2_nn_model_performance.csv
+         ├───icnoqol_c1_knn_model_performance.csv
+         ├───icnoqol_c1_nn_model_performance.csv
+         ├───icnoqol_c2_knn_model_performance.csv
+         ├───icnoqol_c2_nn_model_performance.csv
+         ├───icv_c1_knn_model_performance.csv
+         ├───icv_c1_nn_model_performance.csv
+         ├───icv_c2_knn_model_performance.csv
+         └───icv_c2_nn_model_performance.csv
       ├───regressions
+         ├───log_conviction_regressions.csv
+         ├───log_incident_tots_regressions.csv
+         ├───log_incident_tots_regressions_kmeans.csv
+         ├───log_incident_tots_regressions_nn.csv
+         ├───log_prosecutions_lag1_regressions.csv
+         ├───log_prosecutions_regressions.csv
+         └───log_successful_diversion_regressions.csv
       └───sf_data
+         ├───Case_Resoultions_All_Crimes.csv
+         ├───Case_Resoultions_Violent_Crimes.csv
+         ├───DA_Actions_On_Arrests_All_Crimes.csv
+         ├───DA_Actions_On_Arrests_Violent_Crimes.csv
+         ├───District_Attorney_Cases_Prosecuted.csv
+         └───Outcomes_of_SFPD_Incidents_All_Crimes.csv
