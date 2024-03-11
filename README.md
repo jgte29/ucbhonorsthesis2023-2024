@@ -14,9 +14,15 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    ```bash
    git clone https://github.com/jgte29/team-casimir-funk-proj02.git
 2. Repository Structure:
-   ```bash
+   ```
    └───analysis
-    ├───ic_data
-    ├───model_performances
-    ├───regressions
-    └───sf_data
+      ├───ic_data
+         ├───ica_by_month_master.csv
+         ├───icv_by_month_master.csv
+         ├───ic_noqol_by_month_master.csv
+         ├───incident_counts_a_master.csv
+         ├───incident_counts_by_crime_master.csv
+         └───incident_counts_v_master.csv
+      ├───model_performances
+      ├───regressions
+      └───sf_data
