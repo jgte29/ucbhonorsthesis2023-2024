@@ -77,11 +77,11 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
    <ins>**Note**</ins> For more detailed information on the temporal aggregation and feature engineering for the datasets I use in my analysis, refer to the **Data** section of my paper.
 3. Modeling
    - Regression Discontinuity Design Model:
-      - $Y_{m,t} = \beta_0 + \beta_1 \textbf{1}(Boudin)_{m, t} + \epsilon_{m, t}$ 
       - $Y_{m,t} \text{ = Dependent Variable in month m during year t}$
       - $Boudin_{m, t} \text{ = Binary Indicator for whether Chesa Boudin was in office during month m in year t}$
       - $\mu_{m} \text{ = Monthly Fixed-Effects}$
       - $\pi_{m, t} \text{ = COVID Pandemic Fixed-Effect; Either } COVID_1 \text{ or } COVID_2$
+      - $Y_{m,t} = \beta_0 + \beta_1 \textbf{1}(Boudin)_{m, t} + \mu_{m} + \pi_{m, t} + \epsilon_{m, t}$ 
       - $COVID_1 \text{ = COVID using simple cuttoff at the start of the CA Shelter-In-Place-Orders, March 2020}$
       - $COVID_2 \text{ = COVID using a range from March 2020 to the end of 2021, when the virus became endemic}$
    - 2SLS Model:
