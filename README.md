@@ -56,7 +56,7 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
 
 ## Data Processing Pipeline
 1. Data Retrieval
-   -  *Insert Text Here*
+   -  In my analysis, I depend on three distinct data sources: information on SFDA case actions, SFPD incident reports, and geospatial data for San Francisco neighborhoods. 
 2. Exploratory Data Analysis
    - Temporal & Spatial Aggregation
    - Feature Engineering
