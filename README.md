@@ -76,15 +76,8 @@ The ousting of Chesa Boudin as the district attorney of San Francisco was fueled
       In incorporating month and COVID time-fixed effects, I apply a strategy parallel to the one used for the SFDA case actions dataset. However, for the synthetic treatment, I choose not to use lagging, adopting a similar approach to the one employed when analyzing prosecutions in the case actions dataset. <br>
    <ins>**Note**</ins> For more detailed information on the temporal aggregation and feature engineering for the datasets I use in my analysis, refer to the **Data** section of my paper.
 3. Modeling
-   - Regression Discontinuity Design Model:
-      - Y_{m,t} = \beta_0 + \beta_1 \mathbf{1}(Boudin)_{m, t} + \mu_{m} + \pi_{m, t} + \epsilon_{m, t}
-      - $Y_{m,t} \text{ = Dependent Variable in month m during year t}$
-      - $Boudin_{m, t} \text{ = Binary Indicator for whether Chesa Boudin was in office during month m in year t}$
-      - $\mu_{m} \text{ = Monthly Fixed-Effects}$
-      - $\pi_{m, t} \text{ = COVID Pandemic Fixed-Effect; Either } COVID_1 \text{ or } COVID_2$
-      - $COVID_1 \text{ = COVID using simple cuttoff at the start of the CA Shelter-In-Place-Orders, March 2020}$
-      - $COVID_2 \text{ = COVID using a range from March 2020 to the end of 2021, when the virus became endemic}$
-   - 2SLS Model:
+- I employ a regression discontinuity design to establish a causal connection between Chesa Boudin's tenure as SFDA and the occurrences of prosecutions, convictions, and successful diversions. Subsequently, I extend this quasi-experimental framework by leveraging Boudin's administration as an instrumental variable in exploring the effects of prosecutions on crime levels.
+- For more detailed information on these models, refer to the **Methodology** section of my paper.
 4. References:
    - Andrew I Friedson, Drew McNichols, Joseph J Sabia, and Dhaval Dave. 2021. Shelter-in-place orders and public health: evidence from California
 during the Covid-19 pandemic. Journal of Policy Analysis and Management 40, 1 (2021), 258–283.
